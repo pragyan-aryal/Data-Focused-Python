@@ -11,8 +11,6 @@ start = 0
 
 pagination_url = 'https://www.indeed.com/jobs?q={}&l={}&sc={}&start={}&from=searchOnHP&filter=0&sort=date'
 
-p_url = ''
-
 page = ChromiumPage()
 
 for e in expl_lvl:
@@ -36,8 +34,6 @@ for e in expl_lvl:
 
 	st = time.time()
 
-	limit = False
-
 	while len(jobs_list_upper) <= total_jobs:
 		l_ = 'Currently at Page ' + str((start // 10) + 1).ljust(3) + ' of job ' + category_code + ' for ' + e
 		l_ = l_ + '. Fetched ' + '{:3.2f}'.format((len(jobs_list_upper) / total_jobs) * 100) + '% jobs in this category'
@@ -47,9 +43,6 @@ for e in expl_lvl:
 		print(l_)
 
 		if len(jobs_list_upper) != 0:
-			if limit:
-				page.get(p_url.format(start))
-
 			err = False
 			while not err:
 				try:
@@ -116,13 +109,10 @@ for e in expl_lvl:
 
 		start = start + 10
 
-		if not limit:
-			try:
-				page.ele((By.CSS_SELECTOR, 'a[data-testid=pagination-page-next]')).click()
-			except Exception:
-				limit = True
-				fgh = page.url.split('&start=' + str(start - 10))
-				p_url = fgh[0] + '&start={}' + fgh[1]
+		try:
+			page.ele((By.CSS_SELECTOR, 'a[data-testid=pagination-page-next]')).click()
+		except Exception:
+			break
 
 	end = time.time()
 	difference = end - st
