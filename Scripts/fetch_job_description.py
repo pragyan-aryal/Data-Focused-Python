@@ -5,7 +5,7 @@ import pandas as pd
 
 code = 'BA'
 
-records = pd.read_csv('../Data/Clean/' + code + '.tsv', sep='\t')
+records = pd.read_csv(code + '.tsv', sep='\t')
 
 jobKeys = [records.loc[i, "Key"] for i in range(len(records))]
 
