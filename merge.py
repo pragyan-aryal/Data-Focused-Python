@@ -1,0 +1,164 @@
+import time
+from DrissionPage import ChromiumPage
+from bs4 import BeautifulSoup
+from selenium.webdriver.common.by import By
+
+expl_lvl = ['ENTRY_LEVEL', 'SENIOR_LEVEL', 'MID_LEVEL']
+job_ = 'Software+Engineer'
+location = 'United+States'
+category_code = 'SE'
+start = 0
+
+pagination_url = 'https://www.indeed.com/jobs?q={}&l={}&sc={}&start={}&from=searchOnHP'
+
+page = ChromiumPage()
+
+for e in expl_lvl:
+	page.get(pagination_url.format(job_, location, '0kf:explvl(' + e + ');', start))
+	page.wait.load_complete()
+
+	err = False
+	while not err:
+		try:
+			page.wait.ele_display('.resultContent', timeout=20)
+			err = True
+		except Exception:
+			time.sleep(10)
+
+	soup = BeautifulSoup(page.html, 'lxml')
+
+	t_job = soup.find_all('div', {'class': 'jobsearch-JobCountAndSortPane-jobCount'})
+	total_jobs = int(t_job[0].find('span').text.split(' jobs')[0].replace(',', ''))
+
+	jobs_list_upper = []
+
+	st = time.time()
+
+	while len(jobs_list_upper) <= total_jobs:
+		l_ = 'Currently at Page ' + str((start // 10) + 1).ljust(3) + ' of job ' + category_code + ' for ' + e
+		l_ = l_ + '. Fetched ' + '{:3.2f}'.format((len(jobs_list_upper) / total_jobs) * 100) + '% jobs in this category'
+		l_ = l_ + '. Remaining ' + str(total_jobs - len(jobs_list_upper)).ljust(len(str(total_jobs))) + ' jobs'
+		l_ = l_ + '. Completed ' + str(len(jobs_list_upper)).ljust(len(str(total_jobs))) + ' jobs.'
+
+		print(l_)
+
+		if len(jobs_list_upper) != 0:
+			page.get(pagination_url.format(job_, location, '0kf:explvl(' + e + ');', start))
+			page.wait.load_complete()
+
+			err = False
+			while not err:
+				try:
+					page.wait.ele_display((By.XPATH, '//*[@id="mosaic-provider-jobcards"]/ul/li[1]/div'), timeout=20)
+					err = True
+				except Exception:
+					time.sleep(10)
+
+		soup = BeautifulSoup(page.html, 'lxml')
+		jobs = soup.find_all('div', {'class': 'cardOutline'})
+
+		els = page.eles('xpath://*[@id="mosaic-provider-jobcards"]/ul/li')
+
+		jobs_list = []
+		for el in els:
+			err = False
+
+			while not err:
+				try:
+					el.ele('t:div').attrs['class'][:11] == 'cardOutline'
+					err = True
+				except Exception:
+					print(page.url)
+					time.sleep(10)
+
+			if el.ele('t:div').attrs['class'][:11] == 'cardOutline':
+				if len(jobs_list_upper) != 0:
+					# time.sleep(1)
+
+					el.click()
+					time.sleep(0.7)
+					page.wait.load_complete()
+
+					err = False
+					while not err:
+						try:
+							page.wait.ele_display((By.XPATH, '//*[@id="mosaic-provider-jobcards"]/ul/li[1]/div'), timeout=20)
+							err = True
+						except Exception:
+							print(page.url)
+							time.sleep(10)
+
+				j_ = {}
+
+				try:
+					j_['company'] = jobs[0].find('span', attrs={'data-testid': 'company-name'}).text
+				except Exception:
+					j_['company'] = 'NA'
+
+				try:
+					j_['title'] = jobs[0].find('h2', {'class': 'jobTitle'}).text
+				except Exception:
+					j_['title'] = 'NA'
+
+				try:
+					j_['location'] = jobs[0].find('div', attrs={'data-testid': 'text-location'}).text
+				except Exception:
+					j_['location'] = 'NA'
+
+				j_['category_code'] = category_code
+				j_['experience_level'] = e
+
+				try:
+					salary = jobs[0].find('div', {'class': 'metadata salary-snippet-container'}).text
+					j_['salary'] = salary
+				except Exception:
+					try:
+						salary = jobs[0].find('div', {'class': 'metadata estimated-salary-container'}).text
+						j_['salary'] = salary
+					except Exception:
+						j_['salary'] = 'NA'
+
+				try:
+					y = BeautifulSoup(page.html, 'lxml')
+					d = y.find('div', {'id': 'jobDescriptionText'})
+					g = d.extract()
+					f = [h.text.replace('\n', '') for h in g if h.text != '\n']
+
+					# This is the string of Job Description
+					a = ''.join(f)
+					j_['skills'] = a
+				except Exception:
+					j_['skills'] = 'NA'
+
+				jobs.pop(0)
+
+				jobs_list.append(j_)
+				jobs_list_upper.append(j_)
+
+				time.sleep(0.5)
+
+		with open(category_code + '_' + e + '.tsv', 'a', encoding='utf-8') as outfile:
+			for i in jobs_list:
+				b = '\t'.join(i.values())
+				outfile.write(b + '\n')
+		outfile.close()
+
+		with open(category_code + '_' + e + '.log', 'a') as outfile:
+			outfile.write(l_ + '\n')
+
+		outfile.close()
+
+		start = start + 10
+
+	end = time.time()
+	difference = end - st
+
+	minute = difference / 60
+
+	with open(category_code + '_' + e + '.log', 'a') as outfile:
+		outfile.write('\n\nThe time taken to run this job is ' + str(round(minute, 2)) + '\n')
+	outfile.close()
+
+	start = 0
+
+page.quit()
