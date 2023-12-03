@@ -154,7 +154,7 @@ for e in expl_lvl:
 
     with open(category_code + "_" + e + ".log", "a") as outfile:
         outfile.write(
-            "\n\nThe time taken to run this job is " + str(round(minute, 2)) + "\n"
+            "\n\nThe time taken to fetch these jobs is " + str(round(minute, 2)) + "\n"
         )
     outfile.close()
 
