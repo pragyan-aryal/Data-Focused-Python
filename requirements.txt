@@ -6,3 +6,4 @@ streamlit
 altair
 pandas
 st_pages
+plotly

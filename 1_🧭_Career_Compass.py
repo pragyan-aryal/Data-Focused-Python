@@ -36,8 +36,6 @@ with col4:
 
 st.divider()
 
-
-
 col5, col6 = st.columns([3, 1])
 
 with col5:
