@@ -1,9 +1,10 @@
-import streamlit as st
+from st_pages import Page, show_pages
 
-st.set_page_config(
-    page_title = "Career Compass",
-    page_icon= "🧭",
+show_pages(
+    [
+        Page("streamlit_app.py", "Career Compass"),
+        Page("pages/H1B.py"),
+        Page("pages/Map.py"),
+    ]
 )
 
-st.title("🧭 Career Compass")
-st.sidebar.success("Select a page above")
