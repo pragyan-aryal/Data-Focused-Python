@@ -31,12 +31,9 @@ selected_category = job_to_category[selected_job]
 # Filtering the dataframe based on chosen job title
 filtered_df = df[df['Category'] == selected_category]
 
-
-# filtered_df = filtered_df[['latitude', 'longitude', 'region']][selected_category]
-
 fig = px.density_mapbox(filtered_df, lat = 'latitude', lon = 'longitude',
                         radius = 8,
-                        # center = dict(lat = 42.83, lon = -8.35),
-                        zoom = 2,
+                        zoom = 2.5,
+                        color_continuous_scale=["blue", "green", "yellow", "red"],
                         mapbox_style = 'open-street-map')
 st.plotly_chart(fig)
