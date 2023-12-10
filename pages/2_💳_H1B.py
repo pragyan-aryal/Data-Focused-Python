@@ -17,8 +17,8 @@ category_to_job = {
     'FEA': "FEA Engineer",
     'CE': "Civil Engineer"
 }
-
-st.title("Career Compass")
+st.set_page_config(layout="centered")
+st.title("H1B Sponsorship Information")
 
 job_to_category = {v: k for k, v in category_to_job.items()}
 
