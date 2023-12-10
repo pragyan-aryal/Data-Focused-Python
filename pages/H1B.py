@@ -18,6 +18,8 @@ category_to_job = {
     'CE': "Civil Engineer"
 }
 
+st.title("Career Compass")
+
 job_to_category = {v: k for k, v in category_to_job.items()}
 
 # Let the user select a job title
