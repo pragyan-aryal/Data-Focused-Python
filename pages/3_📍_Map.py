@@ -17,7 +17,7 @@ category_to_job = {
     'FEA': "FEA Engineer",
     'CE': "Civil Engineer"
 }
-
+st.set_page_config(layout="wide")
 st.title("Map")
 
 job_to_category = {v: k for k, v in category_to_job.items()}
@@ -36,4 +36,5 @@ fig = px.density_mapbox(filtered_df, lat = 'latitude', lon = 'longitude',
                         zoom = 2.5,
                         color_continuous_scale=["blue", "green", "yellow", "red"],
                         mapbox_style = 'open-street-map')
-st.plotly_chart(fig)
+fig.update_layout(height=800, width=1000)
+st.plotly_chart(fig, use_container_width=True)
