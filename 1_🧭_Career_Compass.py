@@ -33,3 +33,20 @@ with col3:
 
 with col4:
       st.image('Images/Prakhar.png', caption='Prakhar Sharma')
+
+st.divider()
+
+
+
+col5, col6 = st.columns([3, 1])
+
+with col5:
+      st.subheader("Course: Data Focused Python")
+      st.image('Images/CMU.png')
+
+with col6:
+      st.subheader("Data used:")
+      st.link_button("Indeed", "https://www.indeed.com/")
+      st.link_button("USA Jobs", "https://www.usajobs.gov/")
+      st.link_button("Geo Locations", "https://positionstack.com/")
+      st.link_button("H1B Data", "https://h1bgrader.com/")
