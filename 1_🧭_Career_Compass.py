@@ -5,7 +5,7 @@ st.set_page_config(
     page_icon= "🧭",
 )
 
-st.title("Career Compass")
+st.title("🧭 Career Compass")
 
 st.sidebar.success("Select a page above")
 
