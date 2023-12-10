@@ -42,7 +42,7 @@ col5, col6 = st.columns([3, 1])
 
 with col5:
       st.subheader("Course: Data Focused Python")
-      st.image('Images/CMU.png')
+      st.image('Images/CMU.png', width=200)
 
 with col6:
       st.subheader("Data used:")
