@@ -1,6 +1,6 @@
-numpy~=1.25.2
-requests~=2.31.0
-beautifulsoup4~=4.12.2
+numpy
+requests
+beautifulsoup4
 matplotlib
 streamlit
 altair
