@@ -9,7 +9,7 @@ st.title("Career Compass")
 
 st.sidebar.success("Select a page above")
 
-st.header('🎯Vision', divider='black')
+st.header('🎯Vision', divider='rainbow')
 
 multi = '''Empower job seekers by providing comprehensive data on job opportunities,
 required skills, salary ranges, visa sponsorship, and location-specific hiring trends,
