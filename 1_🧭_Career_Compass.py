@@ -16,3 +16,20 @@ required skills, salary ranges, visa sponsorship, and location-specific hiring t
 allowing users to make informed career decisions.
 '''
 st.markdown(multi)
+
+st.header('🤓Team', divider='rainbow')
+
+
+col1, col2, col3, col4 = st.columns(4)
+
+with col1:
+      st.image('Images/Pragyan.jpg', caption='Pragyan Aryal')
+
+with col2:
+      st.image('Images/Ankita.png', caption='Ankita Bodigam')
+
+with col3:
+      st.image('Images/Amogh.jpg', caption='Amogh Borikar')
+
+with col4:
+      st.image('Images/Prakhar.png', caption='Prakhar Sharma')
