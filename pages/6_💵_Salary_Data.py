@@ -12,7 +12,7 @@ salary_bins = [0, 75000, 100000, 125000, float('inf')]
 salary_labels = ['<75000', '75000-100000', '100000-125000', '125000 and above']
 
 # Streamlit app
-st.title('💵 Salary Distribution Dashboard')
+st.title('💵 Salary Distribution')
 
 col1, col2 = st.columns(2)
 
