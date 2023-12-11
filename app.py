@@ -22,7 +22,7 @@ print('Welcome to Career Compass')
 print('\n')
 print('You have 3 option to use this application')
 print('1.: Scrape the Fresh Data (It will pull 10 different job titles data) (Time Taken: 24 hrs +)')
-print('2.: Scrape the Sample Data (It will pull limited data for 1 job title) (Time Taken: 30 minute)')
+print('2.: Scrape the Sample Data (It will pull limited data for 1 job title) (Time Taken: 5-10 minute)')
 print('3.: Continue with the existing data')
 
 print('\n')
