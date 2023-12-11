@@ -33,7 +33,7 @@ fig = px.bar(skills, x=skills.index, y=skills.values, width=1400, height=600)
 
 fig.update_layout(
     title='Top Skills',
-    xaxis_title='Skill', 
+    xaxis_title='Type', 
     yaxis_title='Number of Occurrences in Job Descriptions'
 )
 st.write(fig)
