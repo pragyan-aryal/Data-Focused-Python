@@ -9,6 +9,8 @@ jobs = [('Software Engineer', 'SE'), ('Data Engineer', 'DE'), ('Data Analyst', '
 
 def h1b_scrape(j1=jobs, sample="All"):
     # fetching data through API
+    print('\nCurrently Fetching H1B Data')
+
     conn = http.client.HTTPSConnection("h1bgrader.com")
 
     headersList = {

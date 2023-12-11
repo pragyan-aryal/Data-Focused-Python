@@ -4,7 +4,7 @@ import pandas as pd
 def merge_data(codes, sample="All"):
     frame = []
 
-    print('\n Currently merging all the job data into single file')
+    print('\nCurrently merging all the job data into single file')
 
     for code in codes:
         try:

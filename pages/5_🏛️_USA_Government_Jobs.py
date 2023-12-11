@@ -3,7 +3,7 @@ import pandas as pd
 import plotly.express as px
 import re
 
-df = pd.read_csv(r'Data/USA_Jobs_Data.csv')
+df = pd.read_csv('Final_Data/Final/USA_JOBS.csv')
 
 st.set_page_config(layout="wide")
 st.title("🏛️ Government Jobs")

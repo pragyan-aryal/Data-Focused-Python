@@ -3,7 +3,7 @@ import re
 
 
 def clean_salary(sample="All"):
-    print('\n Currently cleaning the salary info for each job')
+    print('\nCurrently cleaning the salary info for each job')
 
     df = pd.read_parquet('Final_Data/' + sample + '/merged.parquet')
 

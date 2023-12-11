@@ -6,7 +6,20 @@ import requests
 from bs4 import BeautifulSoup
 
 
-def get_jobs(sample="All"):
+# Find job listings based on specific job titles
+job_ti = [
+    "Data Analyst",
+    "Data Engineer",
+    "Business Analyst",
+    "Product Manager",
+    "Project Manager",
+    "Mechanical Engineer",
+    "Civil Engineer",
+    "Software Engineer"
+]
+
+
+def get_jobs(job_titles=job_ti, sample="All"):
     def page_search_driver(job_title):
         # Set up Chrome options in headless mode
         chrome_options = Options()
@@ -130,7 +143,7 @@ def get_jobs(sample="All"):
             soup = BeautifulSoup(response.text, 'html.parser')
 
             for title in job_titles:
-                print("\n" + title + " started")
+                print("\nFetching" + title + " jobs")
                 max_pages = page_search_driver(title)
 
                 if sample == "Sample":
@@ -144,20 +157,6 @@ def get_jobs(sample="All"):
                     df['search_keyword'] = title
                     df.to_csv("Final_Data/" + sample + "/USA_JOBS_" + title + "_" + str(i) + ".csv", index=False)
                     print(str(i) + " page done")
-        else:
-            print(f"Failed to retrieve source page. Status code: {response.status_code}")
 
-    # Find job listings based on specific job titles
-    job_titles = [
-        "Data Analyst",
-        "Data Engineer",
-        "Business Analyst",
-        "Product Manager",
-        "Project Manager",
-        "Mechanical Engineer",
-        "Civil Engineer",
-        "Software Engineer"
-    ]
-
-    print('\n Currently Fetching the Jobs from USA-JOBS')
+    print('\nCurrently Fetching the Jobs from USA-JOBS')
     scrape_usajobs(job_titles, sample)

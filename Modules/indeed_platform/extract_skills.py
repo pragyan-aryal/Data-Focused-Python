@@ -4,7 +4,7 @@ import numpy as np
 
 
 def extract_skills(sample="All"):
-    print('\n Extracting skills from Job Description')
+    print('\nExtracting skills from Job Description')
     df = pd.read_parquet("Final_Data/" + sample + "/merged.parquet")
 
     skillss = [

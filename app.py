@@ -134,7 +134,7 @@ elif user_option == "2":
 
     get_h1b.h1b_scrape([(job, jo)], sample="Sample")
 
-    get_usa_jobs.get_jobs(sample="Sample")
+    get_usa_jobs.get_jobs([job], sample="Sample")
 
     combine_data.combine_data(sample="Sample")
 
@@ -151,7 +151,7 @@ else:
     shutil.copy2('Data/Indeed/Indeed_Data.parquet', 'Final_Data/Final/merged.parquet')
     shutil.copy2('Data/h1_grader_data.tsv', 'Final_Data/Final/h1_grader_data.tsv')
     shutil.copy2('Data/Indeed/all_skills.tsv', 'Final_Data/Final/all_skills.tsv')
-    shutil.copy2('Data/USA_Jobs_Data.csv.csv', 'Final_Data/Final/USA_JOBS.csv')
+    shutil.copy2('Data/USA_Jobs_Data.csv', 'Final_Data/Final/USA_JOBS.csv')
 
 
 sys.argv = ["streamlit", "run", "1_Career_Compass.py"]

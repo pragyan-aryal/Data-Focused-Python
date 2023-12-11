@@ -4,7 +4,7 @@ import plotly.express as px
 import re  # Import the 're' module for regular expressions
 
 # Read a Parquet file
-df = pd.read_parquet(r'Data/Indeed/Indeed_Data.parquet')
+df = pd.read_parquet('Final_Data/Final/merged.parquet')
 # Now 'df' is a DataFrame containing the data from the Parquet file
 
 # Define salary bins

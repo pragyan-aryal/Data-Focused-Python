@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
 
-df = pd.read_csv(r'Data/h1_grader_data.tsv', sep='\t')
+df = pd.read_csv('Final_Data/Final/h1_grader_data.tsv', sep='\t')
 df = df.drop('category_code.1', axis=1)
 
 category_to_job = {

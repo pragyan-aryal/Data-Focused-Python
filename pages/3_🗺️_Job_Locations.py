@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import plotly.express as px
 
-df = pd.read_parquet('Data//Indeed/Indeed_Data.parquet')
+df = pd.read_parquet('Final_Data/Final/merged.parquet')
 df = df.loc[df['country_code'] == 'USA']
 
 category_to_job = {

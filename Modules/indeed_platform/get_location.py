@@ -8,7 +8,7 @@ import numpy as np
 
 def get_clean_location(sample="All"):
 
-    print('\n Currently parsing the location and getting geo location for each job')
+    print('\nCurrently parsing the location and getting geo location for each job')
 
     df = pd.read_parquet('Final_Data/' + sample + '/' + 'merged.parquet')
 
