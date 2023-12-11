@@ -34,6 +34,14 @@ while user_option not in options:
     user_option = input("Please Enter the correct choice number(1, 2, 3): ")
 
 if user_option == "1":
+    files = glob.glob('Final_Data/All/*')
+    for f in files:
+        os.remove(f)
+
+    files = glob.glob('Final_Data/Final/*')
+    for f in files:
+        os.remove(f)
+
     jo = ['SE', 'PM', 'PJM', 'DA', 'DE', 'ME', 'CE', 'CAE', 'FEA', 'BA']
 
     fetch_indeed_job.fetch_job(sample="All")
@@ -54,9 +62,18 @@ if user_option == "1":
 
     salary.clean_salary(sample="All")
 
+    extract_skills.extract_skills(sample="All")
+
     get_h1b.h1b_scrape(sample="All")
 
     get_usa_jobs.get_jobs(sample="All")
+
+    combine_data.combine_data(sample="All")
+
+    shutil.copy2('Final_Data/All/merged.parquet', 'Final_Data/Final/merged.parquet')
+    shutil.copy2('Final_Data/All/h1_grader_data.tsv', 'Final_Data/Final/h1_grader_data.tsv')
+    shutil.copy2('Final_Data/All/all_skills.tsv', 'Final_Data/Final/all_skills.tsv')
+    shutil.copy2('Final_Data/All/USA_JOBS.csv', 'Final_Data/Final/USA_JOBS.csv')
 
     sys.argv = ["streamlit", "run", "1_Career_Compass.py"]
 
