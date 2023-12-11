@@ -75,10 +75,6 @@ if user_option == "1":
     shutil.copy2('Final_Data/All/all_skills.tsv', 'Final_Data/Final/all_skills.tsv')
     shutil.copy2('Final_Data/All/USA_JOBS.csv', 'Final_Data/Final/USA_JOBS.csv')
 
-    sys.argv = ["streamlit", "run", "1_Career_Compass.py"]
-
-    sys.exit(stcli.main())
-
 elif user_option == "2":
     match = False
     job = ""
@@ -147,9 +143,6 @@ elif user_option == "2":
     shutil.copy2('Final_Data/Sample/all_skills.tsv', 'Final_Data/Final/all_skills.tsv')
     shutil.copy2('Final_Data/Sample/USA_JOBS.csv', 'Final_Data/Final/USA_JOBS.csv')
 
-    sys.argv = ["streamlit", "run", "1_Career_Compass.py"]
-
-    sys.exit(stcli.main())
 else:
     files = glob.glob('Final_Data/Final/*')
     for f in files:
@@ -160,5 +153,7 @@ else:
     shutil.copy2('Data/Indeed/all_skills.tsv', 'Final_Data/Final/all_skills.tsv')
     shutil.copy2('Data/USA_Jobs_Data.csv.csv', 'Final_Data/Final/USA_JOBS.csv')
 
-    sys.argv = ["streamlit", "run", "1_Career_Compass.py"]
-    sys.exit(stcli.main())
+
+sys.argv = ["streamlit", "run", "1_Career_Compass.py"]
+
+sys.exit(stcli.main())
