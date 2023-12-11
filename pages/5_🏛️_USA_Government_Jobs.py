@@ -6,10 +6,12 @@ import re
 df = pd.read_csv(r'Data/USA_Jobs_Data.csv')
 
 st.set_page_config(layout="wide")
-st.title("Government Jobs")
+st.title("🏛️ Government Jobs")
 
-# Dropdown for selecting search_keyword
-selected_keyword = st.selectbox("Select a Job Role", df['search_keyword'].unique())
+col1, col2, col3 = st.columns(3)
+
+with col2:
+      selected_keyword = st.selectbox("What is your desired job title?", df['search_keyword'].unique())
 
 # Filter DataFrame based on selected keyword
 filtered_df = df[df['search_keyword'] == selected_keyword]
