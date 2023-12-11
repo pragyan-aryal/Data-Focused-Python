@@ -1,1001 +1,593 @@
 count	employer_name	employer_url	category_code	category_code
-64	TATA CONSULTANCY SERVICES LIMITED	/h1b-sponsors/tata-consultancy-services-limited-6g0639530q	BA
-21	SYSTEM SOFT TECHNOLOGIES LLC	/h1b-sponsors/system-soft-technologies-llc-8r0v3l39k1	BA
-19	GOOGLE LLC	/h1b-sponsors/google-llc-em2mg7pj21	BA
-18	NAGARRO INC	/h1b-sponsors/nagarro-inc-g101gvoo07	BA
-17	COMPUNNEL SOFTWARE GROUP INC	/h1b-sponsors/compunnel-software-group-inc-vx23o5yn2g	BA
-16	TECH MAHINDRA AMERICAS INC	/h1b-sponsors/tech-mahindra-americas-inc-op0l3dnj0l	BA
-14	IBM CORPORATION	/h1b-sponsors/ibm-corporation-l9k5w7nrk1	BA
-12	CONCEPTS INFORMATION TECHNOLOGY INC	/h1b-sponsors/concepts-information-technology-inc-vx23ll5x2g	BA
-12	BARCLAYS SERVICES CORP	/h1b-sponsors/barclays-services-corp-370onrpnkz	BA
-12	ATOS SYNTEL INC	/h1b-sponsors/atos-syntel-inc-70ojjd7v2z	BA
-12	COFORGE LIMITED	/h1b-sponsors/coforge-limited-82wrv6gjk1	BA
-12	SYSTECHCORP INC	/h1b-sponsors/systechcorp-inc-6g06d7nq2q	BA
-11	PHOTON INFOTECH INC	/h1b-sponsors/photon-infotech-inc-p0l49wzx2l	BA
-11	MAHAUGHA LLC	/h1b-sponsors/mahaugha-llc-50nrlm9e2g	BA
-10	ARTIFICIAL INTELLIGENCE TECHNOLOGIES LLC	/h1b-sponsors/artificial-intelligence-technologies-llc-g27r9jdm05	BA
-10	RENEE SYSTEMS INC	/h1b-sponsors/renee-systems-inc-g27rvyyp05	BA
-9	COLSH CONSULTANTS LLC	/h1b-sponsors/colsh-consultants-llc-l9k5ov1601	BA
-9	SAVVY IT GROUP INC	/h1b-sponsors/savvy-it-group-inc-g2r6rreo2l	BA
-9	ROBOTICS TECHNOLOGIES LLC	/h1b-sponsors/robotics-technologies-llc-m2m6ndnj01	BA
-9	DEVANSEE ANALYTICS LLC	/h1b-sponsors/devansee-analytics-llc-g06683vm0q	BA
-9	US TIGER SECURITIES INC	/h1b-sponsors/us-tiger-securities-inc-510jr835kv	BA
-8	PRECISION TECHNOLOGIES CORP	/h1b-sponsors/precision-technologies-corp-510j6oo1kv	BA
-8	ETEKSERVE INC	/h1b-sponsors/etekserve-inc-1kznd9lqkm	BA
-8	ERP INTEGRATED SOLUTIONS LLC	/h1b-sponsors/erp-integrated-solutions-llc-ok854dlrkd	BA
-8	STAFFIGO TECHNICAL SERVICES LLC	/h1b-sponsors/staffigo-technical-services-llc-510jpmp50v	BA
-7	DIGITAL TECHNOLOGIES LLC	/h1b-sponsors/digital-technologies-llc-4l0ydnrq0x	BA
-7	INTONE NETWORKS INC	/h1b-sponsors/intone-networks-inc-4l0y95j6kx	BA
-7	QUANTUM TECHNOLOGIES LLC	/h1b-sponsors/quantum-technologies-llc-8r0v38r9k1	BA
-7	CISCO SYSTEMS INC	/h1b-sponsors/cisco-systems-inc-370oq38ykz	BA
-7	MONTICELLO CONSULTING GROUP INC	/h1b-sponsors/monticello-consulting-group-inc-10j7dl9g0v	BA
-7	V SOFT CONSULTING GROUP INC	/h1b-sponsors/v-soft-consulting-group-inc-x30qy13gkq	BA
-7	WAILEA SYSTEMS LLC	/h1b-sponsors/wailea-systems-llc-1kzng19qkm	BA
-6	I LINK SOLUTIONS INC	/h1b-sponsors/i-link-solutions-inc-op0lgmjm2l	BA
-6	SYNCHRONISYS INC	/h1b-sponsors/synchronisys-inc-101zxyvp27	BA
-6	META PLATFORMS INC	/h1b-sponsors/meta-platforms-inc-w2xp7xj6k3	BA
-6	ORIANA SOFTWARE SOLUTIONS INC	/h1b-sponsors/oriana-software-solutions-inc-x237m5e3kg	BA
-6	R SYSTEMS INC	/h1b-sponsors/r-systems-inc-n60egoo1kz	BA
-6	EPITEC INC	/h1b-sponsors/epitec-inc-pg27mz7q25	BA
-6	DATA SCIENCE TECHNOLOGIES LLC	/h1b-sponsors/data-science-technologies-llc-rd0gvpwy0o	BA
-6	INTERNATIONAL BUSINESS MACHINES CORPORATION	/h1b-sponsors/international-business-machines-corporation-okprg6eq24	BA
-6	GLOBAL INFOTECH INC	/h1b-sponsors/global-infotech-inc-x30qn1g0qp	BA
-6	GENIUS MINDS LLC	/h1b-sponsors/genius-minds-llc-m2m6g94d01	BA
-6	CONSULTADD INC	/h1b-sponsors/consultadd-inc-510jrm11kv	BA
-6	CLOUD HYBRID TECHNOLOGIES LLC	/h1b-sponsors/cloud-hybrid-technologies-llc-rd0g4vvq0o	BA
-6	POPULUS GROUP LLC	/h1b-sponsors/populus-group-llc-150nvvygkg	BA
-5	MAGANTI IT RESOURCES LLC	/h1b-sponsors/maganti-it-resources-llc-rd0ggq7w0o	BA
-5	TECHPOINT LLC	/h1b-sponsors/techpoint-llc-d0g947dqko	BA
-5	FIRST TEK INC	/h1b-sponsors/first-tek-inc-1ok8qxr3kd	BA
-5	TABNER INC	/h1b-sponsors/tabner-inc-w2xpvqyyk3	BA
-5	CONCENTRIX CVG CUSTOMER MANAGEMENT GROUP INC	/h1b-sponsors/concentrix-cvg-customer-management-group-inc-9k5n9mo9k1	BA
-5	DIGITYX SOLUTIONS INC	/h1b-sponsors/digityx-solutions-inc-30q4oyyrkq	BA
-5	SAVANCYS INC	/h1b-sponsors/savancys-inc-p1kzzn3qkm	BA
-5	RANDSTAD TECHNOLOGIES LLC	/h1b-sponsors/randstad-technologies-llc-op0ly7wx2l	BA
-5	MARGIN5 SOLUTIONS INC	/h1b-sponsors/margin5-solutions-inc-p1kzv4172m	BA
-5	WIT INC	/h1b-sponsors/wit-inc-rd0gyy1q0o	BA
-5	HEXAWARE TECHNOLOGIES INC	/h1b-sponsors/hexaware-technologies-inc-4l0ypez60x	BA
-5	PARAM CONSULTING SERVICES INC	/h1b-sponsors/param-consulting-services-inc-p1kz9eq90m	BA
-5	FRIENDLY CONSULTANTS INC	/h1b-sponsors/friendly-consultants-inc-dvk4ll962w	BA
-5	BROADRANGE TECHNOLOGIES INC	/h1b-sponsors/broadrange-technologies-inc-82wrn7ldk1	BA
-5	ISITE TECHNOLOGIES INC	/h1b-sponsors/isite-technologies-inc-pg273o4q05	BA
-5	ZEUS SOLUTIONS INC	/h1b-sponsors/zeus-solutions-inc-1kznwl8ykm	BA
-5	DATASYNC INC	/h1b-sponsors/datasync-inc-g2r6wgm32l	BA
-5	SIRITEK INC	/h1b-sponsors/siritek-inc-560dqzx628	BA
-5	EBYTE TECHNOLOGIES INC	/h1b-sponsors/ebyte-technologies-inc-5g2rlwl32l	BA
-5	ICONICIT SYSTEMS INC	/h1b-sponsors/iconicit-systems-inc-x237qx5xkg	BA
-5	SLK AMERICA INC	/h1b-sponsors/slk-america-inc-pg275dgqk5	BA
-5	INRIKA INC	/h1b-sponsors/inrika-inc-1ok8m4nr2d	BA
-5	CYBERTHINK INC	/h1b-sponsors/cyberthink-inc-x30qjm1nkq	BA
-5	VSQUARE INFOTECH INC	/h1b-sponsors/vsquare-infotech-inc-1ok87w9r2d	BA
-4	SV INFOTECH GROUP INC	/h1b-sponsors/sv-infotech-group-inc-10j7ppoe0v	BA
-4	ITSUTRA INC	/h1b-sponsors/itsutra-inc-1k9n91gq2m	BA
-4	AMERICAN CHASE LLC	/h1b-sponsors/american-chase-llc-1kznvo1qkm	BA
-4	GCOM SOFTWARE LLC	/h1b-sponsors/gcom-software-llc-pg27gml725	BA
-4	VRK IT VISION INC	/h1b-sponsors/vrk-it-vision-inc-g2r617w62l	BA
-4	CARTESIAN INC	/h1b-sponsors/cartesian-inc-ew2xog8q23	BA
-4	ENVIRONMENTAL SYSTEMS RESEARCH INSTITUTE INC	/h1b-sponsors/environmental-systems-research-institute-inc-4l0yljxpkx	BA
-4	TECH MAHINDRA TECHNOLOGIES INC	/h1b-sponsors/tech-mahindra-technologies-inc-dvk4zjgp0w	BA
-4	CONCEPT SOFTWARE & SERVICES INC	/h1b-sponsors/concept-software-and-services-inc-1k9nz8or2m	BA
-4	KAPITAL DATA CORP	/h1b-sponsors/kapital-data-corp-vk483moy0w	BA
-4	TIKTOK INC	/h1b-sponsors/tiktok-inc-ok854dn5kd	BA
-4	KYYBA TECH INC	/h1b-sponsors/kyyba-tech-inc-ok851oe5kd	BA
-4	COMPROBASE INC	/h1b-sponsors/comprobase-inc-8r0v7g8901	BA
-4	UBER FREIGHT US LLC	/h1b-sponsors/uber-freight-us-llc-ok85wwg3kd	BA
-4	ADROIT ASSOCIATES INC	/h1b-sponsors/adroit-associates-inc-op0l8mjkl6	BA
-4	PERIGON INFOTECH INC	/h1b-sponsors/perigon-infotech-inc-v82wgyzj01	BA
-4	HAN IT STAFFING INC	/h1b-sponsors/han-it-staffing-inc-g0666pwq0q	BA
-4	BLOSSOM TECH INC	/h1b-sponsors/blossom-tech-inc-w2xpmm3rk3	BA
-4	INFOGAIN CORPORATION	/h1b-sponsors/infogain-corporation-1ok84l432d	BA
-4	QBOTICA INC	/h1b-sponsors/qbotica-inc-d0g97877ko	BA
-4	MIDLAND CREDIT MANAGEMENT INC	/h1b-sponsors/midland-credit-management-inc-op0l883lkl	BA
-4	TEK LEADERS INC	/h1b-sponsors/tek-leaders-inc-l0yvz5wp0x	BA
-4	GROKSYS LLC	/h1b-sponsors/groksys-llc-10j73dye0v	BA
-4	APLOMB TECHNOLOGIES INC	/h1b-sponsors/aplomb-technologies-inc-560dvdme08	BA
-4	SHIRO TECHNOLOGIES LLC	/h1b-sponsors/shiro-technologies-llc-x30qgm78kq	BA
-3	STATE STREET BANK AND TRUST COMPANY	/h1b-sponsors/state-street-bank-and-trust-company-ew2xn35r03	BA
-3	BOOZ ALLEN HAMILTON INC	/h1b-sponsors/booz-allen-hamilton-inc-d0g9mrv7ko	BA
-3	SHOOLIN INC	/h1b-sponsors/shoolin-inc-x30qq3qr0q	BA
-3	CREATIVE TEAM LLC	/h1b-sponsors/creative-team-llc-g27rvze705	BA
-3	CYBER WAVE LLC	/h1b-sponsors/cyber-wave-llc-1k9n8o8w2m	BA
-3	NOVAMEGHA LLC	/h1b-sponsors/novamegha-llc-g0668d4q0q	BA
-3	FOCUSED HR SOLUTIONS LLC	/h1b-sponsors/focused-hr-solutions-llc-560ddy8e08	BA
-3	XCELTECH INC	/h1b-sponsors/xceltech-inc-rd0gwo6y2o	BA
-3	FORGE TECHNOLOGIES INC	/h1b-sponsors/forge-technologies-inc-p0l461ol2l	BA
-3	LTIMINDTREE LIMITED	/h1b-sponsors/ltimindtree-limited-82wrdv7ok1	BA
-3	CLOUDFLARE INC	/h1b-sponsors/cloudflare-inc-1ok8ln550d	BA
-3	BOTO3 INC	/h1b-sponsors/boto3-inc-g066xp5p0q	BA
-3	DATUM CONSULTING GROUP LLC	/h1b-sponsors/datum-consulting-group-llc-70oj5jyn2z	BA
-3	ISTREAM SOLUTIONS INC	/h1b-sponsors/istream-solutions-inc-rd0gjqoy0o	BA
-3	MINDTECH SOLUTIONS	/h1b-sponsors/mindtech-solutions-10j7nogg0v	BA
-3	ECLINICAL SOLUTIONS LLC	/h1b-sponsors/eclinical-solutions-llc-101zeqj827	BA
-3	INCEPT DATA SOLUTIONS INC	/h1b-sponsors/incept-data-solutions-inc-n60eleen2z	BA
-3	HARBOR HAT INC	/h1b-sponsors/harbor-hat-inc-d0g93vdyko	BA
-3	EDIFY TECHNOLOGIES INC	/h1b-sponsors/edify-technologies-inc-rd0gvvxy0o	BA
-3	INNOVA SOLUTIONS INC	/h1b-sponsors/innova-solutions-inc-w2xpjedqk3	BA
-3	TECH NET INC	/h1b-sponsors/tech-net-inc-vx23yjj3kg	BA
-3	TANISHA SYSTEMS INC	/h1b-sponsors/tanisha-systems-inc-6g0683m1kq	BA
-3	MPG OPERATIONS LLC	/h1b-sponsors/mpg-operations-llc-nokp785yk4	BA
-3	TAYS INC	/h1b-sponsors/tays-inc-10j7xdxp0v	BA
-3	SKILLTUNE TECHNOLOGIES INC	/h1b-sponsors/skilltune-technologies-inc-370o7z8v2z	BA
-3	ACCENTURE LLP	/h1b-sponsors/accenture-llp-560dq7od28	BA
-3	ASTA CRS INC	/h1b-sponsors/asta-crs-inc-l9k5dwly21	BA
-3	KGATE TECHNOLOGIES INC	/h1b-sponsors/kgate-technologies-inc-m2m6exwd01	BA
-3	DIGITYX SOLUTIONS INCORPORATED	/h1b-sponsors/digityx-solutions-incorporated-g0667dyp0q	BA
-3	ASTIR IT SOLUTIONS INC	/h1b-sponsors/astir-it-solutions-inc-v82w37xk15	BA
-3	AUTOMATION TECHNOLOGIES LLC	/h1b-sponsors/automation-technologies-llc-560dz1dd28	BA
-3	CAMP SYSTEMS INTERNATIONAL INC	/h1b-sponsors/camp-systems-international-inc-ew2x3n5q23	BA
-3	AMG TECHNOLOGY	/h1b-sponsors/amg-technology-82wr4vrok1	BA
-3	PAMTEN INC	/h1b-sponsors/pamten-inc-g0666m710q	BA
-3	BDK LOGISTICS INTELLIGENCE INC	/h1b-sponsors/bdk-logistics-intelligence-inc-101z98w827	BA
-3	TRIESTEN TECHNOLOGIES LLC	/h1b-sponsors/triesten-technologies-llc-v82w679ok1	BA
-3	MTSS GROUP INC	/h1b-sponsors/mtss-group-inc-l0yvexnq0x	BA
-3	SYRAINFOTEK LLC	/h1b-sponsors/syrainfotek-llc-1k9np7gw2m	BA
-3	VLINK INC	/h1b-sponsors/vlink-inc-150n1vd1kg	BA
-3	BUSINESS SOLUTION CONSULTANTS LLC	/h1b-sponsors/business-solution-consultants-llc-82wrj6llk1	BA
-3	VISIONET SYSTEMS INC	/h1b-sponsors/visionet-systems-inc-p1kzzdvjkm	BA
-3	ENLIGHTEN MANAGEMENT SOLUTIONS INC	/h1b-sponsors/enlighten-management-solutions-inc-r0v6qezqk1	BA
-3	ASTRA CANYON GROUP LLC	/h1b-sponsors/astra-canyon-group-llc-1kzn1vwjkm	BA
-3	SHARDA INC	/h1b-sponsors/sharda-inc-l0yve8350x	BA
-3	S&A IT TRAINING CORPORATION	/h1b-sponsors/s-and-a-it-training-corporation-g27rwlep05	BA
-3	CR TECHNOLOGIES INC	/h1b-sponsors/cr-technologies-inc-nokpd7x1k4	BA
-3	RED CUBE PRODUCTION INC	/h1b-sponsors/red-cube-production-inc-60d919ppk8	BA
-3	HARMAN CONNECTED SERVICES INC	/h1b-sponsors/harman-connected-services-inc-g101jon807	BA
-3	ADBAKX LLC	/h1b-sponsors/adbakx-llc-em2mexgdk1	BA
-3	GENPACT LLC	/h1b-sponsors/genpact-llc-nokp97j924	BA
-3	CH REYNOLDS ELECTRIC INC	/h1b-sponsors/ch-reynolds-electric-inc-em2m3p3901	BA
-3	FINITETEK INC	/h1b-sponsors/finitetek-inc-1kznwge7km	BA
-3	GP TECHNOLOGIES LLC	/h1b-sponsors/gp-technologies-llc-op0lwx7lkl	BA
-3	CONFLUX SYSTEMS INC	/h1b-sponsors/conflux-systems-inc-vx23ddvvkg	BA
-3	COMPREHENSIVE RESOURCES INC	/h1b-sponsors/comprehensive-resources-inc-x30qvr1nkq	BA
-3	APEX TECHNOLOGY GROUP INC	/h1b-sponsors/apex-technology-group-inc-x30qpg9gkq	BA
-3	BRILLIO LLC	/h1b-sponsors/brillio-llc-5g2r5zd90l	BA
-3	CLOUD ANALYTIX INC	/h1b-sponsors/cloud-analytix-inc-ok85gre5kd	BA
-3	NEW ERA TECHNOLOGY INC	/h1b-sponsors/new-era-technology-inc-vk48xd8g0w	BA
-3	COLUMBUS TECHNOLOGY SOLUTIONS INC	/h1b-sponsors/columbus-technology-solutions-inc-vk48g7e60w	BA
-3	ALGOBRAINZ LLC	/h1b-sponsors/algobrainz-llc-x2378163kg	BA
-3	KANHI SYSTEMS LLC	/h1b-sponsors/kanhi-systems-llc-n60e61dr2z	BA
-2	HELISHORES INC	/h1b-sponsors/helishores-inc-d0g9dpp7ko	BA
-2	SAAS INFO TECH LLC	/h1b-sponsors/saas-info-tech-llc-r0v6yq49k1	BA
-2	SYNAPSE TECH SERVICES INC	/h1b-sponsors/synapse-tech-services-inc-370o35yx0z	BA
-2	VISA USA INC	/h1b-sponsors/visa-usa-inc-op0lw9gmkl	BA
-2	ISOFTECH INC	/h1b-sponsors/isoftech-inc-l9k54zd621	BA
-2	TERA CLOUDX INC	/h1b-sponsors/tera-cloudx-inc-r0v6ywl3k1	BA
-2	QUANTUM TECHNOLOGIES INC	/h1b-sponsors/quantum-technologies-inc-rd0g3e8yko	BA
-2	DATA AFFECT LLC	/h1b-sponsors/data-affect-llc-50nrepze2g	BA
-2	CONDUENT PATIENT ACCESS SOLUTIONS LLC	/h1b-sponsors/conduent-patient-access-solutions-llc-d1k9jrp80m	BA
-2	BROADRIDGE FINANCIAL SOLUTIONS INC	/h1b-sponsors/broadridge-financial-solutions-inc-150nd19kgn	BA
-2	ENCORE TECHSOL LLC	/h1b-sponsors/encore-techsol-llc-9k5n49vdk1	BA
-2	INTEL AMERICAS INC	/h1b-sponsors/intel-americas-inc-l9k5qx9dk1	BA
-2	ENTAGILE LLC	/h1b-sponsors/entagile-llc-10j7p4vp0v	BA
-2	CHARTER COMMUNICATIONS INC	/h1b-sponsors/charter-communications-inc-82wr1d64k1	BA
-2	JPMORGAN CHASE & CO	/h1b-sponsors/jpmorgan-chase-and-co-5g2r7gdekl	BA
-2	ZIOQU INC	/h1b-sponsors/zioqu-inc-m2m6qejd01	BA
-2	MJM AMERICA INC	/h1b-sponsors/mjm-america-inc-9k5n999yk1	BA
-2	TECHNOSOFT CORPORATION	/h1b-sponsors/technosoft-corporation-nokp3zr924	BA
-2	FIRST GENIX LLC	/h1b-sponsors/first-genix-llc-vk4899eg0w	BA
-2	RICEFW TECHNOLOGIES INC	/h1b-sponsors/ricefw-technologies-inc-560d7d6e08	BA
-2	EVIDEN USA INC	/h1b-sponsors/eviden-usa-inc-okprn8m924	BA
-2	GURU GROUP LLC	/h1b-sponsors/guru-group-llc-d0g979ywko	BA
-2	METASENSE INC	/h1b-sponsors/metasense-inc-l9k53l6601	BA
-2	E PRO TECHNOLOGIES LLC	/h1b-sponsors/e-pro-technologies-llc-1ok8qoo3kd	BA
-2	BENSENVILLE HOSPITALITY INC	/h1b-sponsors/bensenville-hospitality-inc-vx23dvrvkg	BA
-2	VIVID TECHNOLOGIES INC	/h1b-sponsors/vivid-technologies-inc-nokpzy8904	BA
-2	VELOCE CORPORATION	/h1b-sponsors/veloce-corporation-60d9nqy6k8	BA
-2	TANGENT SERVICES CORPORATION	/h1b-sponsors/tangent-services-corporation-60eq94zm0z	BA
-2	UTILLI LLC	/h1b-sponsors/utilli-llc-pg27ngppk5	BA
-2	FAQ SYSTEMS INC	/h1b-sponsors/faq-systems-inc-60d9xz6xk8	BA
-2	JONES LANG LASALLE AMERICAS INC	/h1b-sponsors/jones-lang-lasalle-americas-inc-5g2rpmn3kl	BA
-2	GSS INFOTECH CT INC	/h1b-sponsors/gss-infotech-ct-inc-v82wq34215	BA
-2	LUXURY WOOD LLC	/h1b-sponsors/luxury-wood-llc-x237mj4qkg	BA
-2	AETERNUS SOLUTIONS INC	/h1b-sponsors/aeternus-solutions-inc-em2md65j21	BA
-2	THINKBYTE CONSULTING INC	/h1b-sponsors/thinkbyte-consulting-inc-82wrylwok1	BA
-2	ARV SYSTEMS INC	/h1b-sponsors/arv-systems-inc-5g2r89590l	BA
-2	FIRST CLOUD TECH INC	/h1b-sponsors/first-cloud-tech-inc-g2r683zo2l	BA
-2	MANSION WAREHOUSING LLC	/h1b-sponsors/mansion-warehousing-llc-50nnz39g0g	BA
-2	CALIFORNIA CREATIVE SOLUTIONS INC	/h1b-sponsors/california-creative-solutions-inc-6g06nql3kq	BA
-2	PRODAPT NORTH AMERICA INC	/h1b-sponsors/prodapt-north-america-inc-rd0gjl50o1	BA
-2	CARCO GROUP INC	/h1b-sponsors/carco-group-inc-g101pmp075	BA
-2	SMART ERP SOLUTIONS INC	/h1b-sponsors/smart-erp-solutions-inc-l9k5zmqyk1	BA
-2	NORGATE TECHNOLOGY INC	/h1b-sponsors/norgate-technology-inc-ew2xrvqm23	BA
-2	TECHPRO SOLUTIONS INC	/h1b-sponsors/techpro-solutions-inc-g27r5llq05	BA
-2	SWIFT BEEF COMPANY A JBS USA SUBSIDIARY	/h1b-sponsors/swift-beef-company-a-jbs-usa-subsidiary-p1kzryw70m	BA
-2	THUMBTACK INC	/h1b-sponsors/thumbtack-inc-1ok84jm52d	BA
-2	TECHNOVA SYSTEMS INC	/h1b-sponsors/technova-systems-inc-op0lo77l0l	BA
-2	TRIBLESS LLC	/h1b-sponsors/tribless-llc-g0667g130q	BA
-2	NEXTGEN SOLUTIONS INC	/h1b-sponsors/nextgen-solutions-inc-x2377yj3kg	BA
-2	ORION SYSTEMS INTEGRATORS LLC	/h1b-sponsors/orion-systems-integrators-llc-150nw5x90g	BA
-2	PRINCE ROYAL INC	/h1b-sponsors/prince-royal-inc-d0g9rvmqko	BA
-2	U SAVE INSURANCE SERVICES INC	/h1b-sponsors/u-save-insurance-services-inc-l0yvpe460x	BA
-2	BRAVEN TECHNOLOGIES INC	/h1b-sponsors/braven-technologies-inc-d1k9le68km	BA
-2	AITHENT INC	/h1b-sponsors/aithent-inc-370ojx8y2z	BA
-2	SIMPLE RULES COMPANY	/h1b-sponsors/simple-rules-company-4l0yee352x	BA
-2	DISCOVER TECHNOLOGIES INC	/h1b-sponsors/discover-technologies-inc-d1k9dv5r0m	BA
-2	MAGTECH CONSULTING AND SOLUTIONS DEVELOPMENT CORPORATION	/h1b-sponsors/magtech-consulting-and-solutions-development-corporation-6g0633xp0q	BA
-2	LORVENK TECHNOLOGIES LLC	/h1b-sponsors/lorvenk-technologies-llc-dvk4qmrv0w	BA
-2	OMV AMERICA LLC	/h1b-sponsors/omv-america-llc-50nr19pp2g	BA
-2	DATSON360 LLC	/h1b-sponsors/datson360-llc-l9k5448d21	BA
-2	WIZCOM CORPORATION	/h1b-sponsors/wizcom-corporation-x237lrdgkg	BA
-2	TIRIPS IT SOLUTIONS LLC	/h1b-sponsors/tirips-it-solutions-llc-r0v6j7j3k1	BA
-2	NETLINE TECHNOLOGIES LLC	/h1b-sponsors/netline-technologies-llc-370oxmlx0z	BA
-2	JKV INTERNATIONAL LLC	/h1b-sponsors/jkv-international-llc-g2r6rjy92l	BA
-2	SEER SOLUTIONS INC	/h1b-sponsors/seer-solutions-inc-510jr4rekv	BA
-2	MOATECH STAFFING INC	/h1b-sponsors/moatech-staffing-inc-10j7q7650v	BA
-2	FORTISVIEW LLC	/h1b-sponsors/fortisview-llc-1k9nxm1x2m	BA
-2	AGILETAL TECHNOLOGIES INC	/h1b-sponsors/agiletal-technologies-inc-g066rjv30q	BA
-2	DATAECONOMY INC	/h1b-sponsors/dataeconomy-inc-1ok8d6e52d	BA
-2	BLOOM INSURANCE AGENCY LLC	/h1b-sponsors/bloom-insurance-agency-llc-60d91yrek8	BA
-2	KKR CREDIT ADVISORS US LLC	/h1b-sponsors/kkr-credit-advisors-us-llc-4l0y83xv2x	BA
-2	MAVERIC NXT INC	/h1b-sponsors/maveric-nxt-inc-6g068q93kq	BA
-2	SVN IT SERVICES INC	/h1b-sponsors/svn-it-services-inc-g27r5z3705	BA
-2	ALPHAINFOSYS INC	/h1b-sponsors/alphainfosys-inc-9k5nxnn8k1	BA
-2	IONIC TECHNOLOGIES LLC	/h1b-sponsors/ionic-technologies-llc-d0g95qg7ko	BA
-2	OSO VENTURES INC	/h1b-sponsors/oso-ventures-inc-okprr5w924	BA
-2	CELLULAR AND MORE INC	/h1b-sponsors/cellular-and-more-inc-w2xpvo16k3	BA
-2	SOFTWARE ENTERPRISE LLC	/h1b-sponsors/software-enterprise-llc-nokpnl6904	BA
-2	SALIGRAM SYSTEMS INC	/h1b-sponsors/saligram-systems-inc-g2r6ey582l	BA
-2	FLEXON TECHNOLOGIES INC	/h1b-sponsors/flexon-technologies-inc-l9k5d56d21	BA
-2	INTEGRATED RESOURCES INC	/h1b-sponsors/integrated-resources-inc-g1013x88k7	BA
-2	KUEHNE & NAGEL INC	/h1b-sponsors/kuehne-and-nagel-inc-vk48pnz60w	BA
-2	BOX INC	/h1b-sponsors/box-inc-370oon3v0z	BA
-2	INFOBIZ SYSTEMS LLC	/h1b-sponsors/infobiz-systems-llc-ew2xlj3n23	BA
-2	SYNOVASOFT INC	/h1b-sponsors/synovasoft-inc-g2r68oe82l	BA
-2	DIGITAL INTELLIGENCE SYSTEMS LLC	/h1b-sponsors/digital-intelligence-systems-llc-rd0geed72o	BA
-2	I & I SOFTWARE INC	/h1b-sponsors/i-and-i-software-inc-60eqep4r0z	BA
-2	INTERNATIONAL SOLUTION SOURCES INC	/h1b-sponsors/international-solution-sources-inc-r0v6gve3k1	BA
-2	PIVOTREE USA INC	/h1b-sponsors/pivotree-usa-inc-p0l4zqpz2l	BA
-2	KIDDLETON INC	/h1b-sponsors/kiddleton-inc-1kzng1d7km	BA
-2	VERILY LIFE SCIENCES LLC	/h1b-sponsors/verily-life-sciences-llc-1ok8gpw52d	BA
-2	CIRCULAR EDGE LLC	/h1b-sponsors/circular-edge-llc-1ok8yj1o2d	BA
-2	FARGO SOLUTIONS INC	/h1b-sponsors/fargo-solutions-inc-6g06ldw10q	BA
-2	ONCORRE INC	/h1b-sponsors/oncorre-inc-70oje1yy2z	BA
-2	JJJ FORTUNE LLC	/h1b-sponsors/jjj-fortune-llc-60d97rmdk8	BA
-2	PROFIT BLOOM INC	/h1b-sponsors/profit-bloom-inc-30q4o5dzkq	BA
-2	FIRST CONSULTING GROUP LLC	/h1b-sponsors/first-consulting-group-llc-vx23yzegkg	BA
-2	OJUS LLC	/h1b-sponsors/ojus-llc-50nr1dr92g	BA
-2	UNICOM TECHNOLOGIES INC	/h1b-sponsors/unicom-technologies-inc-n60ey3mlkz	BA
-2	HAINAN HNAT MANAGEMENT US LLC	/h1b-sponsors/hainan-hnat-management-us-llc-9k5n4de6k1	BA
-2	OM TEK INC	/h1b-sponsors/om-tek-inc-n60e31w92z	BA
-2	SG AMERICAS OPERATIONAL SERVICES LLC	/h1b-sponsors/sg-americas-operational-services-llc-60eq9ppm0z	BA
-2	HARVEY NASH INC	/h1b-sponsors/harvey-nash-inc-vx23z73n0g	BA
-2	HCL AMERICA INC	/h1b-sponsors/hcl-america-inc-v82wdjx015	BA
-2	SKYWALK GLOBAL LLC	/h1b-sponsors/skywalk-global-llc-560d577d28	BA
-2	DIGITALTREE LLC	/h1b-sponsors/digitaltree-llc-g27r44rq05	BA
-2	NEW YORK TECHNOLOGY PARTNERS INC	/h1b-sponsors/new-york-technology-partners-inc-d1k9zlnx2m	BA
-2	THE RELIABLE SOLUTIONS GROUP LLC	/h1b-sponsors/the-reliable-solutions-group-llc-1kzn4xojkm	BA
-2	AVANI TECHNOLOGY SOLUTIONS INC	/h1b-sponsors/avani-technology-solutions-inc-370ozqynkz	BA
-2	GROUPON INC	/h1b-sponsors/groupon-inc-n60eml99kz	BA
-2	XENONINFOTEK INC	/h1b-sponsors/xenoninfotek-inc-dvk4z8w60w	BA
-2	ZOETIS INC	/h1b-sponsors/zoetis-inc-vx23pqx3kg	BA
-2	R3 TECHNOLOGY INC	/h1b-sponsors/r3-technology-inc-1ok88mdwkd	BA
-2	PROOFPOINT INC	/h1b-sponsors/proofpoint-inc-1ok8jwv32d	BA
-2	GODADDY.COM LLC	/h1b-sponsors/godaddy-dot-com-llc-nokpnody04	BA
-2	COOK SYSTEMS INTERNATIONAL INC	/h1b-sponsors/cook-systems-international-inc-4l0yd4dv0x	BA
-2	THE BANK OF NOVA SCOTIA	/h1b-sponsors/the-bank-of-nova-scotia-m2m6633701	BA
-2	BUCHANAN TECHNOLOGIES INC	/h1b-sponsors/buchanan-technologies-inc-1k9n53e82m	BA
-2	NEVONEX IT SOLUTIONS INC	/h1b-sponsors/nevonex-it-solutions-inc-60eqn6mr0z	BA
-2	MARITZ CONSULTING GROUP	/h1b-sponsors/maritz-consulting-group-370o5q8xkz	BA
-2	UPMYND INC	/h1b-sponsors/upmynd-inc-m2m6p7y701	BA
-2	PRICE FOR PROFIT LLC	/h1b-sponsors/price-for-profit-llc-dvk4ov562w	BA
-2	FLEX CONSULTING GROUP INC	/h1b-sponsors/flex-consulting-group-inc-p1kzqldjkm	BA
-2	MTSS INC	/h1b-sponsors/mtss-inc-4l0yd6lv0x	BA
-2	PTC INC	/h1b-sponsors/ptc-inc-510jgwq10v	BA
-2	COGNITUS CONSULTING LLC	/h1b-sponsors/cognitus-consulting-llc-370oyx1y2z	BA
-2	T ROWE PRICE ASSOCIATES INC	/h1b-sponsors/t-rowe-price-associates-inc-4l0y48p10x	BA
-2	CORNERSTONE BUILDING BRANDS INC	/h1b-sponsors/cornerstone-building-brands-inc-op0lj88j2l	BA
-2	ADVANCED TECHNOLOGY CONSULTING SERVICE INC	/h1b-sponsors/advanced-technology-consulting-service-inc-6g0694jq0q	BA
-2	LOGIC PLANET INC	/h1b-sponsors/logic-planet-inc-g10176go07	BA
-2	WAYFAIR LLC	/h1b-sponsors/wayfair-llc-x237yv7xkg	BA
-2	LIBERTAS FUNDING LLC	/h1b-sponsors/libertas-funding-llc-x237m65xkg	BA
-2	SERVICE ORIENTED SOLUTIONS LLC	/h1b-sponsors/service-oriented-solutions-llc-101z4o6z27	BA
-2	CYBER SPHERE LLC	/h1b-sponsors/cyber-sphere-llc-510j59d12v	BA
-2	NAZTEC INTERNATIONAL GROUP LLC	/h1b-sponsors/naztec-international-group-llc-150n977r2g	BA
-2	CHINA TELECOM AMERICAS CORPORATION	/h1b-sponsors/china-telecom-americas-corporation-60d9y5g6k8	BA
-2	22ND CENTURY TECHNOLOGIES INC	/h1b-sponsors/22nd-century-technologies-inc-op0lld1x0l	BA
-2	SMARTEQ SOLUTIONS LLC	/h1b-sponsors/smarteq-solutions-llc-101zevvz27	BA
-2	VISA TECHNOLOGY & OPERATIONS LLC	/h1b-sponsors/visa-technology-and-operations-llc-vx23q97q0g	BA
-2	PAX TECHNOLOGY INC	/h1b-sponsors/pax-technology-inc-dvk4zmlg0w	BA
-2	RIZONTEK INC	/h1b-sponsors/rizontek-inc-w2xpnwqyk3	BA
-2	TECHNODEED LLC	/h1b-sponsors/technodeed-llc-9k5n5w5rk1	BA
-2	CLOUD BC LABS INC	/h1b-sponsors/cloud-bc-labs-inc-x23738gxkg	BA
-2	AMERICAN TECHNOLOGY CONSULTING LLC	/h1b-sponsors/american-technology-consulting-llc-9k5n535rk1	BA
-2	APPSTREAM TECHNOLOGIES LLC	/h1b-sponsors/appstream-technologies-llc-10j7pmx50v	BA
-2	CAPITALROCK LLC	/h1b-sponsors/capitalrock-llc-p0l41g9j2l	BA
-2	MC GROUP OF COMPANIES LLC	/h1b-sponsors/mc-group-of-companies-llc-1k9n7qrx2m	BA
-2	LILLI TECHNOLOGY LLC	/h1b-sponsors/lilli-technology-llc-rd0g5jvv2o	BA
-2	CALIBER BUSINESS SYSTEMS INC	/h1b-sponsors/caliber-business-systems-inc-op0lrvqx0l	BA
-2	GLOBAL CLOUD RUNNER INC	/h1b-sponsors/global-cloud-runner-inc-vk489oxn0w	BA
-2	INFOSENSEGLOBAL INC	/h1b-sponsors/infosenseglobal-inc-x237754xkg	BA
-2	WELLNECITY LLC	/h1b-sponsors/wellnecity-llc-4l0yzmd12x	BA
-2	IRIS SOFTWARE INC	/h1b-sponsors/iris-software-inc-5g2rld482l	BA
-2	RANG TECHNOLOGIES INC	/h1b-sponsors/rang-technologies-inc-5g2rjg6kly	BA
-2	VALIANT TEK GROUP INC	/h1b-sponsors/valiant-tek-group-inc-50nrjm5p2g	BA
-2	ISOLVE TECHNOLOGY INC	/h1b-sponsors/isolve-technology-inc-1k9n4mex2m	BA
-2	SUMERU INC	/h1b-sponsors/sumeru-inc-370onlykz1	BA
-2	ECHO IT SOLUTION INC	/h1b-sponsors/echo-it-solution-inc-w2xplmq6k3	BA
-2	TECHMATRIX INC	/h1b-sponsors/techmatrix-inc-60d9z5rpk8	BA
-2	MODESTO TECH SOLUTIONS LLC	/h1b-sponsors/modesto-tech-solutions-llc-60eqw3r90z	BA
-2	LUXOFT USA INC	/h1b-sponsors/luxoft-usa-inc-60d9p5q6k8	BA
-2	MAVEN COMPANIES INC	/h1b-sponsors/maven-companies-inc-4l0y4o810x	BA
-2	SUNSOFT SERVICES INC	/h1b-sponsors/sunsoft-services-inc-1ok8z83kdz	BA
-2	EATEAM INC	/h1b-sponsors/eateam-inc-150nodz12g	BA
-2	DMS IT SERVICES INC	/h1b-sponsors/dms-it-services-inc-10j7rze10v	BA
-2	RYAN BUSINESS AND TECHNOLOGY SOLUTIONS LLC	/h1b-sponsors/ryan-business-and-technology-solutions-llc-vx23jmqgkg	BA
-2	CLEVERSMITHS INC	/h1b-sponsors/cleversmiths-inc-101zrjqp27	BA
-2	IQUBETECHNOLOGIES INC	/h1b-sponsors/iqubetechnologies-inc-8r0vpp301v	BA
-2	3B STAFFING LLC	/h1b-sponsors/3b-staffing-llc-ew2xjnwnk3	BA
-2	SYSTECH INTERNATIONAL INC	/h1b-sponsors/systech-international-inc-m2m6x4oj01	BA
-2	TEKBIZ SOLUTIONS LLC	/h1b-sponsors/tekbiz-solutions-llc-pg27jj9p25	BA
-2	NUBUSTECHNOINC	/h1b-sponsors/nubustechnoinc-30q49gpzkq	BA
-2	SIGMA PETROLEUM INC	/h1b-sponsors/sigma-petroleum-inc-p0l4rq7z2l	BA
-2	SRI TECH SOLUTIONS INC	/h1b-sponsors/sri-tech-solutions-inc-vx23n4vg0g	BA
-2	WISEFOLKS TECHNOLOGIES INC	/h1b-sponsors/wisefolks-technologies-inc-9k5n9york1	BA
-2	SAPPHIRE SOFTWARE SOLUTIONS INC	/h1b-sponsors/sapphire-software-solutions-inc-560drqvek8	BA
-2	VETERAN PIPELINE CONSTRUCTION INC	/h1b-sponsors/veteran-pipeline-construction-inc-1k9n93lq2m	BA
-2	E & E CO LTD	/h1b-sponsors/e-and-e-co-ltd-em2m713721	BA
-2	PRIME S4 TECHNOLOGIES LLC	/h1b-sponsors/prime-s4-technologies-llc-60eqw9510z	BA
-2	GENPX INC	/h1b-sponsors/genpx-inc-g0668q1y0q	BA
-2	PRONIX INC	/h1b-sponsors/pronix-inc-4l0yp7450x	BA
-2	GLOBALTEKFORCECOM INC	/h1b-sponsors/globaltekforcecom-inc-70ojl7mv2z	BA
-2	TEXANS IT SERVICES INC	/h1b-sponsors/texans-it-services-inc-g1015pnv27	BA
-2	EMAESTRO TECHNOLOGIES INC	/h1b-sponsors/emaestro-technologies-inc-1ok8vy52dz	BA
-2	PRUTECH SOLUTIONS INC	/h1b-sponsors/prutech-solutions-inc-8r0vqm921v	BA
-2	MORNINGSTAR INC	/h1b-sponsors/morningstar-inc-v82wzv9d21	BA
-2	DEVOIR SOFTWARE SOLUTIONS LLC	/h1b-sponsors/devoir-software-solutions-llc-okprvx1q24	BA
-2	CONFIG CONSULTANTS LLC	/h1b-sponsors/config-consultants-llc-10j79nxp0v	BA
-2	RIGIL CORPORATION	/h1b-sponsors/rigil-corporation-4l0yjqg50x	BA
-2	APTIVA CORP	/h1b-sponsors/aptiva-corp-g1018wz275	BA
-2	ARCUS TECHNOLOGIES	/h1b-sponsors/arcus-technologies-510jvrn10v	BA
-2	HUMAN RESOURCE AND KNOWLEDGE INC	/h1b-sponsors/human-resource-and-knowledge-inc-l9k557rrk1	BA
-2	SIMS GROUP USA HOLDINGS CORPORATION	/h1b-sponsors/sims-group-usa-holdings-corporation-60d91d8xk8	BA
-2	AMAZECH SOLUTIONS LLC	/h1b-sponsors/amazech-solutions-llc-rd0gqlpq2o	BA
-2	SUNTISFY INC	/h1b-sponsors/suntisfy-inc-5g2r88j80l	BA
-2	CLOUD DATA SYSTEMS INC	/h1b-sponsors/cloud-data-systems-inc-370o6l4y0z	BA
-2	SYSTEM ONE HOLDINGS LLC	/h1b-sponsors/system-one-holdings-llc-g2r66j362l	BA
-2	CREATIVE INFORMATION TECHNOLOGY INC	/h1b-sponsors/creative-information-technology-inc-g2r64m382l	BA
-2	TECHNIPROS LLC	/h1b-sponsors/technipros-llc-510jqgyg2v	BA
-2	PCI ENERGY SOLUTIONS AKA POWER COSTS INC	/h1b-sponsors/pci-energy-solutions-aka-power-costs-inc-p0l41pqj2l	BA
-2	TECHNOLOGY HUB INC	/h1b-sponsors/technology-hub-inc-1kznvnmqkm	BA
-2	VENSOFT INC	/h1b-sponsors/vensoft-inc-d1k9qz882m	BA
-2	PSKW LLC	/h1b-sponsors/pskw-llc-560dj9nd08	BA
-2	EVERGENT TECHNOLOGIES INC	/h1b-sponsors/evergent-technologies-inc-560dv7e608	BA
-2	ECLOUDOPTIMUM CORP	/h1b-sponsors/ecloudoptimum-corp-1kznw91ykm	BA
-2	EMERGENT TALENT LLC	/h1b-sponsors/emergent-talent-llc-p0l48qem2l	BA
-2	TISTA SCIENCE AND TECHNOLOGY CORPORATION	/h1b-sponsors/tista-science-and-technology-corporation-g101d1zz07	BA
-2	SUPRASOFT INC	/h1b-sponsors/suprasoft-inc-l0yvv36p0x	BA
-2	CLOUD REVOLUTE INC	/h1b-sponsors/cloud-revolute-inc-x237z1nvkg	BA
-2	INTERCONTINENTAL EXCHANGE HOLDINGS INC	/h1b-sponsors/intercontinental-exchange-holdings-inc-em2my6gj21	BA
-2	HP INC	/h1b-sponsors/hp-inc-4l0y7r860x	BA
-2	TECH SMART SOLUTIONS LLC	/h1b-sponsors/tech-smart-solutions-llc-l0yvqxeq0x	BA
-2	NEW YORK VALUE CLUB LTD	/h1b-sponsors/new-york-value-club-ltd-dvk49x162w	BA
-1	FATIMAH JEWELERS	/h1b-sponsors/fatimah-jewelers-70ojvxdq2z	BA
-1	SOCIALCOM INC & SUBSIDIARIES	/h1b-sponsors/socialcom-inc-and-subsidiaries-ok857j93kd	BA
-1	CATALYST ACOUSTICS HOLDINGS INC	/h1b-sponsors/catalyst-acoustics-holdings-inc-9k5n4z76k1	BA
-1	LAU MEDICAL LLC	/h1b-sponsors/lau-medical-llc-10j7r8lp0v	BA
-1	COSTQUEST ASSOCIATES INC	/h1b-sponsors/costquest-associates-inc-x30qd64nkq	BA
-1	NATIONWIDE PROPERTY & APPRAISAL SERVICES LLC	/h1b-sponsors/nationwide-property-and-appraisal-services-llc-150nx4y12g	BA
-1	KORCOMPTENZ INC	/h1b-sponsors/korcomptenz-inc-pg278gw7k5	BA
-1	RAAS INFOTEK LLC	/h1b-sponsors/raas-infotek-llc-pg27mvpg25	BA
-1	MAXIL TECHNOLOGY SOLUTIONS INC	/h1b-sponsors/maxil-technology-solutions-inc-d1k9l578km	BA
-1	MICROCHIP TECHNOLOGY INC	/h1b-sponsors/microchip-technology-inc-6g06rq6m0q	BA
-1	MARS TECH SOLUTIONS LLC	/h1b-sponsors/mars-tech-solutions-llc-rd0gg9lq0o	BA
-1	ANDRE GLOBAL INC	/h1b-sponsors/andre-global-inc-vx2316zgkg	BA
-1	SNRC INC	/h1b-sponsors/snrc-inc-30q4e65zkq	BA
-1	IVANTEQ LLC	/h1b-sponsors/ivanteq-llc-ok85w675kd	BA
-1	WORLDWIDE DISTRIBUTION SYSTEMS USA LLC	/h1b-sponsors/worldwide-distribution-systems-usa-llc-g0661wzy0q	BA
-1	KLICK OASIS SYSTEMS INC	/h1b-sponsors/klick-oasis-systems-inc-x30q4plrkq	BA
-1	MOMOKO INTERNATIONAL INC	/h1b-sponsors/momoko-international-inc-ew2xzron03	BA
-1	THUNKABLE INC	/h1b-sponsors/thunkable-inc-x237383vkg	BA
-1	COLAS INC	/h1b-sponsors/colas-inc-vx23zd730g	BA
-1	168 BUILDER INC	/h1b-sponsors/168-builder-inc-p1kzvw942m	BA
-1	FUSION LIFE SCIENCES TECHNOLOGIES LLC	/h1b-sponsors/fusion-life-sciences-technologies-llc-1k9nnq5q2m	BA
-1	ALREK BUSINESS SOLUTIONS INC	/h1b-sponsors/alrek-business-solutions-inc-560d7ynw08	BA
-1	MCMINDS IT SOLUTIONS INC	/h1b-sponsors/mcminds-it-solutions-inc-p0l41j9l2l	BA
-1	WE WORK MANAGEMENT LLC	/h1b-sponsors/we-work-management-llc-em2m7jmd21	BA
-1	MUDRASYS INC	/h1b-sponsors/mudrasys-inc-370o31zr0z	BA
-1	AAA VIRGINIA CONSULTING INC	/h1b-sponsors/aaa-virginia-consulting-inc-6g06zwvmkq	BA
-1	KAIZEN SOFTWARE SYSTEMS INC	/h1b-sponsors/kaizen-software-systems-inc-9k5nv8nyk1	BA
-1	AGA FINCORP INC	/h1b-sponsors/aga-fincorp-inc-x30qnjyr0q	BA
-1	ZAIN BUSINESS INC	/h1b-sponsors/zain-business-inc-9k5nn7v9k1	BA
-1	SHAVS LLC	/h1b-sponsors/shavs-llc-okprvnln24	BA
-1	D&D INTERNETWORKING INC	/h1b-sponsors/d-and-d-internetworking-inc-150n4o6ekg	BA
-1	CABLE MATTERS INC	/h1b-sponsors/cable-matters-inc-4l0yqpj52x	BA
-1	LINXAI INC	/h1b-sponsors/linxai-inc-60eq6jx10z	BA
-1	NK TECHNOLABS LLC	/h1b-sponsors/nk-technolabs-llc-p1kzyx6y2m	BA
-1	QUICKMART PHARMACY AND CONVENIENCE LLC	/h1b-sponsors/quickmart-pharmacy-and-convenience-llc-60eqw6g10z	BA
-1	TRANSCEND STREET SOLUTIONS INC	/h1b-sponsors/transcend-street-solutions-inc-w2xp4xvmk3	BA
-1	DETECON INC	/h1b-sponsors/detecon-inc-4l0yqjj52x	BA
-1	HEALTH CARE SERVICE CORPORATION	/h1b-sponsors/health-care-service-corporation-d1k9drxv0m	BA
-1	INGENWORKS LLC	/h1b-sponsors/ingenworks-llc-op0ll7jx0l	BA
-1	TECHMIND SOFTWARE SOLUTIONS LLC	/h1b-sponsors/techmind-software-solutions-llc-5g2rxw182l	BA
-1	RADIANT INNOVATIVE INC	/h1b-sponsors/radiant-innovative-inc-vk48pe560w	BA
-1	AMVOTECH SOLUTIONS INC	/h1b-sponsors/amvotech-solutions-inc-ok854qqrkd	BA
-1	SAION SOLUTIONS INC	/h1b-sponsors/saion-solutions-inc-60eq4pxr0z	BA
-1	SANDHILLS GLOBAL INC	/h1b-sponsors/sandhills-global-inc-p1kzx3p70m	BA
-1	RADIANTZE INC	/h1b-sponsors/radiantze-inc-101ze14o27	BA
-1	TETRAFORZASOFT INC	/h1b-sponsors/tetraforzasoft-inc-560d3y8ek8	BA
-1	RYALI ASSOCIATES INC	/h1b-sponsors/ryali-associates-inc-150nq93e0g	BA
-1	VENSA TEK LLC	/h1b-sponsors/vensa-tek-llc-okprpjen24	BA
-1	INTELLISWIFT SOFTWARE INC	/h1b-sponsors/intelliswift-software-inc-d1k964yqkm	BA
-1	RELISH WORKS LLC	/h1b-sponsors/relish-works-llc-101x4n36k7	BA
-1	SIGMA RESOURCES LLC	/h1b-sponsors/sigma-resources-llc-6g06753y2q	BA
-1	CHANG SHENG INC	/h1b-sponsors/chang-sheng-inc-x30qg7zzkq	BA
-1	ORADELL INTERNATIONAL CORP	/h1b-sponsors/oradell-international-corp-6g06zqdqkq	BA
-1	NASUNI CORPORATION	/h1b-sponsors/nasuni-corporation-9k5n8x1rk1	BA
-1	H & M HANSOTI LLC	/h1b-sponsors/h-and-m-hansoti-llc-w2xpw7r6k3	BA
-1	INFOBAHN SOFTWORLD INC	/h1b-sponsors/infobahn-softworld-inc-rd0g8w4w2o	BA
-1	HECTOR SYSTEMS INC	/h1b-sponsors/hector-systems-inc-370o6q7v0z	BA
-1	MATRIX PRECISE INC	/h1b-sponsors/matrix-precise-inc-op0lxlz40l	BA
-1	YASHCO SYSTEMS INC	/h1b-sponsors/yashco-systems-inc-8r0vrqdjk1	BA
-1	NATSOFT CORPORATION	/h1b-sponsors/natsoft-corporation-dvk4vv7vkw	BA
-1	DYNASTICX LLC	/h1b-sponsors/dynasticx-llc-d0g9559qko	BA
-1	AMERICAN EXPRESS TRAVEL RELATED SERVICES COMPANY INC	/h1b-sponsors/american-express-travel-related-services-company-inc-8r0v861v21	BA
-1	VENISA INC	/h1b-sponsors/venisa-inc-x237mj7vkg	BA
-1	VANTAGE POINT CONSULTING INC	/h1b-sponsors/vantage-point-consulting-inc-x30qlyxz2q	BA
-1	NEXUS IT INC	/h1b-sponsors/nexus-it-inc-560deozw28	BA
-1	HUMETIS TECHNOLOGIES INC	/h1b-sponsors/humetis-technologies-inc-5g2ryvr8kl	BA
-1	VICTORY PACKAGING LP	/h1b-sponsors/victory-packaging-lp-v82wnrrj21	BA
-1	ZELECLOUD LLC	/h1b-sponsors/zelecloud-llc-30q4x65gkq	BA
-1	NX3 CORPORATION	/h1b-sponsors/nx3-corporation-vk4n56rp0w	BA
-1	7ITTECH LLC	/h1b-sponsors/7ittech-llc-l0yvqo960x	BA
-1	VINMAR INTERNATIONAL LTD	/h1b-sponsors/vinmar-international-ltd-w2xpnle6k3	BA
-1	KATHMANDU HOLDING INC	/h1b-sponsors/kathmandu-holding-inc-m2m6p9qj01	BA
-1	NUEVA SOLUTIONS INC	/h1b-sponsors/nueva-solutions-inc-ew2xp3n6k3	BA
-1	IKON TECH SERVICES LLC	/h1b-sponsors/ikon-tech-services-llc-x30q8p4r0q	BA
-1	SHAMROCK FOODS COMPANY	/h1b-sponsors/shamrock-foods-company-g101vl3607	BA
-1	CITADEL INFORMATION SERVICES INC	/h1b-sponsors/citadel-information-services-inc-d1k9y95q0m	BA
-1	ELIXIR LAB USA INC	/h1b-sponsors/elixir-lab-usa-inc-1kznomgqkm	BA
-1	INFOMARINES INC	/h1b-sponsors/infomarines-inc-10j7wyze0v	BA
-1	ARABELLA TEXTILES LLC	/h1b-sponsors/arabella-textiles-llc-ok85p593kd	BA
-1	BUILDER HOMESITE INC	/h1b-sponsors/builder-homesite-inc-6g06o44q0q	BA
-1	RODNEY LAWRENCE INC	/h1b-sponsors/rodney-lawrence-inc-101zjr8o27	BA
-1	APPLIFY AI INC	/h1b-sponsors/applify-ai-inc-50nr8w3e2g	BA
-1	HP INFOSYSTEM LLC	/h1b-sponsors/hp-infosystem-llc-ok855qzrkd	BA
-1	VIBRANT TECH LLC	/h1b-sponsors/vibrant-tech-llc-r0v6oqrqk1	BA
-1	F4 STARHOUSE INC	/h1b-sponsors/f4-starhouse-inc-d0g95875ko	BA
-1	ALIGN TECHNOLOGY INC	/h1b-sponsors/align-technology-inc-ew2xzgmn03	BA
-1	GREEN WAVE INGREDIENTS INC	/h1b-sponsors/green-wave-ingredients-inc-560dprrw08	BA
-1	DVG TECH SOLUTIONS LLC	/h1b-sponsors/dvg-tech-solutions-llc-n60edew9kz	BA
-1	THE FLORIDA STATE UNIVERSITY	/h1b-sponsors/the-florida-state-university-pg27djvm25	BA
-1	WELCOME SERVICES INC	/h1b-sponsors/welcome-services-inc-vk4n5v5y0w	BA
-1	TEQSPHERE LLC	/h1b-sponsors/teqsphere-llc-g2r686z82l	BA
-1	WORKCOMPVIDENCE LLC	/h1b-sponsors/workcompvidence-llc-8r0v8pxg21	BA
-1	SUTTON BANK	/h1b-sponsors/sutton-bank-1kznyzj4km	BA
-1	ASPIRE TECH LLC	/h1b-sponsors/aspire-tech-llc-vk484xey0w	BA
-1	KNOVIQ IT SOLUTIONS LLC	/h1b-sponsors/knoviq-it-solutions-llc-10j7p5xl0v	BA
-1	IMIDIA LLC	/h1b-sponsors/imidia-llc-g2r6emg62l	BA
-1	ON OFF SHORE CONSULTANTS INC	/h1b-sponsors/on-off-shore-consultants-inc-9k5nn55dk1	BA
-1	INTERNATIONAL SOFTWARE SYSTEMS INC	/h1b-sponsors/international-software-systems-inc-370ov8yv2z	BA
-1	FUSEN TECHNOLOGIES INC	/h1b-sponsors/fusen-technologies-inc-g2r4z73ekl	BA
-1	AVIONOS LLC	/h1b-sponsors/avionos-llc-p0l46nqm2l	BA
-1	PROFUSION SYSTEMS INC	/h1b-sponsors/profusion-systems-inc-60d99zdpk8	BA
-1	FREEDOM MORTGAGE INC	/h1b-sponsors/freedom-mortgage-inc-g2r6ny662l	BA
-1	NFP CORP	/h1b-sponsors/nfp-corp-ok855655kd	BA
-1	MIDWESTERN IT INC	/h1b-sponsors/midwestern-it-inc-50nrj1yg2g	BA
-1	FIREFLY PROS INC	/h1b-sponsors/firefly-pros-inc-vk485ye60w	BA
-1	NRG KIOSK LLC	/h1b-sponsors/nrg-kiosk-llc-pg27zo9pk5	BA
-1	ST JUDE MEDICAL CARDIOLOGY DIVISION INC	/h1b-sponsors/st-jude-medical-cardiology-division-inc-dvk4ye5vkw	BA
-1	NEWDREAM DATA SYSTEMS LLC	/h1b-sponsors/newdream-data-systems-llc-1ok8lzz50d	BA
-1	CONVOY INC	/h1b-sponsors/convoy-inc-pg2789lpk5	BA
-1	TEKSYSTEMS INC	/h1b-sponsors/teksystems-inc-560dvzep08	BA
-1	CAYZEN CORPORATION	/h1b-sponsors/cayzen-corporation-370o97ly0z	BA
-1	EXCELACOM INC	/h1b-sponsors/excelacom-inc-vk48n65n0w	BA
-1	GNARITAS	/h1b-sponsors/gnaritas-60d975y6k8	BA
-1	RISK THEORY LLC	/h1b-sponsors/risk-theory-llc-1ok8dmm52d	BA
-1	BUSINESS INTEGRA TECHNOLOGY SOLUTIONS INC	/h1b-sponsors/business-integra-technology-solutions-inc-510jogg5kv	BA
-1	TRUSTARTIT LLC	/h1b-sponsors/trustartit-llc-50nr4r4r2g	BA
-1	ARTIFINT TECHNOLOGIES LLC	/h1b-sponsors/artifint-technologies-llc-5g2rqd480l	BA
-1	VISION IT USA INC	/h1b-sponsors/vision-it-usa-inc-g066p18q0q	BA
-1	FOCALONE SOFT INC	/h1b-sponsors/focalone-soft-inc-n60e37w92z	BA
-1	RESMAC INC	/h1b-sponsors/resmac-inc-g066njnm0q	BA
-1	JUN AN CONSULTING INC	/h1b-sponsors/jun-an-consulting-inc-g0667ddp0q	BA
-1	BEYOND HOLDING US LLC	/h1b-sponsors/beyond-holding-us-llc-101ze4rp27	BA
-1	THINKLUSIVE INC	/h1b-sponsors/thinklusive-inc-x2373yzxkg	BA
-1	MARQUETTE UNIVERSITY	/h1b-sponsors/marquette-university-g101jdev07	BA
-1	CERTASUN LLC	/h1b-sponsors/certasun-llc-x23nej1q0g	BA
-1	SLIGO SOFTWARE SOLUTIONS INC	/h1b-sponsors/sligo-software-solutions-inc-510je9752v	BA
-1	PACGENOMICS INC	/h1b-sponsors/pacgenomics-inc-70ojvw1v2z	BA
-1	CHERY INDUSTRIAL INC	/h1b-sponsors/chery-industrial-inc-60ee94990z	BA
-1	I&I SOFTWARE INC	/h1b-sponsors/i-and-i-software-inc-vx23ym9gkg	BA
-1	THE X POT CHICAGO LLC	/h1b-sponsors/the-x-pot-chicago-llc-101zj18p27	BA
-1	JNS RX LLC	/h1b-sponsors/jns-rx-llc-p0l4lp4l2l	BA
-1	INCEDO INC	/h1b-sponsors/incedo-inc-6g06zpzqkq	BA
-1	THE UNIVERSITY OF TEXAS PERMIAN BASIN	/h1b-sponsors/the-university-of-texas-permian-basin-10j7wmde0v	BA
-1	DIGITAL DATUM INC	/h1b-sponsors/digital-datum-inc-ok85gq8okd	BA
-1	INFOJINI INC	/h1b-sponsors/infojini-inc-510jgwne0v	BA
-1	RESOURCE INFORMATICS GROUP INC	/h1b-sponsors/resource-informatics-group-inc-1ok898or0d	BA
-1	PALM BAY RX PHARMACY LLC	/h1b-sponsors/palm-bay-rx-pharmacy-llc-g2r4zpl3kl	BA
-1	PRIMESOFT INC	/h1b-sponsors/primesoft-inc-g101nj8827	BA
-1	EXALYNC INC	/h1b-sponsors/exalync-inc-d0g9epw5ko	BA
-1	JAI GANESH INC	/h1b-sponsors/jai-ganesh-inc-4l0y7wj10x	BA
-1	I3 VERTICALS MANAGEMENT SERVICES INC	/h1b-sponsors/i3-verticals-management-services-inc-60d9jwp6k8	BA
-1	ASTRA INC	/h1b-sponsors/astra-inc-ew2xdm4yk3	BA
-1	LVEB LOGISTICS LLC	/h1b-sponsors/lveb-logistics-llc-l0yvn9910x	BA
-1	MEDZED LLC	/h1b-sponsors/medzed-llc-1k9n5e9r2m	BA
-1	MORGAN AND MORGAN PA	/h1b-sponsors/morgan-and-morgan-pa-60d9nog6k8	BA
-1	AGAMA SOLUTIONS INC	/h1b-sponsors/agama-solutions-inc-150n3wy92g	BA
-1	BRAINBOW SERVICES INC	/h1b-sponsors/brainbow-services-inc-101zj17p27	BA
-1	AMERICANNURSES.COM	/h1b-sponsors/americannurses-dot-com-p1kzoro70m	BA
-1	FINDICA INC	/h1b-sponsors/findica-inc-rd0gvv6y0o	BA
-1	T & Z GROUP INC	/h1b-sponsors/t-and-z-group-inc-g066lqom0q	BA
-1	ASOFT CONSULTING LLC	/h1b-sponsors/asoft-consulting-llc-60d9wv5ek8	BA
-1	RJT COMPUQUEST INC DBA APOLIS	/h1b-sponsors/rjt-compuquest-inc-dba-apolis-g066658q0q	BA
-1	LARGETON INC	/h1b-sponsors/largeton-inc-okprooez24	BA
-1	SHAMROCK EVERGREEN LLC	/h1b-sponsors/shamrock-evergreen-llc-w2xpmzlmk3	BA
-1	GOLD N DIAMONDS INC	/h1b-sponsors/gold-n-diamonds-inc-510jj6x10v	BA
-1	TECHSTRA SOLUTIONS LLC	/h1b-sponsors/techstra-solutions-llc-1ok88zewkd	BA
-1	SALDERZ INC	/h1b-sponsors/salderz-inc-60eqwg8m0z	BA
-1	ABSOLUTE INFORMATION TECHNOLOGIES INC	/h1b-sponsors/absolute-information-technologies-inc-g27r3ymp05	BA
-1	CAREER SOFT SOLUTIONS INC	/h1b-sponsors/career-soft-solutions-inc-560djqd084	BA
-1	INSURITY LLC	/h1b-sponsors/insurity-llc-w2xpr8ynk3	BA
-1	TECKPROS LLC	/h1b-sponsors/teckpros-llc-1ok8gjr2dz	BA
-1	RADIANT DIGITAL SOLUTIONS INC	/h1b-sponsors/radiant-digital-solutions-inc-dvk4zzeg0w	BA
-1	VIABOUND LLC	/h1b-sponsors/viabound-llc-vk48459g0w	BA
-1	AARNA TECHNOLOGIES LLC	/h1b-sponsors/aarna-technologies-llc-okprggz924	BA
-1	RELISH WORKS INC	/h1b-sponsors/relish-works-inc-5g2rr1g92l	BA
-1	KEY BUSINESS SOLUTIONS INC	/h1b-sponsors/key-business-solutions-inc-60eqxnr90z	BA
-1	PRIMESOFT TECHNOLOGIES INC	/h1b-sponsors/primesoft-technologies-inc-50nrvvmr2g	BA
-1	USHIREPRO LLC	/h1b-sponsors/ushirepro-llc-vk4846gn0w	BA
-1	MI SOFTECH INC	/h1b-sponsors/mi-softech-inc-n60elyd92z	BA
-1	CR TECHNOLOGIES INC DBA CR TECK INC	/h1b-sponsors/cr-technologies-inc-dba-cr-teck-inc-101zjpyo27	BA
-1	BIOMARIN PHARMACEUTICAL INC	/h1b-sponsors/biomarin-pharmaceutical-inc-p1kznm67km	BA
-1	GAEA GLOBAL TECHNOLOGIES INC	/h1b-sponsors/gaea-global-technologies-inc-510jnoq12v	BA
-1	SILICON LABORATORIES INC	/h1b-sponsors/silicon-laboratories-inc-rd0gyv170o	BA
-1	JD CAPITAL ADVISORS USA LLC	/h1b-sponsors/jd-capital-advisors-usa-llc-op0lwlrlkl	BA
-1	MACONIT INC	/h1b-sponsors/maconit-inc-60eqq7nr0z	BA
-1	IQIT SOLUTIONS INC	/h1b-sponsors/iqit-solutions-inc-vk48961g0w	BA
-1	ECCLESIASTES INC	/h1b-sponsors/ecclesiastes-inc-50nrvwvp2g	BA
-1	SAGITEC SOLUTIONS LLC	/h1b-sponsors/sagitec-solutions-llc-pg273m5m05	BA
-1	MOODYS INVESTORS SERVICE INC	/h1b-sponsors/moodys-investors-service-inc-v82wowzlk1	BA
-1	EQUI TEK LLC	/h1b-sponsors/equi-tek-llc-370ovjov2z	BA
-1	PANASONIC AVIONICS CORPORATION	/h1b-sponsors/panasonic-avionics-corporation-10j77loe0v	BA
-1	ARNEX SOLUTIONS LLC	/h1b-sponsors/arnex-solutions-llc-g101qmzv27	BA
-1	GANNU SOFTWARE INC	/h1b-sponsors/gannu-software-inc-m2m6nqd401	BA
-1	SYNATY LLC	/h1b-sponsors/synaty-llc-vk4841x60w	BA
-1	OSA OPERATIONS LLC	/h1b-sponsors/osa-operations-llc-1k9n5ndq2m	BA
-1	TECHNOLOGY CREST CORPORATION	/h1b-sponsors/technology-crest-corporation-150n98q12g	BA
-1	RAIDEN TECH GROUP INC	/h1b-sponsors/raiden-tech-group-inc-p0l41y3m2l	BA
-1	META SOFT INC	/h1b-sponsors/meta-soft-inc-m2m64zn701	BA
-1	COLLABERA LLC	/h1b-sponsors/collabera-llc-m2m69qw401	BA
-1	VENSAR TECHNOLOGY INC	/h1b-sponsors/vensar-technology-inc-v82wd7jd01	BA
-1	RESOURCE LOGISTICS INC	/h1b-sponsors/resource-logistics-inc-1ok8owlr0d	BA
-1	SUNMERGE SYSTEMS INC	/h1b-sponsors/sunmerge-systems-inc-1ok8l1qz0d	BA
-1	CLOUD5 SOLUTIONS INC	/h1b-sponsors/cloud5-solutions-inc-60eqw3910z	BA
-1	TRETA IT INC	/h1b-sponsors/treta-it-inc-9k5nv74yk1	BA
-1	MELLOW SOFT INC	/h1b-sponsors/mellow-soft-inc-x237zqeqkg	BA
-1	ALREACH CORPORATION	/h1b-sponsors/alreach-corporation-p0l465nm2l	BA
-1	EFFECTUAL INC	/h1b-sponsors/effectual-inc-vk48pdq60w	BA
-1	ZIKSATECH LLC	/h1b-sponsors/ziksatech-llc-30q4oo98kq	BA
-1	TAO DIGITAL SOLUTIONS INC	/h1b-sponsors/tao-digital-solutions-inc-g0667x1y0q	BA
-1	ARINSPECT INC	/h1b-sponsors/arinspect-inc-g066nr410q	BA
-1	INDIGO BEAM LLC	/h1b-sponsors/indigo-beam-llc-6g061pp2qw	BA
-1	STUDYHIGH EDUCATION INC	/h1b-sponsors/studyhigh-education-inc-vk48x13p0w	BA
-1	VIDLEXINFO LLC	/h1b-sponsors/vidlexinfo-llc-ok857865kd	BA
-1	CNH INDUSTRIAL AMERICA LLC	/h1b-sponsors/cnh-industrial-america-llc-v82wg54d01	BA
-1	ACENTRA HEALTH LLC	/h1b-sponsors/acentra-health-llc-d0g41vw70o	BA
-1	MSG ENTERTAINMENT HOLDINGS LLC	/h1b-sponsors/msg-entertainment-holdings-llc-82wreezok1	BA
-1	SONY INTERACTIVE ENTERTAINMENT LLC	/h1b-sponsors/sony-interactive-entertainment-llc-9k5nndlrk1	BA
-1	APPLIED MEDICAL RESOURCES CORPORATION	/h1b-sponsors/applied-medical-resources-corporation-1ok8vv9z2d	BA
-1	EXCELON SOLUTIONS LLC	/h1b-sponsors/excelon-solutions-llc-510jngv52v	BA
-1	SAGE IT INC	/h1b-sponsors/sage-it-inc-n60emm81kz	BA
-1	SPARK TEK INC	/h1b-sponsors/spark-tek-inc-70oj47lv2z	BA
-1	STECK SYSTEMS INC	/h1b-sponsors/steck-systems-inc-150ngw4ekg	BA
-1	NATIONAL CONSULTING GROUP INC	/h1b-sponsors/national-consulting-group-inc-1k9nxj5q2m	BA
-1	N1 SOLUTIONS LLC	/h1b-sponsors/n1-solutions-llc-l0yvz8zp0x	BA
-1	IMR SOFT LLC	/h1b-sponsors/imr-soft-llc-vx23xzpg2g	BA
-1	VASTIKA INC	/h1b-sponsors/vastika-inc-101zyjmp27	BA
-1	SIRI SOFTWARE CONSULTANCY SOLUTIONS LLC	/h1b-sponsors/siri-software-consultancy-solutions-llc-82wrwjejk1	BA
-1	MARKETBRIDGE LLC	/h1b-sponsors/marketbridge-llc-9k5n4g4rk1	BA
-1	SYSINTEL INC	/h1b-sponsors/sysintel-inc-w2xp4rnmk3	BA
-1	ADROIT INNOVATIVE SOLUTIONS INC	/h1b-sponsors/adroit-innovative-solutions-inc-x237q7j3kg	BA
-1	AMERICAN ASSOCIATION OF MOTOR VEHICLE ADMINISTRATORS	/h1b-sponsors/american-association-of-motor-vehicle-administrators-v82w781j01	BA
-1	UFLEX PACKAGING INC	/h1b-sponsors/uflex-packaging-inc-6g06wndpkq	BA
-1	SUAVTON GROUP LLC	/h1b-sponsors/suavton-group-llc-50nr88ne2g	BA
-1	TECHSTREAM SOLUTIONS INC	/h1b-sponsors/techstream-solutions-inc-g27rpgxg05	BA
-1	HOME DEPOT USA INC	/h1b-sponsors/home-depot-usa-inc-370oqm6qkz	BA
-1	INFOSOFT INC	/h1b-sponsors/infosoft-inc-v82wr8nlk1	BA
-1	SAPOT SYSTEMS INC	/h1b-sponsors/sapot-systems-inc-vx2396zn2g	BA
-1	E NEXUS INC	/h1b-sponsors/e-nexus-inc-vx2317m3kg	BA
-1	PURE STORAGE INC	/h1b-sponsors/pure-storage-inc-ew2xpm96k3	BA
-1	KERSHNER TRADING GROUP LLC	/h1b-sponsors/kershner-trading-group-llc-560d4xxd08	BA
-1	PRABHAV SERVICES INC	/h1b-sponsors/prabhav-services-inc-dvk4vrpkwp	BA
-1	RED HAT INC	/h1b-sponsors/red-hat-inc-d1k9z6nq2m	BA
-1	SYSTEMS AND SOLUTIONS LLC	/h1b-sponsors/systems-and-solutions-llc-x237zq7qkg	BA
-1	ELLIANSE LLC	/h1b-sponsors/ellianse-llc-ew2xe1vq03	BA
-1	JOBLY SOLUTIONS LLC	/h1b-sponsors/jobly-solutions-llc-g27rwwq705	BA
-1	ICF INCORPORATED LLC	/h1b-sponsors/icf-incorporated-llc-70oj6qjr2z	BA
-1	BLUEFIN CONSULTING GROUP	/h1b-sponsors/bluefin-consulting-group-60eqwy4n0z	BA
-1	MITRA CAPITAL GROUP LLC	/h1b-sponsors/mitra-capital-group-llc-30q493wgkq	BA
-1	ENTERPRISE MANAGEMENT SYSTEMS INC	/h1b-sponsors/enterprise-management-systems-inc-50nr85792g	BA
-1	EMONICS LLC	/h1b-sponsors/emonics-llc-6g06mzgm2q	BA
-1	APERIA SOLUTIONS INC	/h1b-sponsors/aperia-solutions-inc-vx23wv4g0g	BA
-1	PROPHECY CONSULTING INC	/h1b-sponsors/prophecy-consulting-inc-1ok8llvz0d	BA
-1	WAYANALYTICS LLC	/h1b-sponsors/wayanalytics-llc-9k587r18k1	BA
-1	VSECURE TECHNOLOGIES INC	/h1b-sponsors/vsecure-technologies-inc-x237mxl3kg	BA
-1	CONVERGE CONSULTING LLC	/h1b-sponsors/converge-consulting-llc-x237xnqvkg	BA
-1	SUPERNOVA LENDING LLC	/h1b-sponsors/supernova-lending-llc-em2mop1d01	BA
-1	IGATE SOLUTIONS LLC	/h1b-sponsors/igate-solutions-llc-p0l49p942l	BA
-1	MNM CONSULTANT LLC	/h1b-sponsors/mnm-consultant-llc-1k9n5yvw2m	BA
-1	VERVENEST TECHNOLOGIES INC	/h1b-sponsors/vervenest-technologies-inc-370om11y2z	BA
-1	PRIMITIVE PARTNERS LLC	/h1b-sponsors/primitive-partners-llc-g2r6y4992l	BA
-1	CAREER QUENCH TECHNOLOGIES LLC	/h1b-sponsors/career-quench-technologies-llc-g2r6yxo82l	BA
-1	CEREBRAL ARTERY LLC	/h1b-sponsors/cerebral-artery-llc-60d1w44x08	BA
-1	PROMPT GEM IMPORTERS INC	/h1b-sponsors/prompt-gem-importers-inc-5g2rwq80ly	BA
-1	TAG INFORMATION TECHNOLOGY SERVICES	/h1b-sponsors/tag-information-technology-services-10j7xlve0v	BA
-1	TRINITY TECHNOLOGY GROUP INC	/h1b-sponsors/trinity-technology-group-inc-p1kzqx17km	BA
-1	IVYNOVA SOLUTIONS INC	/h1b-sponsors/ivynova-solutions-inc-1kzn1zl4km	BA
-1	TEGRIT SOFTWARE VENTURES INC	/h1b-sponsors/tegrit-software-ventures-inc-op0l1j7j2l	BA
-1	INFOMATICS INC	/h1b-sponsors/infomatics-inc-rd0gpxq70o	BA
-1	SONIVA DENTAL	/h1b-sponsors/soniva-dental-60eq7z4m0z	BA
-1	43 FOOD CORP	/h1b-sponsors/43-food-corp-560d4lre08	BA
-1	ENSOFTEK INC	/h1b-sponsors/ensoftek-inc-g27rjxry05	BA
-1	CANVAS INFOTECH INC	/h1b-sponsors/canvas-infotech-inc-6g068oyqkq	BA
-1	FLAGLER ANALYTICS LLC	/h1b-sponsors/flagler-analytics-llc-70oj4g7y2z	BA
-1	CHERISH HEALTH INC	/h1b-sponsors/cherish-health-inc-d0g9o3eyko	BA
-1	SMARTINT TECHNOLOGIES LLC	/h1b-sponsors/smartint-technologies-llc-g2r6zv9o2l	BA
-1	PUREPATH TECHNOLOGIES INC	/h1b-sponsors/purepath-technologies-inc-m2m6edp901	BA
-1	APEX DIGITAL INC	/h1b-sponsors/apex-digital-inc-n60exj7l2z	BA
-1	I5 TECH INC	/h1b-sponsors/i5-tech-inc-n60eqeyn0z	BA
-1	IT CATS LLC	/h1b-sponsors/it-cats-llc-vx23746vkg	BA
-1	AGADIA SYSTEMS INC	/h1b-sponsors/agadia-systems-inc-rd0gme650o	BA
-1	ITAMERICA INC	/h1b-sponsors/itamerica-inc-ok854onzkd	BA
-1	KOLLASOFT INC	/h1b-sponsors/kollasoft-inc-nokpeozz04	BA
-1	RIVA SOLUTIONS INC	/h1b-sponsors/riva-solutions-inc-10j7p5me0v	BA
-1	TEKHOPS LLC	/h1b-sponsors/tekhops-llc-1kzndemjkm	BA
-1	AP NORTHEAST MANAGEMENT LLC	/h1b-sponsors/ap-northeast-management-llc-x237p1vxkg	BA
-1	VARIYAS GLOBAL SOLUTIONS INC	/h1b-sponsors/variyas-global-solutions-inc-8r0vr1d9k1	BA
-1	KK ASSOCIATES LLC	/h1b-sponsors/kk-associates-llc-8r0v3v89k1	BA
-1	UNIFIED WOMENS HEALTHCARE	/h1b-sponsors/unified-womens-healthcare-30q4xxzrkq	BA
-1	NIRVANA ENTERPRISES LLC	/h1b-sponsors/nirvana-enterprises-llc-ok85ng13kd	BA
-1	EXLSERVICE TECHNOLOGY SOLUTIONS LLC	/h1b-sponsors/exlservice-technology-solutions-llc-x30qjmonkq	BA
-1	SAI TECHNOLOGIES LLC	/h1b-sponsors/sai-technologies-llc-8r0vov1jk1	BA
-1	S&P GLOBAL INC	/h1b-sponsors/s-and-p-global-inc-8r0vpopj01	BA
-1	APPTAD INC	/h1b-sponsors/apptad-inc-101z71jp27	BA
-1	CHAMPS DEPOT RICHARDSON LLC	/h1b-sponsors/champs-depot-richardson-llc-em2mwvpjk1	BA
-1	MUFG UNION BANK NA	/h1b-sponsors/mufg-union-bank-na-6g06qmqqkq	BA
-1	KUCHEROV GLOBAL SOLUTIONS LLC	/h1b-sponsors/kucherov-global-solutions-llc-d0g97147ko	BA
-1	VIGNETIC INC	/h1b-sponsors/vignetic-inc-vk489npn0w	BA
-1	MILLENNIUM SOFTWARE INC	/h1b-sponsors/millennium-software-inc-n60e8rr10z	BA
-1	BUREAU VERITAS NORTH AMERICA	/h1b-sponsors/bureau-veritas-north-america-w2xp7916k3	BA
-1	GOFFA INTERNATIONAL CORP	/h1b-sponsors/goffa-international-corp-vx237jo3kg	BA
-1	ALTAIR PRODUCTDESIGN INC	/h1b-sponsors/altair-productdesign-inc-x30q3mwz2q	BA
-1	MARKOV PROCESSES INTERNATIONAL INC	/h1b-sponsors/markov-processes-international-inc-op0lqgelkl	BA
-1	TRISHULLA LLC	/h1b-sponsors/trishulla-llc-1ok8pw452d	BA
-1	GARDA CAPITAL PARTNERS LP	/h1b-sponsors/garda-capital-partners-lp-nokpgy3zk4	BA
-1	NEXZENTEK SOLUTIONS INC	/h1b-sponsors/nexzentek-solutions-inc-l0yvpw4v0x	BA
-1	GLOBAL DATA TEK INC	/h1b-sponsors/global-data-tek-inc-l0yv59360x	BA
-1	IM SOLUTIONS INC	/h1b-sponsors/im-solutions-inc-60eqjygn0z	BA
-1	FARMERS GROUP INC	/h1b-sponsors/farmers-group-inc-v82w94mok1	BA
-1	QUALITY MATRIX INC	/h1b-sponsors/quality-matrix-inc-g27rjxpp05	BA
-1	TEKBASIC LLC	/h1b-sponsors/tekbasic-llc-d0g9d7dqko	BA
-1	PI SQUARE TECHNOLOGIES LLC	/h1b-sponsors/pi-square-technologies-llc-4l0y88oq2x	BA
-1	WEST CREEK FINANCIAL INC	/h1b-sponsors/west-creek-financial-inc-okprm97n24	BA
-1	ISOFTSTONE INC	/h1b-sponsors/isoftstone-inc-vx23levx2g	BA
-1	ONELINK SOLUTION LLC	/h1b-sponsors/onelink-solution-llc-n60e5ggn0z	BA
-1	UBER TECHNOLOGIES INC	/h1b-sponsors/uber-technologies-inc-510jn3812v	BA
-1	DENOVO SYSTEMS INC	/h1b-sponsors/denovo-systems-inc-p0l485wm2l	BA
-1	WEBB CHAPEL INVESTMENTS INC	/h1b-sponsors/webb-chapel-investments-inc-82wre97lk1	BA
-1	SVANACO INC	/h1b-sponsors/svanaco-inc-ew2xeon603	BA
-1	VEDASOFT INC	/h1b-sponsors/vedasoft-inc-510j8jg2vo	BA
-1	TRESBU DIGITAL INC	/h1b-sponsors/tresbu-digital-inc-70ojv9wx2z	BA
-1	COVANT SOLUTIONS INC	/h1b-sponsors/covant-solutions-inc-560dp94e08	BA
-1	TECH SPAN LLC	/h1b-sponsors/tech-span-llc-l9k5ew1rk1	BA
-1	SUKHLEEN LLC	/h1b-sponsors/sukhleen-llc-okp4jym9k4	BA
-1	GOGO REALTORS RH CORP	/h1b-sponsors/gogo-realtors-rh-corp-dvk4pmrpkw	BA
-1	MAKERBOT INDUSTRIES LLC	/h1b-sponsors/makerbot-industries-llc-510jr7j5kv	BA
-1	PROKARMA INC	/h1b-sponsors/prokarma-inc-nokp9mdy24	BA
-1	C4I TECHNOLOGIES INC	/h1b-sponsors/c4i-technologies-inc-510je4r12v	BA
-1	IBASE OF FAIRFIELD COUNTY LLC DBA QUALITEST GROUP	/h1b-sponsors/ibase-of-fairfield-county-llc-dba-qualitest-group-ok85wnj3kd	BA
-1	MARVEL TECHNOLOGY SOLUTIONS INC	/h1b-sponsors/marvel-technology-solutions-inc-10j7wgyp0v	BA
-1	JOHN TESLA INC	/h1b-sponsors/john-tesla-inc-pg27r8p051	BA
-1	SG HEALTHCARE AND PHARMA TECH INC	/h1b-sponsors/sg-healthcare-and-pharma-tech-inc-9k5nx6r6k1	BA
-1	MAHAYUGAM INC	/h1b-sponsors/mahayugam-inc-1kzn1lm7km	BA
-1	VERTEX US HOLDINGS INC	/h1b-sponsors/vertex-us-holdings-inc-n60eq4110z	BA
-1	COGNITIVE TECHNOLOGY SOLUTIONS INC	/h1b-sponsors/cognitive-technology-solutions-inc-60d9jnqxk8	BA
-1	EPORTAL LLC	/h1b-sponsors/eportal-llc-vk48xdrn0w	BA
-1	INFOSMART SYSTEMS INC	/h1b-sponsors/infosmart-systems-inc-w2xpjldrk3	BA
-1	TECHNOSOFT GROUP INC	/h1b-sponsors/technosoft-group-inc-nokp6zxy24	BA
-1	ALPHA OMEGA INTEGRATION LLC	/h1b-sponsors/alpha-omega-integration-llc-8r0vp1y301	BA
-1	SSA DATA SOLUTIONS LLC	/h1b-sponsors/ssa-data-solutions-llc-82wrevodk1	BA
-1	FORD FIELD MANAGEMENT LLC	/h1b-sponsors/ford-field-management-llc-60ee9lp90z	BA
-1	INTERNATIONAL PAPER	/h1b-sponsors/international-paper-10j7m31e0v	BA
-1	AIBC SOLUTIONS LLC	/h1b-sponsors/aibc-solutions-llc-82wrw4nlk1	BA
-1	PHOTONWARES CORPORATION	/h1b-sponsors/photonwares-corporation-vk4854460w	BA
-1	AGATI SYSTEMS LLC	/h1b-sponsors/agati-systems-llc-1k9n5ryv2m	BA
-1	KALTECH CONSULTING INC	/h1b-sponsors/kaltech-consulting-inc-560dr8zdk8	BA
-1	FAST SWITCH GREAT LAKES LLC	/h1b-sponsors/fast-switch-great-lakes-llc-g066rr7p0q	BA
-1	INFOYUGA TECHNOLOGIES INC	/h1b-sponsors/infoyuga-technologies-inc-em2m3p1j01	BA
-1	PERRY ELLIS INTERNATIONAL INC	/h1b-sponsors/perry-ellis-international-inc-370oyo9x2z	BA
-1	SANTECH RESOURCES INC	/h1b-sponsors/santech-resources-inc-ok85qv7wkd	BA
-1	SKILLGIGS INC	/h1b-sponsors/skillgigs-inc-x30qd9vzkq	BA
-1	ACLAT INC	/h1b-sponsors/aclat-inc-6g069rp0qw	BA
-1	PROWESS IT SOLUTIONS LLC	/h1b-sponsors/prowess-it-solutions-llc-8r0vw6gj21	BA
-1	VKAN TECH SOLUTIONS INC	/h1b-sponsors/vkan-tech-solutions-inc-g27r65qp05	BA
-1	CONFIMINDS LLC	/h1b-sponsors/confiminds-llc-370oqz7xkz	BA
-1	CANID INC	/h1b-sponsors/canid-inc-82wre51ok1	BA
-1	PRUDENCE INC	/h1b-sponsors/prudence-inc-60d9qlp6k8	BA
-1	VINNAR SERVICES INC	/h1b-sponsors/vinnar-services-inc-60d97596k8	BA
-1	MPHASIS CORPORATION	/h1b-sponsors/mphasis-corporation-150n613p2g	BA
-1	SERVICENOW INC	/h1b-sponsors/servicenow-inc-op0lerjkl6	BA
-1	FINACLE SOFT INC	/h1b-sponsors/finacle-soft-inc-rd0gv1r50o	BA
-1	SUSHMITA BHARDWAJ DDS CORPORATION	/h1b-sponsors/sushmita-bhardwaj-dds-corporation-d0g979p5ko	BA
-1	RAD CUBE LLC	/h1b-sponsors/rad-cube-llc-560dy71p08	BA
-1	NEO PRISM SOLUTIONS LLC	/h1b-sponsors/neo-prism-solutions-llc-8r0vvnvj01	BA
-1	LUNA CARE INC	/h1b-sponsors/luna-care-inc-g066xy6q0q	BA
-1	WHIP SYSTEMS LLC	/h1b-sponsors/whip-systems-llc-pg27r9n705	BA
-1	CYBER INFOTECH LLC	/h1b-sponsors/cyber-infotech-llc-dvk43l3n2w	BA
-1	ACROSS CHINA USA INC	/h1b-sponsors/across-china-usa-inc-l0yvvn110x	BA
-1	UNITED IT INC	/h1b-sponsors/united-it-inc-g10187dv27	BA
-1	HITACHI VANTARA LLC	/h1b-sponsors/hitachi-vantara-llc-82wr4g3xk1	BA
-1	DEEMSYS INC	/h1b-sponsors/deemsys-inc-op0lxwyz0l	BA
-1	TEK FORCE LLC	/h1b-sponsors/tek-force-llc-1kzn4594km	BA
-1	ZENITH INFOTEK LLC	/h1b-sponsors/zenith-infotek-llc-n60epl69kz	BA
-1	PREMIER BANKCARD LLC	/h1b-sponsors/premier-bankcard-llc-dvk4z8ev0w	BA
-1	CAPITAL IT SOLUTIONS INC	/h1b-sponsors/capital-it-solutions-inc-82wrw1olk1	BA
-1	MICRONETBD INC	/h1b-sponsors/micronetbd-inc-ok85q69rkd	BA
-1	MAXICON LLC	/h1b-sponsors/maxicon-llc-150nnlnp0g	BA
-1	ARMSTRONG TECHNOLOGIES INC	/h1b-sponsors/armstrong-technologies-inc-pg27m46p25	BA
-1	TRIMBLE INC	/h1b-sponsors/trimble-inc-4l0y5w1v2x	BA
-1	RAVIN IT SOLUTIONS INC	/h1b-sponsors/ravin-it-solutions-inc-p0l48qol2l	BA
-1	SPOTIFY USA INC	/h1b-sponsors/spotify-usa-inc-6g067y9p2q	BA
-1	RELIABLE SOFTWARE RESOURCES	/h1b-sponsors/reliable-software-resources-x237en8xkg	BA
-1	NIVID INFOTECH INC	/h1b-sponsors/nivid-infotech-inc-pg27l4ny05	BA
-1	NEXT GENERATION INC	/h1b-sponsors/next-generation-inc-560d643wk8	BA
-1	OSI DIGITAL INC	/h1b-sponsors/osi-digital-inc-em2mz589k1	BA
-1	AYRAS TECHNOLOGIES LLC	/h1b-sponsors/ayras-technologies-llc-60eqd7g10z	BA
-1	KONG DRAGON CAPITAL INVESTMENT INC	/h1b-sponsors/kong-dragon-capital-investment-inc-82wr6y9lk1	BA
-1	COMMON ENERGY LLC	/h1b-sponsors/common-energy-llc-60d974z6k8	BA
-1	CLOUDBERYL LLC	/h1b-sponsors/cloudberyl-llc-vk48941p0w	BA
-1	AMERICAN DENTAL MANAGEMENT PC	/h1b-sponsors/american-dental-management-pc-nokp7v4nk4	BA
-1	TECH WISH LLC	/h1b-sponsors/tech-wish-llc-w2xpmlgrk3	BA
-1	SILVERXIS INC	/h1b-sponsors/silverxis-inc-op0l6vnx0l	BA
-1	SELECT MINDS LLC	/h1b-sponsors/select-minds-llc-1ok83nxo0d	BA
-1	FIDELITY WORKPLACE INVESTING LLC	/h1b-sponsors/fidelity-workplace-investing-llc-70oj3nmx2z	BA
-1	DEVU SOLUTIONS LLC	/h1b-sponsors/devu-solutions-llc-p0l41d1l2l	BA
-1	PETABYTZ TECHNOLOGIES INC	/h1b-sponsors/petabytz-technologies-inc-v82wn5o421	BA
-1	NTT AMERICA INC	/h1b-sponsors/ntt-america-inc-dvk4lgqv2w	BA
-1	CLARITECH CONSULTING INC	/h1b-sponsors/claritech-consulting-inc-370oweoxkz	BA
-1	UNIQUE KEY RESOURCES INC	/h1b-sponsors/unique-key-resources-inc-4l0y55gp2x	BA
-1	DASH TECHNOLOGIES INC	/h1b-sponsors/dash-technologies-inc-rd0gx7gwko	BA
-1	GLOBAL BUSINESS SER 4U INC	/h1b-sponsors/global-business-ser-4u-inc-101zjogz27	BA
-1	WEHIRE TECHNOLOGIES LLC	/h1b-sponsors/wehire-technologies-llc-70ojvlmn2z	BA
-1	ERP ANALYSTS INC	/h1b-sponsors/erp-analysts-inc-l9k5eryrk1	BA
-1	DEVBYTES INC	/h1b-sponsors/devbytes-inc-101zjlo627	BA
-1	SAPNEXX LLC	/h1b-sponsors/sapnexx-llc-l0yvq7nq0x	BA
-1	WAVESTONE US INC	/h1b-sponsors/wavestone-us-inc-x30qgomnkq	BA
-1	OLIVE AI INC	/h1b-sponsors/olive-ai-inc-60d9omlek8	BA
-1	SATCON INC	/h1b-sponsors/satcon-inc-vk4851zv0w	BA
-1	SALT LIGHT LLC	/h1b-sponsors/salt-light-llc-d1k9em7r2m	BA
-1	ATYETI INC	/h1b-sponsors/atyeti-inc-dvk4mlqpkw	BA
-1	SPRUCE TECHNOLOGY INC	/h1b-sponsors/spruce-technology-inc-9k5n7r16k1	BA
-1	GARTNER INC	/h1b-sponsors/gartner-inc-vx23j6mvkg	BA
-1	NINFO SYSTEMS INC	/h1b-sponsors/ninfo-systems-inc-ew2xdermk3	BA
-1	UNIFIED TECH GROUP INC	/h1b-sponsors/unified-tech-group-inc-dvk4l6xn2w	BA
-1	TECH DYNAMIX IT SERVICES LLC	/h1b-sponsors/tech-dynamix-it-services-llc-x2378opxkg	BA
-1	CENTRA FREIGHT SERVICES INC	/h1b-sponsors/centra-freight-services-inc-rd0g6x9qko	BA
-1	HS TECHNOLOGIES LLC	/h1b-sponsors/hs-technologies-llc-x2379j7xkg	BA
-1	IKCON TECHNOLOGIES INC	/h1b-sponsors/ikcon-technologies-inc-vk487q660w	BA
-1	KYYBA INC	/h1b-sponsors/kyyba-inc-em2m5789k1	BA
-1	TECHNO TRENDS LLC	/h1b-sponsors/techno-trends-llc-vk48464p0w	BA
-1	FORMOSA PLASTICS CORPORATION USA	/h1b-sponsors/formosa-plastics-corporation-usa-l9k59m1801	BA
-1	ACCESS GLOBAL GROUP INC	/h1b-sponsors/access-global-group-inc-rd0gy6d70o	BA
-1	IT BUSINESS MANAGEMENT SOLUTIONS INC	/h1b-sponsors/it-business-management-solutions-inc-pg27q7vmk5	BA
-1	ADROIX CORP	/h1b-sponsors/adroix-corp-vx23m4v3kg	BA
-1	OPEN ROAD INTEGRATED MEDIA INC	/h1b-sponsors/open-road-integrated-media-inc-vx237pnvkg	BA
-1	CALIFORNIA SOFTTECH INC	/h1b-sponsors/california-softtech-inc-60eqnlym0z	BA
-1	MOBILE PROGRAMMING LLC	/h1b-sponsors/mobile-programming-llc-ew2x865y03	BA
-1	VIRTUAL REALITY KINGDOM TECHNOLOGIES LLC	/h1b-sponsors/virtual-reality-kingdom-technologies-llc-101zrjep27	BA
-1	SYNECTIKS INC	/h1b-sponsors/synectiks-inc-150nrvw92g	BA
-1	BAANYAN SOFTWARE SERVICES INC	/h1b-sponsors/baanyan-software-services-inc-dvk4gyqvkw	BA
-1	S4CLOUD LLC	/h1b-sponsors/s4cloud-llc-vk48474n0w	BA
-1	NEBULA PARTNERS LLC	/h1b-sponsors/nebula-partners-llc-510jeome2v	BA
-1	IT4 BUSINESS SOLUTIONS INC	/h1b-sponsors/it4-business-solutions-inc-d0g95ynyko	BA
-1	VANTEZ SYSTEMS INC	/h1b-sponsors/vantez-systems-inc-9k5n1lw9k1	BA
-1	GLOBETAX SERVICES INC	/h1b-sponsors/globetax-services-inc-d0g9orj7ko	BA
-1	INFINITE COMPUTER SOLUTIONS INC	/h1b-sponsors/infinite-computer-solutions-inc-30q4j39zkq	BA
-1	TRAMONTINA USA INC	/h1b-sponsors/tramontina-usa-inc-g101o44pk7	BA
-1	SS LEAD TECHNOLOGY INC	/h1b-sponsors/ss-lead-technology-inc-okprp7vy24	BA
-1	GIVAUDAN FRAGRANCES CORPORATION	/h1b-sponsors/givaudan-fragrances-corporation-6g06jeoq2q	BA
-1	FCC LOGISTICS INC	/h1b-sponsors/fcc-logistics-inc-150nvyzekg	BA
-1	ALINDUS INC	/h1b-sponsors/alindus-inc-1kznn11ykm	BA
-1	EPATHUSA INC	/h1b-sponsors/epathusa-inc-560dr4oek8	BA
-1	SIRI SOFTWARE SOLUTIONS LLC	/h1b-sponsors/siri-software-solutions-llc-d1k99j9vkm	BA
-1	QUANTUM INTEGRATORS GROUP LLC	/h1b-sponsors/quantum-integrators-group-llc-pg2716ym25	BA
-1	HCL GLOBAL SYSTEMS INC	/h1b-sponsors/hcl-global-systems-inc-p1kz936q0m	BA
-1	E DEFT SOLUTIONS LLC	/h1b-sponsors/e-deft-solutions-llc-vk485xmv0w	BA
-1	RENNEL TECH INC	/h1b-sponsors/rennel-tech-inc-101zjndp27	BA
-1	SRIMATRIX INC	/h1b-sponsors/srimatrix-inc-l9k5xw6901	BA
-1	INNOVATIVE INTELLIGENT SOLUTIONS LLC	/h1b-sponsors/innovative-intelligent-solutions-llc-x30qrlqr2q	BA
-1	STAR QUEST LIFE SCIENCE INC	/h1b-sponsors/star-quest-life-science-inc-1kzn1em9km	BA
-1	BEST LOGISTICS TECHNOLOGY CO LTD	/h1b-sponsors/best-logistics-technology-co-ltd-1ok8veez2d	BA
-1	LAW OFFICES OF WILLIAM CHU	/h1b-sponsors/law-offices-of-william-chu-10j7djl10v	BA
-1	SHAKLEE CORPORATION	/h1b-sponsors/shaklee-corporation-560d13zx08	BA
-1	DUKE SYSTEM LOGISTICS INC	/h1b-sponsors/duke-system-logistics-inc-1k9n5w4v2m	BA
-1	OCTAGON IT LLC	/h1b-sponsors/octagon-it-llc-30q47z3gkq	BA
-1	REDMANE TECHNOLOGY LLC	/h1b-sponsors/redmane-technology-llc-rd0gqpxq2o	BA
-1	TEAMITSERVE INC	/h1b-sponsors/teamitserve-inc-4l0y1jg60x	BA
-1	USATECH CONSULTING LLC	/h1b-sponsors/usatech-consulting-llc-70ojmnnx2z	BA
-1	KE & ASSOCIATES CONSULTING INC	/h1b-sponsors/ke-and-associates-consulting-inc-30q4on7gkq	BA
-1	ANN & ROBERT H LURIE CHILDRENS HOSPITAL OF CHICAGO	/h1b-sponsors/ann-and-robert-h-lurie-childrens-hospital-of-chicago-5g2ro6me2l	BA
-1	INTELLECTT INC	/h1b-sponsors/intellectt-inc-g0664oyp0q	BA
-1	CAREER SOFT SOLUTION INC	/h1b-sponsors/career-soft-solution-inc-101zwezo27	BA
-1	IT CATS LLC DBA	/h1b-sponsors/it-cats-llc-dba-30q46x5zkq	BA
-1	VAVERA LLC	/h1b-sponsors/vavera-llc-50nr1rvr2g	BA
-1	REVEILLE TECHNOLOGIES INC	/h1b-sponsors/reveille-technologies-inc-6g06w3jqkq	BA
-1	ARK SOLUTIONS INC	/h1b-sponsors/ark-solutions-inc-l9k55ng8k1	BA
-1	7865 EPA HOTELS LLC	/h1b-sponsors/7865-epa-hotels-llc-60eqwj190z	BA
-1	HEARTDUB INC	/h1b-sponsors/heartdub-inc-82wrwrzdk1	BA
-1	TITANS GLOBAL INC	/h1b-sponsors/titans-global-inc-1k9n4mx82m	BA
-1	NEWREZ LLC	/h1b-sponsors/newrez-llc-dvk4wjjn0w	BA
-1	INOSSEM INC	/h1b-sponsors/inossem-inc-ok85vmnrkd	BA
-1	LONESTAR DREAM INC	/h1b-sponsors/lonestar-dream-inc-82wrw8mok1	BA
-1	TRANSPLACE TEXAS LP	/h1b-sponsors/transplace-texas-lp-nokpmdv9k4	BA
-1	TOOLSGROUP INC	/h1b-sponsors/toolsgroup-inc-50nrde8r2g	BA
-1	VALLEY USED TIRES LLC	/h1b-sponsors/valley-used-tires-llc-dvk4x19v2w	BA
-1	PET PROJECT LA INC	/h1b-sponsors/pet-project-la-inc-g2r6ygqe2l	BA
-1	3I INFOTECH INC	/h1b-sponsors/3i-infotech-inc-vx23jxv3kg	BA
-1	TRN SYSTEMS INC	/h1b-sponsors/trn-systems-inc-g2r6zdee2l	BA
-1	NUERALINKS LLC	/h1b-sponsors/nueralinks-llc-101zrw8627	BA
-1	QUEBEC SOLUTIONS INC	/h1b-sponsors/quebec-solutions-inc-60eqdzz90z	BA
-1	SWISS RE AMERICA HOLDING CORPORATION	/h1b-sponsors/swiss-re-america-holding-corporation-nokpr6rq24	BA
-1	XCEED TECHNOLOGIES INC	/h1b-sponsors/xceed-technologies-inc-1ok885rzkd	BA
-1	WISE EQUATION SOLUTIONS INC	/h1b-sponsors/wise-equation-solutions-inc-g1018p4v27	BA
-1	PC CONNECTION INC DBA CONNECTION	/h1b-sponsors/pc-connection-inc-dba-connection-m2m66d4901	BA
-1	SZ & ASSOCIATES CPA INC	/h1b-sponsors/sz-and-associates-cpa-inc-dvk4pn5nkw	BA
-1	BINTECH GROUP LLC	/h1b-sponsors/bintech-group-llc-10j7xnwl0v	BA
-1	CREATIVE IDEAS SIMPLE SOLUTIONS INC	/h1b-sponsors/creative-ideas-simple-solutions-inc-x30q7jo8kq	BA
-1	VOYA INSTITUTIONAL PLAN SERVICES LLC	/h1b-sponsors/voya-institutional-plan-services-llc-g27r7qpp05	BA
-1	PRODIGY TECHNOLOGIES INC	/h1b-sponsors/prodigy-technologies-inc-op0lljmz0l	BA
-1	CONGRUENT SOLUTIONS INC	/h1b-sponsors/congruent-solutions-inc-8r0vx5nqk1	BA
-1	HAPPIEST MINDS TECHNOLOGIES LTD	/h1b-sponsors/happiest-minds-technologies-ltd-101ze77z27	BA
-1	NHN GLOBAL INC	/h1b-sponsors/nhn-global-inc-ew2xzw6m03	BA
-1	MOBIQUITY INC	/h1b-sponsors/mobiquity-inc-d1k98nj82m	BA
-1	APOSTLE INC	/h1b-sponsors/apostle-inc-150n4erkgn	BA
-1	Y AXIS INC	/h1b-sponsors/y-axis-inc-ew2xo93y23	BA
-1	TALENTUM GROUP	/h1b-sponsors/talentum-group-l0yv475v0x	BA
-1	AKTRA INC	/h1b-sponsors/aktra-inc-1ok8drew2d	BA
-1	NOTION LABS INC	/h1b-sponsors/notion-labs-inc-vx2336z32g	BA
-1	IMINDS TECHNOLOGY SYSTEMS INC	/h1b-sponsors/iminds-technology-systems-inc-x23799ogkg	BA
-1	DATAMART SYSTEMS INC	/h1b-sponsors/datamart-systems-inc-x30q8xpr0q	BA
-1	HIQ TECHNOLOGIES LLC	/h1b-sponsors/hiq-technologies-llc-vx231m4xkg	BA
-1	CALABITEK INC	/h1b-sponsors/calabitek-inc-g2r6l7v82l	BA
-1	UNION KITCHEN LLC	/h1b-sponsors/union-kitchen-llc-101zj34627	BA
-1	AL MADINA INDIAN FOOD AND CATERING SERVICES LLC	/h1b-sponsors/al-madina-indian-food-and-catering-services-llc-g0667m3q0q	BA
-1	DORAN JONES INC	/h1b-sponsors/doran-jones-inc-70ojenqr2z	BA
-1	INFO MATRIX CORPORATION	/h1b-sponsors/info-matrix-corporation-vx234v7qkg	BA
-1	ECLINICAL SOLUTIONS	/h1b-sponsors/eclinical-solutions-30qjzlenkq	BA
-1	DPR SOLUTIONS INC	/h1b-sponsors/dpr-solutions-inc-d1k9m9ex0m	BA
-1	JICOR SOLUTIONS INC	/h1b-sponsors/jicor-solutions-inc-9k5n41p8k1	BA
-1	MAJESTIC IT SERVICES INC	/h1b-sponsors/majestic-it-services-inc-82wr4j9xk1	BA
-1	EQUINIX INC	/h1b-sponsors/equinix-inc-ew2xnrjq03	BA
-1	ITSPURS INC	/h1b-sponsors/itspurs-inc-60d9rmz6k8	BA
-1	MDA PRECISION LLC	/h1b-sponsors/mda-precision-llc-1k9zxq4x2m	BA
-1	FUGO INTERNATIONAL INC	/h1b-sponsors/fugo-international-inc-50nrvw592g	BA
-1	WILLDAN ENERGY COMPANY	/h1b-sponsors/willdan-energy-company-x237q5xqkg	BA
-1	APPUS CAFE	/h1b-sponsors/appus-cafe-9k5n1orrk1	BA
-1	S&S ACADEMIES LLC	/h1b-sponsors/s-and-s-academies-llc-82wry34xk1	BA
-1	DELARMAN	/h1b-sponsors/delarman-ok85q965kd	BA
-1	IT KEYSOURCE INC	/h1b-sponsors/it-keysource-inc-101zz97827	BA
-1	CBRE INC	/h1b-sponsors/cbre-inc-g1016r3vk7	BA
-1	MILLENNIUM SOFTTECH INC	/h1b-sponsors/millennium-softtech-inc-w2xpor7nk3	BA
-1	NETWOVEN INC	/h1b-sponsors/netwoven-inc-8r0vmroq01	BA
-1	CENTILLION INFOTECH LLC	/h1b-sponsors/centillion-infotech-llc-50nrde992g	BA
-1	SYNMETA LLC	/h1b-sponsors/synmeta-llc-nokpx67n24	BA
-1	SMARTWORKS LLC	/h1b-sponsors/smartworks-llc-60d9z79pk8	BA
-1	CLOUDINGEST INC	/h1b-sponsors/cloudingest-inc-4l0y3g9pkx	BA
-1	SAI CPA SERVICES	/h1b-sponsors/sai-cpa-services-50nnzmdg0g	BA
-1	DATA SYS IT INC	/h1b-sponsors/data-sys-it-inc-g2r6r1882l	BA
-1	FRANKLIN INFOTECH INC	/h1b-sponsors/franklin-infotech-inc-w2xppx4mk3	BA
-1	IMPLIFY INC	/h1b-sponsors/implify-inc-9k5npm79k1	BA
-1	ENQUERO INC	/h1b-sponsors/enquero-inc-l9k5p89921	BA
-1	SAVEN TECHNOLOGIES INCORPORATED	/h1b-sponsors/saven-technologies-incorporated-d0g94zv7ko	BA
-1	SELSOFT INC	/h1b-sponsors/selsoft-inc-rd0g8d52o1	BA
-1	AGILITY SOFTWARE SOLUTIONS LLC	/h1b-sponsors/agility-software-solutions-llc-1k9njy982m	BA
-1	GLOBAL BUSINESS CONSULTING SERVICES INC	/h1b-sponsors/global-business-consulting-services-inc-d1k96yjrkm	BA
-1	GTEX USA INC	/h1b-sponsors/gtex-usa-inc-60d9jpxxk8	BA
-1	EIGHT PLUS SIXTEEN LLC	/h1b-sponsors/eight-plus-sixteen-llc-m2m6p91901	BA
-1	SRITA SOLUTIONS INC	/h1b-sponsors/srita-solutions-inc-8r0vzxgj21	BA
-1	PATIO BOX INTERNATIONAL LTD	/h1b-sponsors/patio-box-international-ltd-w2xpmejrk3	BA
-1	ITECH GO LLC	/h1b-sponsors/itech-go-llc-m2m6e3e401	BA
-1	AMERICAN IT SOLUTIONS INC	/h1b-sponsors/american-it-solutions-inc-g1016v66k7	BA
-1	SNCLOUDSOLUTIONS LLC	/h1b-sponsors/sncloudsolutions-llc-d0g95yrwko	BA
-1	MOBILE APPS ENTERPRISES LLC	/h1b-sponsors/mobile-apps-enterprises-llc-g101lox8k7	BA
-1	SAIPSIT INC	/h1b-sponsors/saipsit-inc-op0l7vjj2l	BA
-1	TK CHAIN LLC	/h1b-sponsors/tk-chain-llc-em2me9o5k1	BA
-1	SRMTEK LLC	/h1b-sponsors/srmtek-llc-60eqdgg90z	BA
-1	SRITEK INC	/h1b-sponsors/sritek-inc-n60ej31mkz	BA
-1	SPINO INC	/h1b-sponsors/spino-inc-x30q4738kq	BA
-1	NIHA TECHNOLOGIES INC	/h1b-sponsors/niha-technologies-inc-510jyzme0v	BA
-1	ITECH US INC	/h1b-sponsors/itech-us-inc-nokpd7wnk4	BA
-1	NORTHSTAR GROUP INC	/h1b-sponsors/northstar-group-inc-vx23x7nx2g	BA
-1	PRITNA INC	/h1b-sponsors/pritna-inc-560d7zpx08	BA
-1	CHERRY INDUSTRIAL INC	/h1b-sponsors/cherry-industrial-inc-p0lg97vz2l	BA
-1	AMP SOLUTIONS LLC	/h1b-sponsors/amp-solutions-llc-50nrvm592g	BA
-1	BRAINLAB INC	/h1b-sponsors/brainlab-inc-rd0gyojw0o	BA
-1	MOBILE TECHNOLOGIES INC	/h1b-sponsors/mobile-technologies-inc-6g06wlg3kq	BA
-1	STELLAR IT SOLUTIONS INC	/h1b-sponsors/stellar-it-solutions-inc-x237n5q3kg	BA
-1	TEKSPACE LLC	/h1b-sponsors/tekspace-llc-d0g9j4dqko	BA
-1	WAVE ERA INC	/h1b-sponsors/wave-era-inc-ew2x76xrk3	BA
-1	CIRRUS CLOUD TECHNOLOGIES INC	/h1b-sponsors/cirrus-cloud-technologies-inc-l0yvqd7q0x	BA
-1	SYNERSYS TECHNOLOGIES INC	/h1b-sponsors/synersys-technologies-inc-4l0y94xvkx	BA
-1	MAIN VALLEY INC	/h1b-sponsors/main-valley-inc-150np8mekg	BA
-1	AEI DRAWBACK SERVICES INC	/h1b-sponsors/aei-drawback-services-inc-60eqw77m0z	BA
-1	CGA 20 INC	/h1b-sponsors/cga-20-inc-v82w7d4l01	BA
-1	SEW TECH INC	/h1b-sponsors/sew-tech-inc-w2xporyqk3	BA
-1	TRISTAR RETAILS INC	/h1b-sponsors/tristar-retails-inc-g27re67p05	BA
-1	BLOCK INC	/h1b-sponsors/block-inc-m2m6rj1501	BA
-1	MIAMI DOLAR SHOP LLC	/h1b-sponsors/miami-dolar-shop-llc-pg27lqn705	BA
-1	TEK GIGZ LLC	/h1b-sponsors/tek-gigz-llc-x30q6mnz2q	BA
-1	MOMENTUM CONSULTING CORPORATION	/h1b-sponsors/momentum-consulting-corporation-pg27ped725	BA
-1	CUBOID LLC	/h1b-sponsors/cuboid-llc-510jnzog2v	BA
-1	SMARTON SOLUTIONS INC	/h1b-sponsors/smarton-solutions-inc-ok85ql75kd	BA
-1	PROCAL TECHNOLOGIES INC	/h1b-sponsors/procal-technologies-inc-82wrrqnok1	BA
-1	KENSINGTON INFORMATION GROUP INC	/h1b-sponsors/kensington-information-group-inc-vk487owp0w	BA
-1	TAKEO TECH LLC	/h1b-sponsors/takeo-tech-llc-60d9qyx6k8	BA
-1	CONCAT GLOBAL INC	/h1b-sponsors/concat-global-inc-1kznw5j4km	BA
-1	HCM SQUARE LLC	/h1b-sponsors/hcm-square-llc-x237zq5vkg	BA
-1	UNIPHORE TECHNOLOGIES NORTH AMERICA INC	/h1b-sponsors/uniphore-technologies-north-america-inc-d0g9o7g5ko	BA
-1	NY SWAP HOLDING LTD	/h1b-sponsors/ny-swap-holding-ltd-10j7rvzl0v	BA
-1	AITA CONSULTING SERVICES INC	/h1b-sponsors/aita-consulting-services-inc-8r0v561j21	BA
-1	SPARKSOFT CORPORATION	/h1b-sponsors/sparksoft-corporation-l9k5m39621	BA
-1	ALPHA 20 GROUP LLC	/h1b-sponsors/alpha-20-group-llc-1k9nowrr2m	BA
-1	KNACK NY INC	/h1b-sponsors/knack-ny-inc-60eqxqvn0z	BA
-1	SHUBH SOLUTIONS LLC	/h1b-sponsors/shubh-solutions-llc-op0l67pl0l	BA
-1	ACCURATE AND PRECISE PHARMACEUTICALS INC	/h1b-sponsors/accurate-and-precise-pharmaceuticals-inc-vk489w8y0w	BA
-1	NEXTGEN TECHNOLOGIES INC	/h1b-sponsors/nextgen-technologies-inc-l9k591r801	BA
-1	TRUCK ACCESSORIES GROUP LLC	/h1b-sponsors/truck-accessories-group-llc-9k5npnork1	BA
-1	SILVER HILL FUNDING LLC	/h1b-sponsors/silver-hill-funding-llc-101z9yp827	BA
-1	TECHFLURRY SOLUTIONS LLC	/h1b-sponsors/techflurry-solutions-llc-p0l48dnl2l	BA
-1	MEGATRENDZ MEDIA USA INC	/h1b-sponsors/megatrendz-media-usa-inc-370oqjznkz	BA
-1	ASTRAZENECA PHARMACEUTICALS LP	/h1b-sponsors/astrazeneca-pharmaceuticals-lp-g27rrd4p05	BA
-1	ASTRUMU INC	/h1b-sponsors/astrumu-inc-g27rjzey05	BA
-1	MARVEL TECHNOLOGIES INC	/h1b-sponsors/marvel-technologies-inc-v82wz1l215	BA
-1	CENTRIC CONSULTING LLC	/h1b-sponsors/centric-consulting-llc-510jrrwekv	BA
-1	HARWARD TECHNOLOGIES LLC	/h1b-sponsors/harward-technologies-llc-nokpr51924	BA
-1	AGORA DATA INC	/h1b-sponsors/agora-data-inc-d0g9lxn7ko	BA
-1	XEBIA USA INC	/h1b-sponsors/xebia-usa-inc-l9k55q98k1	BA
-1	EQUINOX IT SOLUTIONS LLC	/h1b-sponsors/equinox-it-solutions-llc-l0yvple60x	BA
-1	NOODLE PARTNERS INC	/h1b-sponsors/noodle-partners-inc-rd0golpwko	BA
-1	M9 CONSULTING INC	/h1b-sponsors/m9-consulting-inc-g101ndz275	BA
-1	TEKVIVID INC	/h1b-sponsors/tekvivid-inc-w2xpworyk3	BA
-1	P9 CLOUD SOLUTIONS INC	/h1b-sponsors/p9-cloud-solutions-inc-em2mwyv7k1	BA
-1	9THNETWORKS INC	/h1b-sponsors/9thnetworks-inc-p1kz98140m	BA
-1	ALLEGIS GROUP INC	/h1b-sponsors/allegis-group-inc-pg27q89mk5	BA
-1	INCOM TECHNOLOGIES INC	/h1b-sponsors/incom-technologies-inc-9k5nx5ork1	BA
-1	ARTHUR D LITTLE LLC	/h1b-sponsors/arthur-d-little-llc-10j7xzl50v	BA
-1	CHEGG INC	/h1b-sponsors/chegg-inc-d1k9q9x2mp	BA
-1	ALGORIZIN INC	/h1b-sponsors/algorizin-inc-r0v6np7qk1	BA
-1	MARKETING ASSOCIATES LLC DBA ONEMAGNIFY	/h1b-sponsors/marketing-associates-llc-dba-onemagnify-dvk473gpkw	BA
-1	TEK RESOURCE INC	/h1b-sponsors/tek-resource-inc-n60emlz9kz	BA
-1	HOPE IN HOME CARE LLC	/h1b-sponsors/hope-in-home-care-llc-g27rjz4y05	BA
-1	REMOTE TIGER INC	/h1b-sponsors/remote-tiger-inc-370oqrpqkz	BA
-1	ENCLOUD SERVICES LLC	/h1b-sponsors/encloud-services-llc-50nr4zvp2g	BA
-1	OBJECTS ON NET INC	/h1b-sponsors/objects-on-net-inc-g27r7q3y05	BA
-1	ALTAMETRICS LLC	/h1b-sponsors/altametrics-llc-rd0gzmgy2o	BA
-1	HASHKEY GLOBAL INCORPORATED	/h1b-sponsors/hashkey-global-incorporated-g2r6y5p82l	BA
-1	DYNPRO INC	/h1b-sponsors/dynpro-inc-560d6vepk8	BA
-1	JOBSOURCE NORTH AMERICA	/h1b-sponsors/jobsource-north-america-30q461n8kq	BA
-1	PETRINOVICH PUGH & COMPANY LLP	/h1b-sponsors/petrinovich-pugh-and-company-llp-p1kz5l87km	BA
-1	PHIARO INCORPORATED	/h1b-sponsors/phiaro-incorporated-50nr8zo12g	BA
-1	MENTOUR CORPORATION	/h1b-sponsors/mentour-corporation-510jlr9ekv	BA
-1	INFORMATION DATA SYSTEMS INC	/h1b-sponsors/information-data-systems-inc-em2mr1j401	BA
-1	WESTERN ALLIANCE BANK	/h1b-sponsors/western-alliance-bank-em2mz795k1	BA
-1	HIO TECH CONSULTING INC	/h1b-sponsors/hio-tech-consulting-inc-70ojvm9n2z	BA
-1	BLUE PLANET INC	/h1b-sponsors/blue-planet-inc-150nm9wgkg	BA
-1	SCOPUS IT INC	/h1b-sponsors/scopus-it-inc-op0l6j940l	BA
-1	EXECUTIVE EDGE INC	/h1b-sponsors/executive-edge-inc-w2xpwzyqk3	BA
-1	TORO IMPORTS LLC	/h1b-sponsors/toro-imports-llc-5g2roe382l	BA
-1	HIRE IT PEOPLE INC	/h1b-sponsors/hire-it-people-inc-5g2rrd6e2l	BA
-1	MIRAGE SOFTWARE INC DBA BOURNTEC SOLUTIONS	/h1b-sponsors/mirage-software-inc-dba-bourntec-solutions-em2mxjo401	BA
-1	TOPSTARS INC	/h1b-sponsors/topstars-inc-g066m5310q	BA
-1	YANTRA INC	/h1b-sponsors/yantra-inc-8r0vxw73k1	BA
-1	GENESYS ENTERPRISE TECHNOLOGY SOLUTIONS LLC	/h1b-sponsors/genesys-enterprise-technology-solutions-llc-w2xpz8jnk3	BA
-1	PLANET P INC	/h1b-sponsors/planet-p-inc-370ogzey2z	BA
-1	DATAQUAD INC	/h1b-sponsors/dataquad-inc-30q4wz3nkq	BA
-1	TECHOUTS INC	/h1b-sponsors/techouts-inc-g27rvp6q05	BA
-1	CYBERENDER LLC	/h1b-sponsors/cyberender-llc-82wregnok1	BA
-1	UNITED PHARMA TECHNOLOGIES INC	/h1b-sponsors/united-pharma-technologies-inc-p1kz11y92m	BA
-1	CES ENTERPRISE LLC	/h1b-sponsors/ces-enterprise-llc-g1011vjz07	BA
-1	TSMC ARIZONA CORPORATION	/h1b-sponsors/tsmc-arizona-corporation-30q4djznkq	BA
-1	ONSITE IT ADVISORS LLC	/h1b-sponsors/onsite-it-advisors-llc-10j7p5510v	BA
-1	GQG PARTNERS LLC	/h1b-sponsors/gqg-partners-llc-1ok8wgvzkd	BA
+407	MICROSOFT CORPORATION	/h1b-sponsors/microsoft-corporation-ew2x79yyk3	PM
+189	GOOGLE LLC	/h1b-sponsors/google-llc-em2mg7pj21	PM
+94	META PLATFORMS INC	/h1b-sponsors/meta-platforms-inc-w2xp7xj6k3	PM
+20	EXPEDIA INC	/h1b-sponsors/expedia-inc-g06661410q	PM
+16	NVIDIA CORPORATION	/h1b-sponsors/nvidia-corporation-g10164e6k7	PM
+16	INTUIT INC	/h1b-sponsors/intuit-inc-560d7wzw08	PM
+13	HEWLETT PACKARD ENTERPRISE COMPANY	/h1b-sponsors/hewlett-packard-enterprise-company-rd0g8zyy2o	PM
+12	DOORDASH INC	/h1b-sponsors/doordash-inc-5g2rn9l60l	PM
+12	ADOBE INC	/h1b-sponsors/adobe-inc-okprzlrn24	PM
+11	BYTEDANCE INC	/h1b-sponsors/bytedance-inc-m2m6jrj401	PM
+11	VMWARE INC	/h1b-sponsors/vmware-inc-nokp1pgzk4	PM
+11	FORD MOTOR COMPANY	/h1b-sponsors/ford-motor-company-pg27zdmpk5	PM
+10	UBER TECHNOLOGIES INC	/h1b-sponsors/uber-technologies-inc-510jn3812v	PM
+9	WAYMO LLC	/h1b-sponsors/waymo-llc-8r0vwnvj21	PM
+9	CUMMINS INC	/h1b-sponsors/cummins-inc-370oq79nkz	PM
+8	EPITEC INC	/h1b-sponsors/epitec-inc-pg27mz7q25	PM
+8	AIRBNB INC	/h1b-sponsors/airbnb-inc-8r0v6v69k1	PM
+7	VISA USA INC	/h1b-sponsors/visa-usa-inc-op0lw9gmkl	PM
+7	INTERNATIONAL BUSINESS MACHINES CORPORATION	/h1b-sponsors/international-business-machines-corporation-okprg6eq24	PM
+7	LINKEDIN CORPORATION	/h1b-sponsors/linkedin-corporation-d1k9mo9q0m	PM
+5	THERMO FISHER SCIENTIFIC INC	/h1b-sponsors/thermo-fisher-scientific-inc-x30qoz182q	PM
+5	LYFT INC	/h1b-sponsors/lyft-inc-82wr1njlk1	PM
+5	VIAGOGO INC	/h1b-sponsors/viagogo-inc-vx236jeg2g	PM
+5	NIKE INC	/h1b-sponsors/nike-inc-dvk4vxogkw	PM
+5	JPMORGAN CHASE & CO	/h1b-sponsors/jpmorgan-chase-and-co-5g2r7gdekl	PM
+5	SPLUNK INC	/h1b-sponsors/splunk-inc-d1k9drow0m	PM
+4	ZYNGA INC	/h1b-sponsors/zynga-inc-510jvgd50v	PM
+4	LEXISNEXIS RISK SOLUTIONS FL INC	/h1b-sponsors/lexisnexis-risk-solutions-fl-inc-em2m4xp921	PM
+4	DATAHGURUS BUSINESS SOLUTIONS	/h1b-sponsors/datahgurus-business-solutions-1kzn4897km	PM
+4	HOME DEPOT MANAGEMENT COMPANY LLC	/h1b-sponsors/home-depot-management-company-llc-50nrjmnr2g	PM
+4	IHEALTH LABS INC	/h1b-sponsors/ihealth-labs-inc-dvk4mzvkwp	PM
+4	TE CONNECTIVITY CORPORATION	/h1b-sponsors/te-connectivity-corporation-rd0g7gpv0o	PM
+4	JUNIPER NETWORKS INC	/h1b-sponsors/juniper-networks-inc-dvk4vd8vkw	PM
+4	ECLINICALWORKS LLC	/h1b-sponsors/eclinicalworks-llc-nokpzpny04	PM
+4	STRIPE INC	/h1b-sponsors/stripe-inc-p1kzwpdykm	PM
+4	POPULUS GROUP LLC	/h1b-sponsors/populus-group-llc-150nvvygkg	PM
+4	POWER DENTAL STUDIO PC	/h1b-sponsors/power-dental-studio-pc-w2xpy36yk3	PM
+4	PINTEREST INC	/h1b-sponsors/pinterest-inc-p1kzy3g72m	PM
+4	SALESFORCE INC	/h1b-sponsors/salesforce-inc-dvk4or5g2w	PM
+4	DELOITTE CONSULTING LLP	/h1b-sponsors/deloitte-consulting-llp-150nv3y9kg	PM
+4	WAL MART ASSOCIATES INC	/h1b-sponsors/wal-mart-associates-inc-g0664lwp0q	PM
+4	BLOCK INC	/h1b-sponsors/block-inc-m2m6rj1501	PM
+4	SPARKMETER INC	/h1b-sponsors/sparkmeter-inc-1ok873wz2d	PM
+4	IBM CORPORATION	/h1b-sponsors/ibm-corporation-l9k5w7nrk1	PM
+3	PLAID INC	/h1b-sponsors/plaid-inc-l9k5jmr21y	PM
+3	UPSTART NETWORK INC	/h1b-sponsors/upstart-network-inc-150n4l5gkg	PM
+3	COMPUTERCRAFT CORPORATION	/h1b-sponsors/computercraft-corporation-8r0vndpg21	PM
+3	INFORICK CORP	/h1b-sponsors/inforick-corp-370o37oy0z	PM
+3	UTILIZECORE INC	/h1b-sponsors/utilizecore-inc-x237mlwgkg	PM
+3	AVIS BUDGET CAR RENTAL LLC	/h1b-sponsors/avis-budget-car-rental-llc-d1k94xw0mp	PM
+3	FACTSET RESEARCH SYSTEMS INC	/h1b-sponsors/factset-research-systems-inc-l0yvpq610x	PM
+3	NETFLIX INC	/h1b-sponsors/netflix-inc-510j1zxe0v	PM
+3	BLUE LOTUS SYSTEMS INC	/h1b-sponsors/blue-lotus-systems-inc-n60emy3rkz	PM
+3	THE GAP INC	/h1b-sponsors/the-gap-inc-op0leovxkl	PM
+3	AKAMAI TECHNOLOGIES INC	/h1b-sponsors/akamai-technologies-inc-p1kzvpq2m5	PM
+3	ONEMAIN GENERAL SERVICES CORPORATION	/h1b-sponsors/onemain-general-services-corporation-g101lmp8k7	PM
+3	MAHAUGHA LLC	/h1b-sponsors/mahaugha-llc-50nrlm9e2g	PM
+3	US BANK NATIONAL ASSOCIATION	/h1b-sponsors/us-bank-national-association-pg2799zy05	PM
+3	SERVICENOW INC	/h1b-sponsors/servicenow-inc-op0lerjkl6	PM
+3	IQVIA INC	/h1b-sponsors/iqvia-inc-8r0vml6j01	PM
+3	NEXTDOOR INC	/h1b-sponsors/nextdoor-inc-101zzylo27	PM
+3	WAYFAIR LLC	/h1b-sponsors/wayfair-llc-x237yv7xkg	PM
+3	TIKTOK INC	/h1b-sponsors/tiktok-inc-ok854dn5kd	PM
+3	KAARYA LLC	/h1b-sponsors/kaarya-llc-560ddj9p08	PM
+3	QUALTRICS LLC	/h1b-sponsors/qualtrics-llc-em2mm56721	PM
+3	MESHARE INC	/h1b-sponsors/meshare-inc-vx23gqvnkg	PM
+3	PAYPAL INC	/h1b-sponsors/paypal-inc-rd0gzpq52o	PM
+3	MONETATE INC	/h1b-sponsors/monetate-inc-510jdrpl0v	PM
+3	RELX INC	/h1b-sponsors/relx-inc-g27rjlvg05	PM
+3	CISCO SYSTEMS INC	/h1b-sponsors/cisco-systems-inc-370oq38ykz	PM
+3	QUEBEC SOLUTIONS INC	/h1b-sponsors/quebec-solutions-inc-60eqdzz90z	PM
+3	DROPBOX INC	/h1b-sponsors/dropbox-inc-d0g9nr7qko	PM
+3	ICE DATA ANALYTICS LLC	/h1b-sponsors/ice-data-analytics-llc-v82w3znxk1	PM
+2	MARSH USA INC	/h1b-sponsors/marsh-usa-inc-pg27mlq251	PM
+2	MEMOIR INC	/h1b-sponsors/memoir-inc-1k9no9vv2m	PM
+2	XL8 INC	/h1b-sponsors/xl8-inc-101ze38627	PM
+2	VEEVA SYSTEMS INC	/h1b-sponsors/veeva-systems-inc-g06663jp0q	PM
+2	HOME DEPOT USA INC	/h1b-sponsors/home-depot-usa-inc-370oqm6qkz	PM
+2	HOMECARE SOFTWARE SOLUTIONS LLC	/h1b-sponsors/homecare-software-solutions-llc-560d9lq6k8	PM
+2	TATA TECHNOLOGIES INC	/h1b-sponsors/tata-technologies-inc-1kzneqljkm	PM
+2	GORGIAS INC	/h1b-sponsors/gorgias-inc-510jlewlkv	PM
+2	COVARIANT INC	/h1b-sponsors/covariant-inc-60eqde5l0z	PM
+2	ADDEPAR INC	/h1b-sponsors/addepar-inc-560dnedw28	PM
+2	COUPA SOFTWARE INC	/h1b-sponsors/coupa-software-inc-op0lzle4kl	PM
+2	HCA MANAGEMENT SERVICES LP	/h1b-sponsors/hca-management-services-lp-vx233vw32g	PM
+2	EPIC GAMES	/h1b-sponsors/epic-games-d0g94d7qko	PM
+2	ATOS SYNTEL INC	/h1b-sponsors/atos-syntel-inc-70ojjd7v2z	PM
+2	KOMODO TECHNOLOGIES LLC	/h1b-sponsors/komodo-technologies-llc-10j71q410v	PM
+2	WORKDAY INC	/h1b-sponsors/workday-inc-okpr3mnq24	PM
+2	ROKU INC	/h1b-sponsors/roku-inc-n60engmn0z	PM
+2	TATVA TEK INC	/h1b-sponsors/tatva-tek-inc-60eqwvqn0z	PM
+2	WARP DRIVE INC	/h1b-sponsors/warp-drive-inc-rd0g7vgv0o	PM
+2	LEXISNEXIS RISK SOLUTIONS INC	/h1b-sponsors/lexisnexis-risk-solutions-inc-p1kzd7xj2m	PM
+2	ASPENTECH CORPORATION	/h1b-sponsors/aspentech-corporation-p0l4z1n42l	PM
+2	MCCANN RELATIONSHIP MARKETING LLC	/h1b-sponsors/mccann-relationship-marketing-llc-rd0gddow0o	PM
+2	VENTECHSOFT INC	/h1b-sponsors/ventechsoft-inc-vk48p39y0w	PM
+2	LIKEWIZE DEVICE PROTECTION LLC	/h1b-sponsors/likewize-device-protection-llc-okprezpn24	PM
+2	MORNINGSTAR INC	/h1b-sponsors/morningstar-inc-v82wzv9d21	PM
+2	OUIBY INC	/h1b-sponsors/ouiby-inc-l0yvjpvq0x	PM
+2	MAPLEBEAR INC	/h1b-sponsors/maplebear-inc-nokpdg4qk4	PM
+2	PROTERRA INC	/h1b-sponsors/proterra-inc-8r0v3ppvk1	PM
+2	XP INVESTMENTS US LLC	/h1b-sponsors/xp-investments-us-llc-1k9n4l9v2m	PM
+2	TLYNT INC	/h1b-sponsors/tlynt-inc-vk4n5d4p0w	PM
+2	LEAGUE CORP	/h1b-sponsors/league-corp-30q4xwngkq	PM
+2	SPL CONSULTING INC	/h1b-sponsors/spl-consulting-inc-d1k9o168km	PM
+2	SUMO LOGIC INC	/h1b-sponsors/sumo-logic-inc-ew2x4jwrk3	PM
+2	INTRAEDGE INC	/h1b-sponsors/intraedge-inc-150n9j7p2g	PM
+2	OPTUM SERVICES INC	/h1b-sponsors/optum-services-inc-1ok838go0d	PM
+2	AISERA INC	/h1b-sponsors/aisera-inc-1kznnmmykm	PM
+2	AMBERFLOIO INC	/h1b-sponsors/amberfloio-inc-l0yv9v4q0x	PM
+2	CHEWY INC	/h1b-sponsors/chewy-inc-101z811o27	PM
+2	INSIGHT GLOBAL LLC	/h1b-sponsors/insight-global-llc-rd0gn1xw2o	PM
+2	BREX INC	/h1b-sponsors/brex-inc-82wry63jk1	PM
+2	ALTIMETRIK CORP	/h1b-sponsors/altimetrik-corp-n60ejoxlkz	PM
+2	US BANK NATIONAL ASSOCATION	/h1b-sponsors/us-bank-national-assocation-5g2rw6x80l	PM
+2	TREND MICRO INC	/h1b-sponsors/trend-micro-inc-1kznn9pykm	PM
+2	TRUSLI INC	/h1b-sponsors/trusli-inc-70o5ex4rkz	PM
+2	NETAPP INC	/h1b-sponsors/netapp-inc-n60edzllkz	PM
+2	BOOMTOWN NETWORK INC	/h1b-sponsors/boomtown-network-inc-150nq1yg0g	PM
+2	AGILIS CHEMICALS INC	/h1b-sponsors/agilis-chemicals-inc-d0g974o5ko	PM
+2	DATADOG INC	/h1b-sponsors/datadog-inc-370ozo9qkz	PM
+2	FIRST REPUBLIC BANK	/h1b-sponsors/first-republic-bank-nokppmjyk4	PM
+2	INFOWORKSIO INC	/h1b-sponsors/infoworksio-inc-510jmdg0vo	PM
+2	PRECISION TECHNOLOGIES CORP	/h1b-sponsors/precision-technologies-corp-510j6oo1kv	PM
+2	FINFARE INC	/h1b-sponsors/finfare-inc-1k9n6mrx2m	PM
+2	AMERICAN EXPRESS TRAVEL RELATED SERVICES COMPANY INC	/h1b-sponsors/american-express-travel-related-services-company-inc-8r0v861v21	PM
+2	FIRST TEK INC	/h1b-sponsors/first-tek-inc-1ok8qxr3kd	PM
+2	OKTA INC	/h1b-sponsors/okta-inc-150n57n10g	PM
+2	CHARTER COMMUNICATIONS INC	/h1b-sponsors/charter-communications-inc-82wr1d64k1	PM
+2	PLURALSIGHT LLC	/h1b-sponsors/pluralsight-llc-em2mwrdjk1	PM
+2	MONA LEE INC	/h1b-sponsors/mona-lee-inc-60eqwdml0z	PM
+2	EAN.COM LP	/h1b-sponsors/ean-dot-com-lp-pg27do3g25	PM
+2	EBAY INC	/h1b-sponsors/ebay-inc-nokpy9p9k4	PM
+2	DATALEGO INC	/h1b-sponsors/datalego-inc-m2m6ej5501	PM
+2	ELECTRONIC ARTS INC	/h1b-sponsors/electronic-arts-inc-nokpzezq04	PM
+2	HORKUS SOLUTIONS INC	/h1b-sponsors/horkus-solutions-inc-l9k5n8r6k1	PM
+2	CITIBANK NA	/h1b-sponsors/citibank-na-370o63pr0z	PM
+2	ARES OPERATIONS LLC	/h1b-sponsors/ares-operations-llc-d1k99gprkm	PM
+2	A4 MEDIA LLC	/h1b-sponsors/a4-media-llc-10j7g11e0v	PM
+2	COGNITUS CONSULTING LLC	/h1b-sponsors/cognitus-consulting-llc-370oyx1y2z	PM
+2	ELAVON INC	/h1b-sponsors/elavon-inc-n60ew4q90z	PM
+2	KHAN ACADEMY INC	/h1b-sponsors/khan-academy-inc-w2xpp6mnk3	PM
+2	BOOSTR INC	/h1b-sponsors/boostr-inc-70ojvdyy2z	PM
+2	KAYAK SOFTWARE CORPORATION	/h1b-sponsors/kayak-software-corporation-l9k5p5r621	PM
+2	SKYFLOW INC	/h1b-sponsors/skyflow-inc-10j7gogg0v	PM
+2	ZILLOW INC	/h1b-sponsors/zillow-inc-82wry81lk1	PM
+2	STATIC IQ CORP	/h1b-sponsors/static-iq-corp-g2r6l1qo2l	PM
+2	S3STAFFINGUSA INC	/h1b-sponsors/s3staffingusa-inc-60eqne6n0z	PM
+2	IXL LEARNING INC	/h1b-sponsors/ixl-learning-inc-560ddlyw08	PM
+2	MOVEWORKS INC	/h1b-sponsors/moveworks-inc-560d16r608	PM
+2	CASH FLOW MANAGEMENT LLC	/h1b-sponsors/cash-flow-management-llc-101zpemv27	PM
+2	STAGWELL MARKETING CLOUD LLC	/h1b-sponsors/stagwell-marketing-cloud-llc-d0g95vdwko	PM
+2	POINT PICKUP MANAGEMENT LLC	/h1b-sponsors/point-pickup-management-llc-70ojv9qq2z	PM
+2	BEST BUY CO INC	/h1b-sponsors/best-buy-co-inc-ok858ynzkd	PM
+2	ALPHONSO INC	/h1b-sponsors/alphonso-inc-9k5npd9dk1	PM
+2	MARSTONE INC	/h1b-sponsors/marstone-inc-30qjzndzkq	PM
+2	MEDITAB SOFTWARE INC	/h1b-sponsors/meditab-software-inc-l9k5wmerk1	PM
+2	KARAT FINANCIAL TECHNOLOGIES INC	/h1b-sponsors/karat-financial-technologies-inc-30q495r1kq	PM
+2	FREEDOM FINANCIAL NETWORK FUNDING LLC	/h1b-sponsors/freedom-financial-network-funding-llc-d0g9emv5ko	PM
+2	BEST FRIEND FINANCE LLC	/h1b-sponsors/best-friend-finance-llc-1kzn4qp4km	PM
+2	DVG TECH SOLUTIONS LLC	/h1b-sponsors/dvg-tech-solutions-llc-n60edew9kz	PM
+2	BARRY CALLEBAUT USA LLC	/h1b-sponsors/barry-callebaut-usa-llc-8r0vmn8q01	PM
+2	CYTEL INC	/h1b-sponsors/cytel-inc-1kznvqzqkm	PM
+2	CLEAN POWER RESEARCH LLC	/h1b-sponsors/clean-power-research-llc-82wr6mz4k1	PM
+2	TENANT INC	/h1b-sponsors/tenant-inc-okprpv9q24	PM
+2	TRUE COMMERCE INC	/h1b-sponsors/true-commerce-inc-d0g9yjp7ko	PM
+2	CONSTELLIUM BOWLING GREEN LLC	/h1b-sponsors/constellium-bowling-green-llc-30q4x44zkq	PM
+1	PLANHUB INC	/h1b-sponsors/planhub-inc-l0yvegpp0x	PM
+1	BP AMERICA INC	/h1b-sponsors/bp-america-inc-rd0gv5yq0o	PM
+1	CREDITEX GROUP INC	/h1b-sponsors/creditex-group-inc-x237n53vkg	PM
+1	4S GRAPHICS INC	/h1b-sponsors/4s-graphics-inc-60d1w45x08	PM
+1	SHOPIFY USA INC	/h1b-sponsors/shopify-usa-inc-rd0geqev2o	PM
+1	CENGAGE LEARNING INC	/h1b-sponsors/cengage-learning-inc-4l0yr4x5kx	PM
+1	TECHNICAL TOOLBOXES POWERTOOLS INC	/h1b-sponsors/technical-toolboxes-powertools-inc-82wreryxk1	PM
+1	SPECIALIST RESOURCES GLOBAL INC	/h1b-sponsors/specialist-resources-global-inc-nokp8dgy04	PM
+1	ITERIS INC	/h1b-sponsors/iteris-inc-g101dq7z07	PM
+1	MH SUB I LLC DBA INTERNET BRANDS INC	/h1b-sponsors/mh-sub-i-llc-dba-internet-brands-inc-82wr459xk1	PM
+1	DECHEN CONSULTING GROUP INC	/h1b-sponsors/dechen-consulting-group-inc-1ok8e8d3kd	PM
+1	QUORA INC	/h1b-sponsors/quora-inc-em2ml6jj01	PM
+1	LOCUS TECHNOLOGIES	/h1b-sponsors/locus-technologies-nokpo1pz24	PM
+1	RIBBON COMMUNICATIONS OPERATING COMPANY INC	/h1b-sponsors/ribbon-communications-operating-company-inc-ew2xrrdn23	PM
+1	SUPERNOVA LENDING LLC	/h1b-sponsors/supernova-lending-llc-em2mop1d01	PM
+1	SWELL ENERGY INC	/h1b-sponsors/swell-energy-inc-101zjwz627	PM
+1	SIGNITIVES TECHNOLOGIES LLC	/h1b-sponsors/signitives-technologies-llc-d0g9368yko	PM
+1	LUNA PARENT INC	/h1b-sponsors/luna-parent-inc-60d9xe7wk8	PM
+1	VOLTEO EDGE USA LLC	/h1b-sponsors/volteo-edge-usa-llc-60d9r5qxk8	PM
+1	IDEA HELIX INC	/h1b-sponsors/idea-helix-inc-5g2r98ee2l	PM
+1	IP HEIGHTS LLC	/h1b-sponsors/ip-heights-llc-vx23gemgkg	PM
+1	MBI INC	/h1b-sponsors/mbi-inc-rd0grmjqko	PM
+1	PURE STORAGE INC	/h1b-sponsors/pure-storage-inc-ew2xpm96k3	PM
+1	AIFI INC	/h1b-sponsors/aifi-inc-v82wp5rj01	PM
+1	CUMMINS FILTRATION INC	/h1b-sponsors/cummins-filtration-inc-p1kz3jry0m	PM
+1	NUTANIX INC	/h1b-sponsors/nutanix-inc-5g2reeze0l	PM
+1	ZOOM VIDEO COMMUNICATIONS INC	/h1b-sponsors/zoom-video-communications-inc-ew2x8xpr03	PM
+1	ARDOR IT SYSTEMS LLC	/h1b-sponsors/ardor-it-systems-llc-1kzn1894km	PM
+1	AIRILABS LLC	/h1b-sponsors/airilabs-llc-x237mynxkg	PM
+1	IT CATS LLC	/h1b-sponsors/it-cats-llc-vx23746vkg	PM
+1	INNOVATIVE CONSULTING SOLUTIONS LLC	/h1b-sponsors/innovative-consulting-solutions-llc-5g2rxyvo2l	PM
+1	MAVERICK PAYMENTS INC	/h1b-sponsors/maverick-payments-inc-x237znmvkg	PM
+1	CORVA AI LLC	/h1b-sponsors/corva-ai-llc-4l0yjv550x	PM
+1	SCRIPTPICKS LLC	/h1b-sponsors/scriptpicks-llc-1kzn4179km	PM
+1	BRILLIO LLC	/h1b-sponsors/brillio-llc-5g2r5zd90l	PM
+1	SONATUS INC	/h1b-sponsors/sonatus-inc-4l0yypp10x	PM
+1	TURING ENTERPRISES INC	/h1b-sponsors/turing-enterprises-inc-op0lxjml0l	PM
+1	CDK GLOBAL LLC	/h1b-sponsors/cdk-global-llc-5g2r4r99kl	PM
+1	NIMBLERX INC	/h1b-sponsors/nimblerx-inc-60eq7x8m0z	PM
+1	MEDABLE INC	/h1b-sponsors/medable-inc-1kznwznqkm	PM
+1	TARGET ENTERPRISE INC	/h1b-sponsors/target-enterprise-inc-dvk4rrqn2w	PM
+1	PARAFIN INC	/h1b-sponsors/parafin-inc-70oj3vrr2z	PM
+1	ENIGMA TECHNOLOGIES INC	/h1b-sponsors/enigma-technologies-inc-x30qox6r2q	PM
+1	OBSESS INC	/h1b-sponsors/obsess-inc-d0g9796wko	PM
+1	NETSKOPE INC	/h1b-sponsors/netskope-inc-nokp187yk4	PM
+1	RESOURCE LOGISTICS INC	/h1b-sponsors/resource-logistics-inc-1ok8owlr0d	PM
+1	ILINK SYSTEMS INC	/h1b-sponsors/ilink-systems-inc-p1kzpx6j2m	PM
+1	GENOME MEDICAL INC	/h1b-sponsors/genome-medical-inc-ew2xx5qn23	PM
+1	BUTTER PAYMENTS INC	/h1b-sponsors/butter-payments-inc-okprnr5y24	PM
+1	LIBREUM INTERNATIONAL LLC	/h1b-sponsors/libreum-international-llc-x30qe9v80q	PM
+1	TRILLIANT NETWORKS INC	/h1b-sponsors/trilliant-networks-inc-ew2x6lj623	PM
+1	SAINT GOBAIN PERFORMANCE PLASTICS CORPORATION	/h1b-sponsors/saint-gobain-performance-plastics-corporation-n60e79jnkz	PM
+1	MYHEALTH LLC	/h1b-sponsors/myhealth-llc-g2r4z363kl	PM
+1	INTEGRAL AD SCIENCE INC	/h1b-sponsors/integral-ad-science-inc-g101x7opk7	PM
+1	FUTURE EFFETS STUDIO LLC	/h1b-sponsors/future-effets-studio-llc-g2r6nlj82l	PM
+1	VIMO INC	/h1b-sponsors/vimo-inc-4l0yqny12x	PM
+1	VILLAGE PRACTICE MANAGEMENT COMPANY LLC	/h1b-sponsors/village-practice-management-company-llc-10j7plq50v	PM
+1	ACUITY BRANDS LIGHTING INC	/h1b-sponsors/acuity-brands-lighting-inc-510j13le0v	PM
+1	R1 RCM INC FKA ACCRETIVE HEALTH INC	/h1b-sponsors/r1-rcm-inc-fka-accretive-health-inc-g27r5rly05	PM
+1	SCADEA SOFTWARE SOLUTIONS INC	/h1b-sponsors/scadea-software-solutions-inc-d0g9eevvko	PM
+1	EXPANDABLE SOFTWARE INC	/h1b-sponsors/expandable-software-inc-4l0y4mw60x	PM
+1	FURNITURE.COM AMERICA LLC	/h1b-sponsors/furniture-dot-com-america-llc-d0g9je5qko	PM
+1	AIRSPACE TECHNOLOGIES INC	/h1b-sponsors/airspace-technologies-inc-101z7gvv27	PM
+1	ADP TECHNOLOGY SERVICES INC	/h1b-sponsors/adp-technology-services-inc-d1k9gpw80m	PM
+1	AMERICAN GENERAL LIFE INSURANCE COMPANY	/h1b-sponsors/american-general-life-insurance-company-370o39jx0z	PM
+1	LENDINGCLUB BANK NATIONAL ASSOCIATION	/h1b-sponsors/lendingclub-bank-national-association-30q4dj51kq	PM
+1	JUN GROUP PRODUCTIONS LLC	/h1b-sponsors/jun-group-productions-llc-4l0y8rlp2x	PM
+1	ABOVE LENDING INC	/h1b-sponsors/above-lending-inc-1k9n8j3x2m	PM
+1	WURL INC	/h1b-sponsors/wurl-inc-10j7dwee0v	PM
+1	CLEARWATER ANALYTICS LLC	/h1b-sponsors/clearwater-analytics-llc-rd0g9je5ko	PM
+1	SAVI SOLUTIONS PBC	/h1b-sponsors/savi-solutions-pbc-g0667gvm0q	PM
+1	PLG OPERATIONS LLC	/h1b-sponsors/plg-operations-llc-60d9qpzxk8	PM
+1	MCKINSEY & COMPANY INC UNITED STATES	/h1b-sponsors/mckinsey-and-company-inc-united-states-op0l6qll0l	PM
+1	TECAN GENOMICS INC	/h1b-sponsors/tecan-genomics-inc-d1k94wrx0m	PM
+1	INTUITIVE SURGICAL INC	/h1b-sponsors/intuitive-surgical-inc-v82w6l6dk1	PM
+1	FORMERRA LLC	/h1b-sponsors/formerra-llc-w2xjv96qk3	PM
+1	IVXS TECHNOLOGY USA INC	/h1b-sponsors/ivxs-technology-usa-inc-1k9nj3mv2m	PM
+1	ASSURECARE LLC	/h1b-sponsors/assurecare-llc-vk483qnn0w	PM
+1	APPLE INC	/h1b-sponsors/apple-inc-6g06vq412q	PM
+1	CHEGG INC	/h1b-sponsors/chegg-inc-d1k9q9x2mp	PM
+1	BLINKRECEIPT LLC	/h1b-sponsors/blinkreceipt-llc-82wrezzxk1	PM
+1	ADVANCED ENERGY INDUSTRIES INC	/h1b-sponsors/advanced-energy-industries-inc-d0g99415ko	PM
+1	OPENBORDER INC	/h1b-sponsors/openborder-inc-p0l417rj2l	PM
+1	ROBERTSHAW CONTROLS COMPANY	/h1b-sponsors/robertshaw-controls-company-x30qj1egkq	PM
+1	UPSIDE SERVICES INC	/h1b-sponsors/upside-services-inc-d0g933wwko	PM
+1	NETIQ CORPORATION	/h1b-sponsors/netiq-corporation-70oj655v2z	PM
+1	EQUINOX IT SOLUTIONS LLC	/h1b-sponsors/equinox-it-solutions-llc-l0yvple60x	PM
+1	EXAMROOMAI CORP	/h1b-sponsors/examroomai-corp-l0yv35110x	PM
+1	6SENSE INSIGHTS INC	/h1b-sponsors/6sense-insights-inc-101zyll627	PM
+1	PEACH FINANCE INC	/h1b-sponsors/peach-finance-inc-60eqp5vr0z	PM
+1	HALOY TECHNOLOGY CORPORATION	/h1b-sponsors/haloy-technology-corporation-1kzn17j9km	PM
+1	GOVERNMENTJOBS.COM INC	/h1b-sponsors/governmentjobs-dot-com-inc-op0l34mm0l	PM
+1	AFTERPAY US INC	/h1b-sponsors/afterpay-us-inc-60d9zoydk8	PM
+1	GEN DIGITAL INC	/h1b-sponsors/gen-digital-inc-101zwee827	PM
+1	SHAKTI GROUP INC	/h1b-sponsors/shakti-group-inc-5g2rllo32l	PM
+1	PAPER EDUCATION AMERICA INC	/h1b-sponsors/paper-education-america-inc-r0v6ymm9k1	PM
+1	ASTM LLC	/h1b-sponsors/astm-llc-g2r68o182l	PM
+1	EF JOHNSON COMPANY	/h1b-sponsors/ef-johnson-company-okpr44yn24	PM
+1	THINK CELL INC	/h1b-sponsors/think-cell-inc-x2374dvnkg	PM
+1	RISKSPAN INC	/h1b-sponsors/riskspan-inc-em2mvxr721	PM
+1	GRAINGER MANAGEMENT LLC	/h1b-sponsors/grainger-management-llc-op0lv8w42l	PM
+1	SAPIENT CORPORATION	/h1b-sponsors/sapient-corporation-dvk4v1xnkw	PM
+1	XCELSIUS INC	/h1b-sponsors/xcelsius-inc-g101o366k7	PM
+1	FIGO PET INSURANCE LLC	/h1b-sponsors/figo-pet-insurance-llc-rd0g39lvko	PM
+1	FEDML INC	/h1b-sponsors/fedml-inc-60eqwn7m0z	PM
+1	GRAFT INC	/h1b-sponsors/graft-inc-10j7x7og0v	PM
+1	ZIFF DAVIS LLC	/h1b-sponsors/ziff-davis-llc-d1k9j5mx0m	PM
+1	ZBLOCKS INC	/h1b-sponsors/zblocks-inc-p0l414jx2l	PM
+1	ACTIMIZE INC	/h1b-sponsors/actimize-inc-ew2xn6mr03	PM
+1	AXS GROUP LLC	/h1b-sponsors/axs-group-llc-1kznln3qkm	PM
+1	MODERN TREASURY CORPORATION	/h1b-sponsors/modern-treasury-corporation-g27r4gwq05	PM
+1	EGENCIA LLC	/h1b-sponsors/egencia-llc-1ok8yyx52d	PM
+1	ENPHASE ENERGY INC	/h1b-sponsors/enphase-energy-inc-d0g94e65ko	PM
+1	DEALCLOUD INC	/h1b-sponsors/dealcloud-inc-370ow3xnkz	PM
+1	NEXT INSURANCE INC	/h1b-sponsors/next-insurance-inc-1ok8pjl52d	PM
+1	ONE CREATION CORPORATION	/h1b-sponsors/one-creation-corporation-60ee9pdn0z	PM
+1	FLEXTON INC	/h1b-sponsors/flexton-inc-82wryql4k1	PM
+1	BUNCH LIVE INC	/h1b-sponsors/bunch-live-inc-g06695vm0q	PM
+1	TEXPERTS INC	/h1b-sponsors/texperts-inc-vx23lv8g2g	PM
+1	PRIMITIVE BITS INC	/h1b-sponsors/primitive-bits-inc-30qjzvx8kq	PM
+1	ARROWHEAD SYSTEMS LLC	/h1b-sponsors/arrowhead-systems-llc-g27r3epg05	PM
+1	GESTAMP ALABAMA LLC	/h1b-sponsors/gestamp-alabama-llc-nokpo3gy24	PM
+1	TALENTED APP INC	/h1b-sponsors/talented-app-inc-g27rwgmm05	PM
+1	INSTANTALIGN INC	/h1b-sponsors/instantalign-inc-l0yv937p0x	PM
+1	ASAPP INC	/h1b-sponsors/asapp-inc-101zyrzv27	PM
+1	LEVI STRAUSS & CO	/h1b-sponsors/levi-strauss-and-co-4l0y5y6v2x	PM
+1	LOTUSFLARE INC	/h1b-sponsors/lotusflare-inc-dvk446yykw	PM
+1	SMEG USA INC	/h1b-sponsors/smeg-usa-inc-150n5r310g	PM
+1	SCHWEITZER ENGINEERING LABORATORIES INC	/h1b-sponsors/schweitzer-engineering-laboratories-inc-v82w16zo01	PM
+1	THE CHAMBERLAIN GROUP LLC	/h1b-sponsors/the-chamberlain-group-llc-d0g9o4x7ko	PM
+1	OKG USA TECHNOLOGY INC	/h1b-sponsors/okg-usa-technology-inc-9k5nvxr9k1	PM
+1	VERKADA INC	/h1b-sponsors/verkada-inc-101zx6pp27	PM
+1	T MOBILE USA INC	/h1b-sponsors/t-mobile-usa-inc-okprrrn124	PM
+1	PLAYSTUDIOS US LLC	/h1b-sponsors/playstudios-us-llc-50nrq6qr2g	PM
+1	CLOUDERA INC	/h1b-sponsors/cloudera-inc-g2r6wmp92l	PM
+1	NCLOUD IT RESOURSES LLC	/h1b-sponsors/ncloud-it-resourses-llc-70ojv4jq2z	PM
+1	HELLOPRIVACY LLC	/h1b-sponsors/helloprivacy-llc-1k9n654q2m	PM
+1	APPFOLIO INC	/h1b-sponsors/appfolio-inc-p0l49qox2l	PM
+1	FUCHS LUBRICANTS CO	/h1b-sponsors/fuchs-lubricants-co-d1k9rlzvkm	PM
+1	ADVANCED CELL DIAGNOSTICS INC	/h1b-sponsors/advanced-cell-diagnostics-inc-pg27dqmp25	PM
+1	FOURSQUARE LABS INC	/h1b-sponsors/foursquare-labs-inc-510jgvml0v	PM
+1	AUTODESK INC	/h1b-sponsors/autodesk-inc-vx23xvpx2g	PM
+1	PALO ALTO NETWORKS INC	/h1b-sponsors/palo-alto-networks-inc-ok85j55okd	PM
+1	RXSENSE HOLDINGS LLC	/h1b-sponsors/rxsense-holdings-llc-30q46ggzkq	PM
+1	AKQA INC	/h1b-sponsors/akqa-inc-60d9wpvdk8	PM
+1	CIPHERQORE SOLUTIONS INC	/h1b-sponsors/cipherqore-solutions-inc-x30qmgdrkq	PM
+1	EMPOWER FINANCE INC	/h1b-sponsors/empower-finance-inc-l9k5v9dd21	PM
+1	DYDX TRADING INC	/h1b-sponsors/dydx-trading-inc-60d9xoxxk8	PM
+1	QUINSTREET INC	/h1b-sponsors/quinstreet-inc-rd0g4v3v0o	PM
+1	PACVUE CORPORATION	/h1b-sponsors/pacvue-corporation-g066x5xq0q	PM
+1	GROUPON INC	/h1b-sponsors/groupon-inc-n60eml99kz	PM
+1	COLLAB CA LLC	/h1b-sponsors/collab-ca-llc-70oj4vpr2z	PM
+1	FIGURE TECHNOLOGIES INC	/h1b-sponsors/figure-technologies-inc-82wrvzedk1	PM
+1	OMNICELL INC	/h1b-sponsors/omnicell-inc-p1kz5984km	PM
+1	QUADRANT RESOURCE LLC	/h1b-sponsors/quadrant-resource-llc-n60epj5rkz	PM
+1	FRESH2 TECHNOLOGY INC	/h1b-sponsors/fresh2-technology-inc-x237mylqkg	PM
+1	HP INC	/h1b-sponsors/hp-inc-4l0y7r860x	PM
+1	ILOGIC INC	/h1b-sponsors/ilogic-inc-v82w5r7x21	PM
+1	CHARTBEAT INC	/h1b-sponsors/chartbeat-inc-v82wq6o421	PM
+1	BOSCH THERMOTECHNOLOGY CORPORATION	/h1b-sponsors/bosch-thermotechnology-corporation-l9k5d9p621	PM
+1	KYOTOCOOLING NORTH AMERICA LLC	/h1b-sponsors/kyotocooling-north-america-llc-560d48ex08	PM
+1	INTERNATIONAL SOLUTION SOURCES INC	/h1b-sponsors/international-solution-sources-inc-r0v6gve3k1	PM
+1	RED HIBBERT GROUP LLC	/h1b-sponsors/red-hibbert-group-llc-30q44vw8kq	PM
+1	SUPPLYPIKE INC	/h1b-sponsors/supplypike-inc-g0669xg10q	PM
+1	R1 RCM HOLDCO INC	/h1b-sponsors/r1-rcm-holdco-inc-9k5n4n79k1	PM
+1	OPENWAVE COMPUTING LLC	/h1b-sponsors/openwave-computing-llc-1ok88nzwkd	PM
+1	COMPLIVORKS LLC	/h1b-sponsors/complivorks-llc-r0v6n9dgk1	PM
+1	MILLENNIUM SOFTWARE INC	/h1b-sponsors/millennium-software-inc-n60e8rr10z	PM
+1	MASONITE CORPORATION	/h1b-sponsors/masonite-corporation-nokpmo81k4	PM
+1	CURO FINANCIAL TECHNOLOGIES	/h1b-sponsors/curo-financial-technologies-l0yv9pmv0x	PM
+1	RISE HEALTHCARE TECH INC	/h1b-sponsors/rise-healthcare-tech-inc-d0g9j4r7ko	PM
+1	APPLIED DATA FINANCE LLC	/h1b-sponsors/applied-data-finance-llc-p0l43l8x2l	PM
+1	DEERE AND COMPANY	/h1b-sponsors/deere-and-company-30q4j7wzkq	PM
+1	PUTNAM US HOLDINGS I LLC	/h1b-sponsors/putnam-us-holdings-i-llc-p0l497yl2l	PM
+1	DGDG MANAGEMENT LLC	/h1b-sponsors/dgdg-management-llc-p0l4177z2l	PM
+1	AUTOGRID SYSTEMS INC	/h1b-sponsors/autogrid-systems-inc-nokp6z7124	PM
+1	ANRITSU COMPANY	/h1b-sponsors/anritsu-company-6g06e5ymkq	PM
+1	UIPATH INC	/h1b-sponsors/uipath-inc-em2ml64019	PM
+1	COMMERCE FABRIC INC	/h1b-sponsors/commerce-fabric-inc-9k5n9je8k1	PM
+1	MEDTRONIC INC	/h1b-sponsors/medtronic-inc-em2my8o921	PM
+1	FBM PRIMES INC	/h1b-sponsors/fbm-primes-inc-l0yvqlwp0x	PM
+1	MONDEE INC	/h1b-sponsors/mondee-inc-5g2r9ll82l	PM
+1	AARKI LLC	/h1b-sponsors/aarki-llc-30q4o8y1kq	PM
+1	AUTO MOTIVE POWER INC	/h1b-sponsors/auto-motive-power-inc-d0g9dnvvko	PM
+1	INVESTCLOUD INC	/h1b-sponsors/investcloud-inc-8r0vr4lqk1	PM
+1	BEACON HILL STAFFING GROUP LLC	/h1b-sponsors/beacon-hill-staffing-group-llc-d0g9nwj7ko	PM
+1	BLOOMBERG LP	/h1b-sponsors/bloomberg-lp-g101g5ov07	PM
+1	GALILEO FINANCIAL TECHNOLOGIES	/h1b-sponsors/galileo-financial-technologies-w2xp74ork3	PM
+1	VROOM INC	/h1b-sponsors/vroom-inc-1kznvylykm	PM
+1	EPSILON DATA MANAGEMENT LLC	/h1b-sponsors/epsilon-data-management-llc-370onp1rkz	PM
+1	MULBERRY TECHNOLOGY INC	/h1b-sponsors/mulberry-technology-inc-vk48loe60w	PM
+1	MOODYS ANALYTICS INC	/h1b-sponsors/moodys-analytics-inc-d1k9j5wv0m	PM
+1	FREUND VECTOR CORPORATION	/h1b-sponsors/freund-vector-corporation-l9k5y4w821	PM
+1	EDIFECS INC	/h1b-sponsors/edifecs-inc-em2mqe7k19	PM
+1	ETHYCA INC	/h1b-sponsors/ethyca-inc-r0v6793gk1	PM
+1	EPIC GAMES INC	/h1b-sponsors/epic-games-inc-4l0yq5pp2x	PM
+1	MICROSTRATEGY INC	/h1b-sponsors/microstrategy-inc-510jvj1l0v	PM
+1	INSURANCE SERVICES OFFICE INC	/h1b-sponsors/insurance-services-office-inc-em2m6w5019	PM
+1	TAKARA BIO USA INC	/h1b-sponsors/takara-bio-usa-inc-d0g9qq15ko	PM
+1	TRUSTED PATTERNS INC	/h1b-sponsors/trusted-patterns-inc-x30qlm712q	PM
+1	ALICAT SCIENTIFIC INC	/h1b-sponsors/alicat-scientific-inc-rd0ggrlw0o	PM
+1	PAYJOY INC	/h1b-sponsors/payjoy-inc-l9k5lg5601	PM
+1	ROBERT BOSCH LLC	/h1b-sponsors/robert-bosch-llc-nokppxmzk4	PM
+1	SKYDIO INC	/h1b-sponsors/skydio-inc-8r0vdle301	PM
+1	PILGRIMS PRIDE CORPORTATION	/h1b-sponsors/pilgrims-pride-corportation-g27rw77g05	PM
+1	AMERICOR FUNDING INC	/h1b-sponsors/americor-funding-inc-8r0vlvdvk1	PM
+1	HEATCRAFT REFRIGERATION PRODUCTS LLC	/h1b-sponsors/heatcraft-refrigeration-products-llc-em2md74921	PM
+1	KAURUM TECHNOLOGIES LLC	/h1b-sponsors/kaurum-technologies-llc-1kznnxm7km	PM
+1	TRINET USA INC	/h1b-sponsors/trinet-usa-inc-5g2r6vve2l	PM
+1	I2 IT SOLUTIONS INC	/h1b-sponsors/i2-it-solutions-inc-op0lrnp40l	PM
+1	DECCO US POST HARVEST	/h1b-sponsors/decco-us-post-harvest-r0v6yrvqk1	PM
+1	ARIAGATO INC	/h1b-sponsors/ariagato-inc-vk48ye8v0w	PM
+1	ISOFTSTONE INC	/h1b-sponsors/isoftstone-inc-vx23levx2g	PM
+1	CLEARCOVER INC	/h1b-sponsors/clearcover-inc-6g06wr1qkq	PM
+1	ENVIRONMENTAL SYSTEMS RESEARCH INSTITUTE INC	/h1b-sponsors/environmental-systems-research-institute-inc-4l0yljxpkx	PM
+1	LEAD IT CORPORATION	/h1b-sponsors/lead-it-corporation-9k5n87lrk1	PM
+1	NEW RELIC INC	/h1b-sponsors/new-relic-inc-em2m5mljk1	PM
+1	FATTAIL INC	/h1b-sponsors/fattail-inc-rd0gm6qw0o	PM
+1	CYBERSOURCE CORPORATION	/h1b-sponsors/cybersource-corporation-60d9wn7dk8	PM
+1	MISSION CLOUD SERVICES INC	/h1b-sponsors/mission-cloud-services-inc-60eqplvl0z	PM
+1	DISCORD INC	/h1b-sponsors/discord-inc-x30qqlq10q	PM
+1	ARM INC	/h1b-sponsors/arm-inc-d1k9586r2m	PM
+1	ENOVA FINANCIAL HOLDINGS	/h1b-sponsors/enova-financial-holdings-82wrd5wjk1	PM
+1	SOUTHERN GRAPHIC SYSTEMS LLC	/h1b-sponsors/southern-graphic-systems-llc-60d99j7ek8	PM
+1	NIUM INC	/h1b-sponsors/nium-inc-g066x4o10q	PM
+1	AVCO CONSULTING INC	/h1b-sponsors/avco-consulting-inc-n60eredr2z	PM
+1	KATAPULT GROUP INC	/h1b-sponsors/katapult-group-inc-10j7wepp0v	PM
+1	VERUNA INC	/h1b-sponsors/veruna-inc-101zrxjp27	PM
+1	TELESIGN CORPORATION	/h1b-sponsors/telesign-corporation-510j3pdekv	PM
+1	CLOUD SOFTWARE GROUP INC	/h1b-sponsors/cloud-software-group-inc-vk48yrjn0w	PM
+1	SAUCEY INC	/h1b-sponsors/saucey-inc-370oymry2z	PM
+1	NASUNI CORPORATION	/h1b-sponsors/nasuni-corporation-9k5n8x1rk1	PM
+1	BRIGHT MARKET LLC	/h1b-sponsors/bright-market-llc-60d9zxgpk8	PM
+1	LACEWORK INC	/h1b-sponsors/lacework-inc-8r0vrngqk1	PM
+1	FINICAST INC	/h1b-sponsors/finicast-inc-g27rwlgq05	PM
+1	CHEQ LIFESTYLE TECHNOLOGY INC	/h1b-sponsors/cheq-lifestyle-technology-inc-60eqwvvm0z	PM
+1	BLDAI	/h1b-sponsors/bldai-d0g95v8wko	PM
+1	CAMBRIDGE MOBILE TELEMATICS INC	/h1b-sponsors/cambridge-mobile-telematics-inc-rd0g4py0o1	PM
+1	INSTRUMENTATION LABORATORY COMPANY	/h1b-sponsors/instrumentation-laboratory-company-1ok83e9z0d	PM
+1	ADVANTIS GLOBAL INC	/h1b-sponsors/advantis-global-inc-op0lge5l2l	PM
+1	WATABOT INC	/h1b-sponsors/watabot-inc-30q4od6gkq	PM
+1	DAVITA INC	/h1b-sponsors/davita-inc-vx2369xg2g	PM
+1	NEXIENT LLC	/h1b-sponsors/nexient-llc-370orlpr0z	PM
+1	DATAROBOT INC	/h1b-sponsors/datarobot-inc-l9k5oqz801	PM
+1	ANYSCALE INC	/h1b-sponsors/anyscale-inc-70oj3gdq2z	PM
+1	EARLY WARNING SERVICES LLC	/h1b-sponsors/early-warning-services-llc-nokp33gy24	PM
+1	CONFLUENT INC	/h1b-sponsors/confluent-inc-dvk479gkwp	PM
+1	WHITE MOUNTAIN IMAGING INC	/h1b-sponsors/white-mountain-imaging-inc-1ok8gn9z2d	PM
+1	CLOUDFLARE INC	/h1b-sponsors/cloudflare-inc-1ok8ln550d	PM
+1	VINDICIA INC	/h1b-sponsors/vindicia-inc-rd0g3q5yko	PM
+1	PERK SYSTEMS INC	/h1b-sponsors/perk-systems-inc-rd0gp13y0o	PM
+1	CRUX INFORMATICS INC	/h1b-sponsors/crux-informatics-inc-r0v6wv7vk1	PM
+1	LASAI TECHNOLOGIES LLC	/h1b-sponsors/lasai-technologies-llc-d0g9d8lyko	PM
+1	SPECTRUM LABORATORY PRODUCTS INC	/h1b-sponsors/spectrum-laboratory-products-inc-g27r5l7g05	PM
+1	STAMPS.COM INC	/h1b-sponsors/stamps-dot-com-inc-pg27q1omk5	PM
+1	DOCUSIGN INC	/h1b-sponsors/docusign-inc-150n63wp2g	PM
+1	STRYDER CORPORATION	/h1b-sponsors/stryder-corporation-82wrmywxk1	PM
+1	REVSOLUTIONS LLC	/h1b-sponsors/revsolutions-llc-50nr8pee2g	PM
+1	SILLIKER INC	/h1b-sponsors/silliker-inc-rd0g5dx72o	PM
+1	WE WORK MANAGEMENT LLC	/h1b-sponsors/we-work-management-llc-em2m7jmd21	PM
+1	MERCARI INC	/h1b-sponsors/mercari-inc-dvk49jqv2w	PM
+1	ZONAR SYSTEMS INC	/h1b-sponsors/zonar-systems-inc-1ok84g452d	PM
+1	GRAMMARLY INC	/h1b-sponsors/grammarly-inc-g066pp7p0q	PM
+1	YORK INTERNATIONAL CORPORATION	/h1b-sponsors/york-international-corporation-nokp7461k4	PM
+1	EUCLID LABS INC	/h1b-sponsors/euclid-labs-inc-1k9n8qxr2m	PM
+1	SILVERXIS INC	/h1b-sponsors/silverxis-inc-op0l6vnx0l	PM
+1	GEEKPLUS AMERICA INC	/h1b-sponsors/geekplus-america-inc-60eqo3el0z	PM
+1	PREMIUM GUARD INC	/h1b-sponsors/premium-guard-inc-ew2xl8eq23	PM
+1	RISA TECH INC	/h1b-sponsors/risa-tech-inc-x30qpoerkq	PM
+1	RUGGABLE LLC	/h1b-sponsors/ruggable-llc-d1k93oyqkm	PM
+1	RECONSTRUCT INC	/h1b-sponsors/reconstruct-inc-p1kzwwnykm	PM
+1	BLUE YONDER INC	/h1b-sponsors/blue-yonder-inc-d0g9d8g7ko	PM
+1	POLL EVERYWHERE INC	/h1b-sponsors/poll-everywhere-inc-n60eo9xm2z	PM
+1	FIRST RATE INC	/h1b-sponsors/first-rate-inc-n60errzr2z	PM
+1	DIVINIA INC	/h1b-sponsors/divinia-inc-1kzn1q14km	PM
+1	SYMBIANCE INC	/h1b-sponsors/symbiance-inc-l9k5wye6k1	PM
+1	INDEED INC	/h1b-sponsors/indeed-inc-rd0g8ylv2o	PM
+1	EDISTO TECHNOLOGIES & CONSULTING LLC	/h1b-sponsors/edisto-technologies-and-consulting-llc-ok85qxlzkd	PM
+1	CENTIVO CORPORATION	/h1b-sponsors/centivo-corporation-r0v6rlz9k1	PM
+1	PROOFPOINT INC	/h1b-sponsors/proofpoint-inc-1ok8jwv32d	PM
+1	JEEVES INC	/h1b-sponsors/jeeves-inc-50nrj7792g	PM
+1	TOTAL SYSTEM SERVICES LLC	/h1b-sponsors/total-system-services-llc-1ok8voy52d	PM
+1	DATAVISOR INC	/h1b-sponsors/datavisor-inc-g101xqv6k7	PM
+1	MAGANTI IT RESOURCES LLC	/h1b-sponsors/maganti-it-resources-llc-rd0ggq7w0o	PM
+1	STATE STREET BANK AND TRUST COMPANY	/h1b-sponsors/state-street-bank-and-trust-company-ew2xn35r03	PM
+1	NXP USA INC	/h1b-sponsors/nxp-usa-inc-510j3welkv	PM
+1	SEISMIC SOFTWARE INC	/h1b-sponsors/seismic-software-inc-5g2rjqm8kl	PM
+1	ELEMENTREE INC	/h1b-sponsors/elementree-inc-50nrxjwr2g	PM
+1	HIYA INC	/h1b-sponsors/hiya-inc-150n3w3p2g	PM
+1	AFFIRM INC	/h1b-sponsors/affirm-inc-dvk494dn2w	PM
+1	LSPEDIA INC	/h1b-sponsors/lspedia-inc-g2r6rne92l	PM
+1	DISH NETWORK LLC	/h1b-sponsors/dish-network-llc-vx23jzw3kg	PM
+1	ATKORE INTERNATIONAL INC	/h1b-sponsors/atkore-international-inc-v82wqne421	PM
+1	UNIFIED TECH GROUP INC	/h1b-sponsors/unified-tech-group-inc-dvk4l6xn2w	PM
+1	MICRON SEMICONDUCTOR PRODUCTS INC	/h1b-sponsors/micron-semiconductor-products-inc-510jwq6e2v	PM
+1	F5 INC	/h1b-sponsors/f5-inc-82wrv13xk1	PM
+1	KEEPER TAX INC	/h1b-sponsors/keeper-tax-inc-60d9geqwk8	PM
+1	BREATHWRK INC	/h1b-sponsors/breathwrk-inc-p0l4zoql2l	PM
+1	GARTNER INC	/h1b-sponsors/gartner-inc-vx23j6mvkg	PM
+1	CREDIT KARMA LLC	/h1b-sponsors/credit-karma-llc-m2m6z5n701	PM
+1	TIS INTERNATIONAL USA INC	/h1b-sponsors/tis-international-usa-inc-560d8m7x28	PM
+1	LINE SCAPE LLC	/h1b-sponsors/line-scape-llc-m2mjn8wd21	PM
+1	CALIPER LIFE SCIENCES INC	/h1b-sponsors/caliper-life-sciences-inc-x237lz4vkg	PM
+1	ERP ANALYSTS INC	/h1b-sponsors/erp-analysts-inc-l9k5eryrk1	PM
+1	GOKEN AMERICA LLC	/h1b-sponsors/goken-america-llc-50nrzem92g	PM
+1	UNITEDLEX CORPORATION	/h1b-sponsors/unitedlex-corporation-1ok867jr0d	PM
+1	ROBINHOOD MARKETS INC	/h1b-sponsors/robinhood-markets-inc-em2m9rzj01	PM
+1	LUCID SOFTWARE INC	/h1b-sponsors/lucid-software-inc-g0666nmm0q	PM
+1	INTERPRO SOLUTIONS LLC	/h1b-sponsors/interpro-solutions-llc-370odpqy2z	PM
+1	NOKIA OF AMERICA CORPORATION	/h1b-sponsors/nokia-of-america-corporation-p0l4nd842l	PM
+1	GRATOR LLC	/h1b-sponsors/grator-llc-10j7wg9g0v	PM
+1	TRANSUNION LLC	/h1b-sponsors/transunion-llc-n60eoe8m2z	PM
+1	NEXTERA ENERGY PROJECT MANAGEMENT LLC	/h1b-sponsors/nextera-energy-project-management-llc-l0yvw3pv0x	PM
+1	VIGNITES LLC	/h1b-sponsors/vignites-llc-60d9nvqpk8	PM
+1	MULTI MEDIA LLC	/h1b-sponsors/multi-media-llc-vx23j3vxkg	PM
+1	ENGAGE3 INC	/h1b-sponsors/engage3-inc-82wr4lelk1	PM
+1	NICE SYSTEMS INC	/h1b-sponsors/nice-systems-inc-510j76950v	PM
+1	BOKU INC	/h1b-sponsors/boku-inc-op0lpn4z2l	PM
+1	APEX TOOL GROUP LLC	/h1b-sponsors/apex-tool-group-llc-m2m6gr3901	PM
+1	TESTGRID LABS INC	/h1b-sponsors/testgrid-labs-inc-1k9n5qp82m	PM
+1	JOHNSON CONTROLS INC	/h1b-sponsors/johnson-controls-inc-nokpw6jz04	PM
+1	QUOTIENT TECHNOLOGY INC	/h1b-sponsors/quotient-technology-inc-d1k957jv2m	PM
+1	DESIGNLIBRO INC	/h1b-sponsors/designlibro-inc-70oj756x2z	PM
+1	LIVE NATION WORLDWIDE INC	/h1b-sponsors/live-nation-worldwide-inc-op0l4ywj2l	PM
+1	APTIV CORPORATION	/h1b-sponsors/aptiv-corporation-1k9nxnmw2m	PM
+1	SERVIS ONE INC	/h1b-sponsors/servis-one-inc-r0v6glygk1	PM
+1	REFINITIV US LLC	/h1b-sponsors/refinitiv-us-llc-n60e8v5n0z	PM
+1	ESSENTRA PLASTICS LLC DBA ESSENTRA COMPONENTS	/h1b-sponsors/essentra-plastics-llc-dba-essentra-components-g066lrpq0q	PM
+1	DUOLINGO INC	/h1b-sponsors/duolingo-inc-vx23zdyg0g	PM
+1	ZIRLEN TECHNOLOGIES INC	/h1b-sponsors/zirlen-technologies-inc-4l0yj360xe	PM
+1	DIGITAL TURBINE INC	/h1b-sponsors/digital-turbine-inc-6g06766p2q	PM
+1	INDEPENDENCE PET GROUP INC	/h1b-sponsors/independence-pet-group-inc-60eqw1v90z	PM
+1	PREFERRED MATERIALS INC	/h1b-sponsors/preferred-materials-inc-10j76w4g0v	PM
+1	CAREMARK LLC	/h1b-sponsors/caremark-llc-p1kzw94km5	PM
+1	CONSTELLATION SOFTWARE INC	/h1b-sponsors/constellation-software-inc-p0l4pqvx2l	PM
+1	TAKEDA PHARMACEUTICALS USA INC	/h1b-sponsors/takeda-pharmaceuticals-usa-inc-d0g9935qko	PM
+1	TEMPO INTERACTIVE INC	/h1b-sponsors/tempo-interactive-inc-70oj1x3r2z	PM
+1	MASTERCARD INTERNATIONAL INCORPORATED	/h1b-sponsors/mastercard-international-incorporated-em2mrxz401	PM
+1	INMAR INC	/h1b-sponsors/inmar-inc-510j5we12v	PM
+1	SS&C TECHNOLOGIES INC	/h1b-sponsors/ss-and-c-technologies-inc-6g06wopkqw	PM
+1	FARADAY & FUTURE INC	/h1b-sponsors/faraday-and-future-inc-510je712vo	PM
+1	SCHNEIDER ELECTRIC USA INC	/h1b-sponsors/schneider-electric-usa-inc-rd0glj5wko	PM
+1	KUBRA ARIZONA INC	/h1b-sponsors/kubra-arizona-inc-g101zrr627	PM
+1	ZIGNEX INC	/h1b-sponsors/zignex-inc-l0yvnx4p0x	PM
+1	SARKIT INC	/h1b-sponsors/sarkit-inc-p1kz7rm92m	PM
+1	HL ACQUISITION INC	/h1b-sponsors/hl-acquisition-inc-r0v6rp5vk1	PM
+1	1661 INC	/h1b-sponsors/1661-inc-60d91zedk8	PM
+1	RETAIL SERVICES AND SYSTEMS INC DBA TOTAL WINE & MORE	/h1b-sponsors/retail-services-and-systems-inc-dba-total-wine-and-more-5g2r3dje2l	PM
+1	PISTOS IT SERVICES LLC	/h1b-sponsors/pistos-it-services-llc-1k9n99ow2m	PM
+1	SMARTSOFT INTERNATIONAL INC	/h1b-sponsors/smartsoft-international-inc-d0g9mglvko	PM
+1	AUTOMOTUS INC	/h1b-sponsors/automotus-inc-okprg7xn24	PM
+1	FIRETRACE USA LLC	/h1b-sponsors/firetrace-usa-llc-70ojvz7x2z	PM
+1	BRANTA GROUP INC	/h1b-sponsors/branta-group-inc-ew2x4v9qk3	PM
+1	APEX FINTECH SERVICES LLC	/h1b-sponsors/apex-fintech-services-llc-ok859jg5kd	PM
+1	APPEN BUTLER HILL INC	/h1b-sponsors/appen-butler-hill-inc-1ok8jwy52d	PM
+1	AGE OF LEARNING INC	/h1b-sponsors/age-of-learning-inc-1ok8458w2d	PM
+1	CONCENTRIX CVG CUSTOMER MANAGEMENT GROUP INC	/h1b-sponsors/concentrix-cvg-customer-management-group-inc-9k5n9mo9k1	PM
+1	SMARTZ INC	/h1b-sponsors/smartz-inc-g06np9oykq	PM
+1	DAT SOLUTIONS LLC	/h1b-sponsors/dat-solutions-llc-rd0gjow50o	PM
+1	COHERE US INC	/h1b-sponsors/cohere-us-inc-w2xpodjyk3	PM
+1	BAM MANAGEMENT US HOLDINGS INC	/h1b-sponsors/bam-management-us-holdings-inc-g27r6owq05	PM
+1	TEKION CORP	/h1b-sponsors/tekion-corp-150nn7y10g	PM
+1	SEMICONDUCTOR COMPONENTS INDUSTRIES LLC	/h1b-sponsors/semiconductor-components-industries-llc-x30q86zz0q	PM
+1	PORSCHE DIGITAL INC	/h1b-sponsors/porsche-digital-inc-1kznw884km	PM
+1	A&B ENGINEERING SERVICES LLC	/h1b-sponsors/a-and-b-engineering-services-llc-w2xpww3rk3	PM
+1	SUNRISE MEDICAL US LLC	/h1b-sponsors/sunrise-medical-us-llc-rd0gony7ko	PM
+1	BOSCH SECURITY SYSTEMS LLC	/h1b-sponsors/bosch-security-systems-llc-82wreo4jk1	PM
+1	RELAY NETWORK LLC	/h1b-sponsors/relay-network-llc-l0yvv6mv0x	PM
+1	SYNTHESIS SCHOOL INC	/h1b-sponsors/synthesis-school-inc-1k9n5mrx2m	PM
+1	ARTERIOCYTE MEDICAL SYSTEMS INC	/h1b-sponsors/arteriocyte-medical-systems-inc-8r0vpn5v01	PM
+1	CLAIMS SERVICES GROUP LLC	/h1b-sponsors/claims-services-group-llc-op0lojrz0l	PM
+1	ALTIMATE INC	/h1b-sponsors/altimate-inc-1k9nonq82m	PM
+1	BLUECORE INC	/h1b-sponsors/bluecore-inc-30q4jyqzkq	PM
+1	COHESITY INC	/h1b-sponsors/cohesity-inc-rd0gw5z72o	PM
+1	PULSEPOINT INC	/h1b-sponsors/pulsepoint-inc-1ok8xze30d	PM
+1	GSS INFOTECH CT INC	/h1b-sponsors/gss-infotech-ct-inc-v82wq34215	PM
+1	SIMULMEDIA INC	/h1b-sponsors/simulmedia-inc-370oom3x0z	PM
+1	EVERQUOTE INC	/h1b-sponsors/everquote-inc-4l0yno8v2x	PM
+1	WARNER BROS HOME ENTERTAINMENT INC	/h1b-sponsors/warner-bros-home-entertainment-inc-g2r64jg62l	PM
+1	COTIVITI INC	/h1b-sponsors/cotiviti-inc-r0v65gv9k1	PM
+1	TYLER TECHNOLOGIES INC	/h1b-sponsors/tyler-technologies-inc-r0v653qqk1	PM
+1	VELOCITY GLOBAL LLC	/h1b-sponsors/velocity-global-llc-dvk4dz5vkw	PM
+1	KYTE SYSTEMS INC	/h1b-sponsors/kyte-systems-inc-ok85981wkd	PM
+1	BOBCATMINER INC	/h1b-sponsors/bobcatminer-inc-70ojzgxn2z	PM
+1	ADROITCO INC	/h1b-sponsors/adroitco-inc-n60ed48mkz	PM
+1	THE ROUTING COMPANY	/h1b-sponsors/the-routing-company-x237xy3xkg	PM
+1	FINMKT INC	/h1b-sponsors/finmkt-inc-6g06m6zq2q	PM
+1	BIGBATTERY INC	/h1b-sponsors/bigbattery-inc-30q4ovqzkq	PM
+1	LUCID USA INC	/h1b-sponsors/lucid-usa-inc-70oj1p3r2z	PM
+1	MATCH GROUP LLC	/h1b-sponsors/match-group-llc-nokp31dq24	PM
+1	PROGRITE SYSTEMS INC	/h1b-sponsors/progrite-systems-inc-50nr15r12g	PM
+1	ADVANCED MICRO DEVICES INC	/h1b-sponsors/advanced-micro-devices-inc-nokp3vjy24	PM
+1	CLOUD BI SOLUTIONS INC	/h1b-sponsors/cloud-bi-solutions-inc-g27r4l6q05	PM
+1	TYPEFACE INC	/h1b-sponsors/typeface-inc-1k9n5z382m	PM
+1	SOLIDIFI US INC	/h1b-sponsors/solidifi-us-inc-10jl9vr5kv	PM
+1	ALIGNMENT HEALTHCARE INC	/h1b-sponsors/alignment-healthcare-inc-60d9rjvwk8	PM
+1	SINCH AMERICA INC	/h1b-sponsors/sinch-america-inc-g27r5omg05	PM
+1	COMMISSION JUNCTION LLC	/h1b-sponsors/commission-junction-llc-1k9njd5r2m	PM
+1	MA LABORATORIES INC	/h1b-sponsors/ma-laboratories-inc-50nrd46p2g	PM
+1	FLYWIRE CORPORATION	/h1b-sponsors/flywire-corporation-d1k98gx82m	PM
+1	INTUILIZE INC	/h1b-sponsors/intuilize-inc-okprgv6124	PM
+1	CBRE INC	/h1b-sponsors/cbre-inc-g1016r3vk7	PM
+1	ALLSCRIPTS HEALTHCARE LLC	/h1b-sponsors/allscripts-healthcare-llc-x30q5m9r0q	PM
+1	MASTER INTERNATIONAL CORPORATION	/h1b-sponsors/master-international-corporation-8r0v9lxvk1	PM
+1	ALTRUIST CORPORATION	/h1b-sponsors/altruist-corporation-l0yvd1gq0x	PM
+1	PAYWARD INC	/h1b-sponsors/payward-inc-n60e6nnm2z	PM
+1	LUNDQUIST CONSULTING INC	/h1b-sponsors/lundquist-consulting-inc-l9k5rp3901	PM
+1	CONCENTRATED ACTIVE INGREDIENTS & FLAVORS INC	/h1b-sponsors/concentrated-active-ingredients-and-flavors-inc-l9k5lxmr01	PM
+1	LINX COMMUNICATION INC	/h1b-sponsors/linx-communication-inc-60eq67190z	PM
+1	BEACON PLATFORM INCORPORATED	/h1b-sponsors/beacon-platform-incorporated-n60emgvlkz	PM
+1	MUHAO USA INC	/h1b-sponsors/muhao-usa-inc-g2r6ewdo2l	PM
+1	ITSPURS INC	/h1b-sponsors/itspurs-inc-60d9rmz6k8	PM
+1	DUCK CREEK TECHNOLOGIES LLC	/h1b-sponsors/duck-creek-technologies-llc-v82we5ed21	PM
+1	YELP INC	/h1b-sponsors/yelp-inc-60eq9ngn0z	PM
+1	RESTAURANT BRANDS INTERNATIONAL	/h1b-sponsors/restaurant-brands-international-10j7gq7p0v	PM
+1	BETTER HOLDCO INC	/h1b-sponsors/better-holdco-inc-560dvrm608	PM
+1	LOGITECH INC	/h1b-sponsors/logitech-inc-nokp1jx9k4	PM
+1	AIR WORLDWIDE CORPORATION	/h1b-sponsors/air-worldwide-corporation-560dv97d08	PM
+1	FUTEK ADVANCED SENSOR TECHNOLOGY INC	/h1b-sponsors/futek-advanced-sensor-technology-inc-vx23v4lgkg	PM
+1	FOX NEWS NETWORK LLC	/h1b-sponsors/fox-news-network-llc-em2m4p3721	PM
+1	UDACITY INC	/h1b-sponsors/udacity-inc-v82wremdk1	PM
+1	INFORMATICA LLC	/h1b-sponsors/informatica-llc-vk485vd60w	PM
+1	TEKTRONIX INC	/h1b-sponsors/tektronix-inc-4l0yy6750x	PM
+1	ASCENSUS	/h1b-sponsors/ascensus-l9k5l5y901	PM
+1	MOSAIC BUILDING GROUP INC	/h1b-sponsors/mosaic-building-group-inc-101zyryp27	PM
