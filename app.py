@@ -128,8 +128,7 @@ elif user_option == "2":
     shutil.copy2('Final_Data/Sample/merged.parquet', 'Final_Data/Final/merged.parquet')
     shutil.copy2('Final_Data/Sample/h1_grader_data.tsv', 'Final_Data/Final/h1_grader_data.tsv')
     shutil.copy2('Final_Data/Sample/all_skills.tsv', 'Final_Data/Final/all_skills.tsv')
-    # TODO
-    # Copy (USA JOBS)
+    shutil.copy2('Final_Data/Sample/USA_JOBS.csv', 'Final_Data/Final/USA_JOBS.csv')
 
     sys.argv = ["streamlit", "run", "1_Career_Compass.py"]
 
@@ -142,9 +141,7 @@ else:
     shutil.copy2('Data/Indeed/Indeed_Data.parquet', 'Final_Data/Final/merged.parquet')
     shutil.copy2('Data/h1_grader_data.tsv', 'Final_Data/Final/h1_grader_data.tsv')
     shutil.copy2('Data/Indeed/all_skills.tsv', 'Final_Data/Final/all_skills.tsv')
-
-    # TODO
-    # Copy (USA JOBS)
+    shutil.copy2('Data/USA_Jobs_Data.csv.csv', 'Final_Data/Final/USA_JOBS.csv')
 
     sys.argv = ["streamlit", "run", "1_Career_Compass.py"]
     sys.exit(stcli.main())
