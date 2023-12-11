@@ -17,6 +17,7 @@ category_to_job = {
     'FEA': "FEA Engineer",
     'CE': "Civil Engineer"
 }
+
 st.set_page_config(layout="centered")
 st.title("📑 H1B Sponsorship Information")
 
