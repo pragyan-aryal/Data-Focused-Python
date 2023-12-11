@@ -6,7 +6,9 @@ streamlit~=1.27.2
 altair
 pandas~=1.5.3
 st_pages
+<<<<<<< HEAD
 plotly~=5.18.0
 DrissionPage~=4.0.0b14
 selenium~=4.15.2
+plotly
 wordcloud

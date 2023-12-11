@@ -27,13 +27,11 @@ filtered_df = df[(df['category_code'] == cat1_filter) &
 
 skills = filtered_df['Skill'].value_counts().nlargest(10)
 
-num_skills = st.slider('Number of Top Skills', 5, 10, 7)
-skills = filtered_df['Skill'].value_counts().nlargest(num_skills)
 fig = px.bar(skills, x=skills.index, y=skills.values, width=1400, height=600)
 
 fig.update_layout(
     title='Top Skills',
-    xaxis_title='Skill', 
+    xaxis_title=f'{cat3_filter}', 
     yaxis_title='Number of Occurrences in Job Descriptions'
 )
 st.write(fig)
