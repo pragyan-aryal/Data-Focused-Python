@@ -11,7 +11,7 @@ df = pd.read_parquet(r'Data/Indeed/Indeed_Data.parquet')
 salary_bins = [0, 75000, 100000, 125000, float('inf')]
 salary_labels = ['<75000', '75000-100000', '100000-125000', '125000 and above']
 
-# Streamlit app
+st.set_page_config(layout="centered")
 st.title('💵 Salary Distribution')
 
 col1, col2 = st.columns(2)
