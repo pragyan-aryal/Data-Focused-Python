@@ -7,3 +7,4 @@ altair
 pandas
 st_pages
 plotly
+wordcloud
