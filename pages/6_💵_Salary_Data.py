@@ -31,7 +31,6 @@ salary_counts = selected_data['Salary_Bin'].value_counts().sort_index()
 
 # Create donut chart using Plotly Express
 fig = px.pie(salary_counts, names=salary_counts.index, values=salary_counts.values,
-             hole=0.3, title=f'Salary Distribution for {selected_category} ({selected_experience_level} Level)',
              labels={'label': 'Salary Range', 'value': 'Count'})
 
 # Show the figure using Streamlit
