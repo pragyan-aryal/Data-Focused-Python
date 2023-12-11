@@ -4,6 +4,7 @@ import plotly.express as px
 
 st.set_page_config(layout="wide")
 st.title("💻 Top Skills Appearing in job descriptions")
+import matplotlib.pyplot as plt
 
 df = pd.read_csv(r'Data/Indeed/all_skills.tsv', sep='\t')
 
