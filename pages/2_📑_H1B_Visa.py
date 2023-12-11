@@ -1,6 +1,6 @@
 import streamlit as st
 import pandas as pd
-import matplotlib.pyplot as plt
+import plotly.express as px
 
 # Input File
 df = pd.read_csv('Final_Data/Final/h1_grader_data.tsv', sep='\t')
@@ -19,7 +19,7 @@ category_to_job = {
     'CE': "Civil Engineer"
 }
 
-st.set_page_config(layout="centered")
+st.set_page_config(layout="wide")
 st.title("📑 H1B Sponsorship Information")
 
 job_to_category = {v: k for k, v in category_to_job.items()}
@@ -27,23 +27,20 @@ job_to_category = {v: k for k, v in category_to_job.items()}
 categories_in_data = df['category_code'].unique()
 jobs_in_data = [category_to_job[x] for x in categories_in_data]
 
-# Let the user select a job title
-selected_job = st.selectbox("What is your desired job title?", options=jobs_in_data)
+col1, col2, col3 = st.columns(3)
 
-# Get the related category_code based on the selected job title
+with col2:
+    selected_job = st.selectbox("What is your desired job title?", options=jobs_in_data)
+
 selected_category = job_to_category[selected_job]
 
-# Filtering the dataframe based on chosen job title
 filtered_df = df[df['category_code'] == selected_category]
 
-# Get the top 10 sponsoring companies for the selected job title
 top_companies = filtered_df.groupby('employer_name')['count'].sum().nlargest(10)
 
-# Plotting the bar chart
-st.subheader(f'Top 10 Sponsoring Companies for {selected_job}')
-plt.figure(figsize=(10, 6))
-plt.bar(top_companies.index, top_companies.values, color='#d0d49c')
-plt.xticks(rotation=45, ha='right')
-plt.xlabel('Company')
-plt.ylabel('Visa Count')
-st.pyplot(plt)
+st.subheader(f'Top 10 Sponsoring Companies for {selected_job} Position')
+fig = px.bar(top_companies, x=top_companies.index, y=top_companies.values, 
+             labels={'x':'Company', 'y':'Visa Count'}, width=1400, height=800)
+fig.update_layout(xaxis_tickangle=45)
+
+st.plotly_chart(fig)

@@ -33,12 +33,10 @@ with col1:
       selected_job = st.selectbox( "What is your desired job title?", options=job_options)
 
 with col2:
-      plot_type = st.selectbox("Select plot type", ["Scatterplot", "Heatmap"])
+      plot_type = st.selectbox("Select plot type", ["Heatmap","Scatterplot"])
 
-# Get the related category_code based on the selected job title
 selected_category = job_to_category[selected_job]
 
-# Filtering the dataframe based on chosen job title
 filtered_df = df[df['Category'] == selected_category]
 
 if plot_type == "Scatterplot":
@@ -48,6 +46,7 @@ if plot_type == "Scatterplot":
                             color_continuous_scale=["red", "darkred"],
                             mapbox_style = 'open-street-map')
     fig.update_traces(marker=dict(color='red', size=10))
+    fig.update_layout(showlegend=False)
 
 else:
     fig = px.density_mapbox(filtered_df, lat = 'latitude', lon = 'longitude',

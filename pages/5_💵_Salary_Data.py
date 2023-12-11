@@ -23,11 +23,9 @@ category_to_job = {
     'CE': "Civil Engineer"
 }
 
-# Get list of categories in the data
 categories_in_data = df['Category'].unique()
 
-# Filter dictionary to only include relevant categories  
-relevant_jobs = {k: v for k, v in category_to_job.items() if k in categories_in_data}
+ relevant_jobs = {k: v for k, v in category_to_job.items() if k in categories_in_data}
 
 st.set_page_config(layout="centered")
 st.title('💵 Salary Distribution')
@@ -40,18 +38,14 @@ with col1:
 with col2:
       selected_experience_level = st.selectbox('Select Experience Level', df['Experience_Level'].unique())
 
-# Filter data based on selected category and experience level
 selected_data = df[df['Category'] == 
                    next(key for key, value in category_to_job.items() 
                         if value==selected_category)]
 
-# Create salary bins and count the occurrences in each bin
 selected_data['Salary_Bin'] = pd.cut(selected_data['MaxSalary'], bins=salary_bins, labels=salary_labels, right=False)
 salary_counts = selected_data['Salary_Bin'].value_counts().sort_index()
 
-# Create donut chart using Plotly Express
 fig = px.pie(salary_counts, names=salary_counts.index, values=salary_counts.values,
              labels={'label': 'Salary Range', 'value': 'Count'})
 
-# Show the figure using Streamlit
 st.plotly_chart(fig)
