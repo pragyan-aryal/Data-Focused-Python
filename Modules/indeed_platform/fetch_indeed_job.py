@@ -13,6 +13,8 @@ locale = "United+States"
 def fetch_job(jd_=j_, expl_lvl=expl, location=locale, sample="All"):
     page = ChromiumPage()
 
+    print('\n')
+
     for j_, co in jd_:
         start = 0
         pagination_url = "https://www.indeed.com/jobs?q={}&l={}&sc={}&start={}&from=searchOnHP&filter=0&sort=date"

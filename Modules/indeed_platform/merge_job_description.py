@@ -2,6 +2,8 @@ import pandas as pd
 
 
 def merge_data_description(codes, sample="All"):
+    print('\n Currently merging the job details and description')
+
     for code in codes:
         data_1 = 'Final_Data/' + sample + '/' + code + '.tsv'
         data_2 = 'Final_Data/' + sample + '/' + code + '_desc.tsv'

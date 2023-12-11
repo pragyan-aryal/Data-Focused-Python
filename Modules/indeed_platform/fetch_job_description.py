@@ -9,6 +9,8 @@ def fetch_description(codes, sample="All"):
 
     page = ChromiumPage()
 
+    print('\n')
+
     for code in codes:
         records = pd.read_csv('Final_Data/' + sample + "/" + code + ".tsv", sep="\t")
 

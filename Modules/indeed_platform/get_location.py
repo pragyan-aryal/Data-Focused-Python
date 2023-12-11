@@ -8,6 +8,8 @@ import numpy as np
 
 def get_clean_location(sample="All"):
 
+    print('\n Currently parsing the location and getting geo location for each job')
+
     df = pd.read_parquet('Final_Data/' + sample + '/' + 'merged.parquet')
 
     pat_1 = r"^Remote .*$"
@@ -58,8 +60,13 @@ def fetch_geo_loc(sample="All"):
         try:
             address[record] = r['data'][0]
         except:
-            address[record] = 'NA'
-        time.sleep(0.3)
+            try:
+                response = requests.get(location_url.format(record))
+                r = json.loads(response.text)
+                address[record] = r['data'][0]
+            except:
+                address[record] = 'NA'
+        time.sleep(0.7)
 
     with open('Final_Data/' + sample + '/location.tsv', 'w') as file:
         file.write('location' + '\t' + 'values' + '\n')
@@ -79,15 +86,23 @@ def merge_location(sample="All"):
     region_code = []
 
     for v in add_df["values"]:
-        val = eval(v)
-        latitude.append(val["latitude"])
-        longitude.append(val["longitude"])
-        region.append(val["region"])
-        county.append(val["county"])
-        locality.append(val["locality"])
-        country_code.append(val['country_code'])
-        region_code.append(val['region_code'])
-
+        if str(v) != 'nan' and str(v) != 'NA':
+            val = eval(v)
+            latitude.append(val["latitude"])
+            longitude.append(val["longitude"])
+            region.append(val["region"])
+            county.append(val["county"])
+            locality.append(val["locality"])
+            country_code.append(val['country_code'])
+            region_code.append(val['region_code'])
+        else:
+            latitude.append(None)
+            longitude.append(None)
+            region.append(None)
+            county.append(None)
+            locality.append(None)
+            country_code.append(None)
+            region_code.append(None)
 
     add_df["latitude"] = latitude
     add_df["longitude"] = longitude

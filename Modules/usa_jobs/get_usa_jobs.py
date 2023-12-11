@@ -130,9 +130,8 @@ def get_jobs(sample="All"):
             soup = BeautifulSoup(response.text, 'html.parser')
 
             for title in job_titles:
-                print(title + " started")
+                print("\n" + title + " started")
                 max_pages = page_search_driver(title)
-                print(str(max_pages) + " pages found")
 
                 if sample == "Sample":
                     max_pages = 4
@@ -160,4 +159,5 @@ def get_jobs(sample="All"):
         "Software Engineer"
     ]
 
+    print('\n Currently Fetching the Jobs from USA-JOBS')
     scrape_usajobs(job_titles, sample)

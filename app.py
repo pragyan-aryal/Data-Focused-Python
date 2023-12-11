@@ -1,4 +1,7 @@
 import sys
+import os
+import glob
+import shutil
 
 from Modules.indeed_platform import fetch_indeed_job
 from Modules.indeed_platform import merge_jobs
@@ -7,6 +10,7 @@ from Modules.indeed_platform import merge_job_description
 from Modules.indeed_platform import merge_data
 from Modules.indeed_platform import get_location
 from Modules.indeed_platform import salary
+from Modules.indeed_platform import extract_skills
 
 from Modules.h1b import get_h1b
 
@@ -87,6 +91,14 @@ elif user_option == "2":
 
     jo = j_oc[j_.index(job)]
 
+    files = glob.glob('Final_Data/Sample/*')
+    for f in files:
+        os.remove(f)
+
+    files = glob.glob('Final_Data/Final/*')
+    for f in files:
+        os.remove(f)
+
     fetch_indeed_job.fetch_job([(job, jo)], exp, sample="Sample")
 
     merge_jobs.merge_job([jo], "Sample")
@@ -105,15 +117,34 @@ elif user_option == "2":
 
     salary.clean_salary(sample="Sample")
 
+    extract_skills.extract_skills(sample="Sample")
+
     get_h1b.h1b_scrape([(job, jo)], sample="Sample")
 
     get_usa_jobs.get_jobs(sample="Sample")
 
     combine_data.combine_data(sample="Sample")
 
+    shutil.copy2('Final_Data/Sample/merged.parquet', 'Final_Data/Final/merged.parquet')
+    shutil.copy2('Final_Data/Sample/h1_grader_data.tsv', 'Final_Data/Final/h1_grader_data.tsv')
+    shutil.copy2('Final_Data/Sample/all_skills.tsv', 'Final_Data/Final/all_skills.tsv')
+    # TODO
+    # Copy (USA JOBS)
+
     sys.argv = ["streamlit", "run", "1_Career_Compass.py"]
 
     sys.exit(stcli.main())
 else:
+    files = glob.glob('Final_Data/Final/*')
+    for f in files:
+        os.remove(f)
+
+    shutil.copy2('Data/Indeed/Indeed_Data.parquet', 'Final_Data/Final/merged.parquet')
+    shutil.copy2('Data/h1_grader_data.tsv', 'Final_Data/Final/h1_grader_data.tsv')
+    shutil.copy2('Data/Indeed/all_skills.tsv', 'Final_Data/Final/all_skills.tsv')
+
+    # TODO
+    # Copy (USA JOBS)
+
     sys.argv = ["streamlit", "run", "1_Career_Compass.py"]
     sys.exit(stcli.main())
