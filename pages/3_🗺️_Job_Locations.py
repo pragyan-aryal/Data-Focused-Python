@@ -2,9 +2,11 @@ import streamlit as st
 import pandas as pd
 import plotly.express as px
 
+# Input File
 df = pd.read_parquet('Final_Data/Final/merged.parquet')
 df = df.loc[df['country_code'] == 'USA']
 
+job_categories = df['Category'].unique()
 category_to_job = {
     'SE': "Software Engineer",
     'DA': "Data Analyst",
@@ -17,15 +19,18 @@ category_to_job = {
     'FEA': "FEA Engineer",
     'CE': "Civil Engineer"
 }
+job_to_category = {v: k for k, v in category_to_job.items()}
+
+job_options = [category_to_job[c] for c in job_categories if c in category_to_job]
+
 st.set_page_config(layout="wide")
 st.title("🗺️ Job Locations")
 
-job_to_category = {v: k for k, v in category_to_job.items()}
 
 col1, col2 = st.columns(2)
 
 with col1:
-      selected_job = st.selectbox("What is your desired job title?", options=list(category_to_job.values()))
+      selected_job = st.selectbox( "What is your desired job title?", options=job_options)
 
 with col2:
       plot_type = st.selectbox("Select plot type", ["Scatterplot", "Heatmap"])

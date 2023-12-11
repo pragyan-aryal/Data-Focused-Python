@@ -1,15 +1,33 @@
 import streamlit as st
 import pandas as pd
 import plotly.express as px
-import re  # Import the 're' module for regular expressions
+import re
 
-# Read a Parquet file
+# Input File
 df = pd.read_parquet('Final_Data/Final/merged.parquet')
-# Now 'df' is a DataFrame containing the data from the Parquet file
 
-# Define salary bins
+# salary bins
 salary_bins = [0, 75000, 100000, 125000, float('inf')]
 salary_labels = ['<75000', '75000-100000', '100000-125000', '125000 and above']
+
+category_to_job = {
+    'SE': "Software Engineer",
+    'DA': "Data Analyst",
+    'PM': "Product Manager",
+    'PJM': "Project Manager",
+    'BA': "Business Analyst",
+    'DE': "Data Engineer",
+    'ME': "Mechanical Engineer",
+    'CAE': "CAE Engineer",
+    'FEA': "FEA Engineer",
+    'CE': "Civil Engineer"
+}
+
+# Get list of categories in the data
+categories_in_data = df['Category'].unique()
+
+# Filter dictionary to only include relevant categories  
+relevant_jobs = {k: v for k, v in category_to_job.items() if k in categories_in_data}
 
 st.set_page_config(layout="centered")
 st.title('💵 Salary Distribution')
@@ -17,13 +35,15 @@ st.title('💵 Salary Distribution')
 col1, col2 = st.columns(2)
 
 with col1:
-      selected_category = st.selectbox('Select Category', df['Category'].unique())
+      selected_category = st.selectbox('Select Category', relevant_jobs.values())
 
 with col2:
       selected_experience_level = st.selectbox('Select Experience Level', df['Experience_Level'].unique())
 
 # Filter data based on selected category and experience level
-selected_data = df[(df['Category'] == selected_category) & (df['Experience_Level'] == selected_experience_level)]
+selected_data = df[df['Category'] == 
+                   next(key for key, value in category_to_job.items() 
+                        if value==selected_category)]
 
 # Create salary bins and count the occurrences in each bin
 selected_data['Salary_Bin'] = pd.cut(selected_data['MaxSalary'], bins=salary_bins, labels=salary_labels, right=False)

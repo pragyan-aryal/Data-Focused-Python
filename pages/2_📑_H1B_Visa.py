@@ -2,6 +2,7 @@ import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
 
+# Input File
 df = pd.read_csv('Final_Data/Final/h1_grader_data.tsv', sep='\t')
 df = df.drop('category_code.1', axis=1)
 
@@ -23,8 +24,11 @@ st.title("📑 H1B Sponsorship Information")
 
 job_to_category = {v: k for k, v in category_to_job.items()}
 
+categories_in_data = df['category_code'].unique()
+jobs_in_data = [category_to_job[x] for x in categories_in_data]
+
 # Let the user select a job title
-selected_job = st.selectbox("What is your desired job title?", options=list(category_to_job.values()))
+selected_job = st.selectbox("What is your desired job title?", options=jobs_in_data)
 
 # Get the related category_code based on the selected job title
 selected_category = job_to_category[selected_job]
