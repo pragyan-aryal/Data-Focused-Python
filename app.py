@@ -10,7 +10,7 @@ from Modules.indeed_platform import salary
 
 from Modules.h1b import get_h1b
 
-from Modules.usa_jobs import get_usa_jobs
+from Modules.usa_jobs import get_usa_jobs, combine_data
 
 from streamlit.web import cli as stcli
 
@@ -108,6 +108,8 @@ elif user_option == "2":
     get_h1b.h1b_scrape([(job, jo)], sample="Sample")
 
     get_usa_jobs.get_jobs(sample="Sample")
+
+    combine_data.combine_data(sample="Sample")
 
     sys.argv = ["streamlit", "run", "1_Career_Compass.py"]
 
