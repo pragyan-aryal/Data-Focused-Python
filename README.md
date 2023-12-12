@@ -6,7 +6,7 @@ This application currrently uses websites such as Indeed, USAJobs, H1BGrader, an
 
 1. First ensure that these packages are installed for smooth running of the application.
 
-numpy, requests~=2.31.0, beautifulsoup4~=4.12.0, matplotlib~=3.7.1, streamlit~=1.27.2, altair, pandas~=1.5.3, st_pages, plotly~=5.18.0, DrissionPage~=4.0.0b14, selenium~=4.15.2, plotly, wordcloud
+numpy, requests = 2.31.0, beautifulsoup4 = 4.12.0, matplotlib = 3.7.1, streamlit = 1.27.2, altair, pandas = 1.5.3, st_pages, plotly = 5.18.0, DrissionPage = 4.0.0b14, selenium = 4.15.2, plotly, wordcloud
 
 ```
 pip install -r requirements.txt
