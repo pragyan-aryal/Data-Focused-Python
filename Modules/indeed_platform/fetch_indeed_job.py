@@ -173,4 +173,4 @@ def fetch_job(jd_=j_, expl_lvl=expl, location=locale, sample="All"):
 
             start = 0
 
-    page.quit()
+    page.close_tabs()

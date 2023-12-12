@@ -79,4 +79,4 @@ def fetch_description(codes, sample="All"):
                 )
         outfile.close()
 
-    page.quit()
+    page.close_tabs()
