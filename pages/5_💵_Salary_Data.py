@@ -25,7 +25,7 @@ category_to_job = {
 
 categories_in_data = df['Category'].unique()
 
- relevant_jobs = {k: v for k, v in category_to_job.items() if k in categories_in_data}
+relevant_jobs = {k: v for k, v in category_to_job.items() if k in categories_in_data}
 
 st.set_page_config(layout="centered")
 st.title('💵 Salary Distribution')
