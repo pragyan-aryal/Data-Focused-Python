@@ -38,11 +38,18 @@ with col1:
 with col2:
       selected_experience_level = st.selectbox('Select Experience Level', df['Experience_Level'].unique())
 
-selected_data = df[df['Category'] == 
-                   next(key for key, value in category_to_job.items() 
-                        if value==selected_category)]
+category = ""
+
+for key, value in category_to_job.items():
+    if value == selected_category:
+        category = key
+        break
+
+
+selected_data = df.loc[(df['Category'] == category) & (df['Experience_Level'] == selected_experience_level)]
 
 selected_data['Salary_Bin'] = pd.cut(selected_data['MaxSalary'], bins=salary_bins, labels=salary_labels, right=False)
+
 salary_counts = selected_data['Salary_Bin'].value_counts().sort_index()
 
 fig = px.pie(salary_counts, names=salary_counts.index, values=salary_counts.values,
