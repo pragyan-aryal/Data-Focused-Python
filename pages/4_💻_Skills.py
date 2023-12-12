@@ -41,19 +41,24 @@ filtered_df = df[(df['category_code'] == job_code) &
                 (df['job_level'] == cat2_filter) &
                 (df['skill_type'] == cat3_filter)]
 
-skills = filtered_df['Skill'].value_counts().nlargest(10)
 
-fig = px.bar(skills, x=skills.index, y=skills.values, width=1400, height=600)
+if len(filtered_df) > 0:
+    skills = filtered_df["Skill"].value_counts().nlargest(10)
 
-fig.update_layout(
-    title='Top Skills',
-    xaxis_title=f'{cat3_filter}', 
-    yaxis_title='Number of Occurrences in Job Descriptions'
-)
-st.write(fig)
+    fig = px.bar(skills, x=skills.index, y=skills.values, width=1400, height=600)
 
-from wordcloud import WordCloud
-text = " ".join(skills.index) 
-wc = WordCloud(width=1400, height=600).generate(text)
-st.image(wc.to_array())
+    fig.update_layout(
+        title="Top Skills",
+        xaxis_title=f"{cat3_filter}",
+        yaxis_title="Number of Occurrences in Job Descriptions",
+    )
+    st.write(fig)
+
+    from wordcloud import WordCloud
+
+    text = " ".join(skills.index)
+    wc = WordCloud(width=1400, height=600).generate(text)
+    st.image(wc.to_array())
+else:
+    st.text("No Data Available for this combination")
 
