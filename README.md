@@ -1,7 +1,6 @@
 # CareerCompass
 CareerCompass is a Python-based innovative application designed to empower job seekers with detailed insights on job skills, salary, sponsorship, and opportunities.  
-This application currrently uses websites such as Indeed, USAJobs, H1BGrader, and PositionStack
-.
+This application currrently uses websites such as Indeed, USAJobs, H1BGrader, and PositionStack.
 
 ## Installation
 
@@ -44,6 +43,8 @@ Using streamlit, an interactive dashboard is made for customers to
 - Identify number of companies offering H1B sponsorships
 - Explore salary dynamics for various job titles
 - Understand evolving job and location trends.
+
+Please visit- https://career-compass.streamlit.app/ to interact with CareerCompass.
 
 ## Working 
 Indeed and USAjobs are the primary websites from which data has been scraped. Additionally, H1B grader and PositionStack(GeoLocations) websites are used for API response.
